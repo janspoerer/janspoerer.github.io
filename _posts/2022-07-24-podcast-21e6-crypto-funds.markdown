@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "Podcast on Crypto Funds"
 date: 2022-07-24
 categories: 21e6
