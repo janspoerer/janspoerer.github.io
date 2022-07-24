@@ -10,7 +10,8 @@ secondbrain_inprogress: "/assets/images/Writing the Post on Second Brain.png"
 
 # Second Brain/Zettelkasten
 
-![Jan Spörer's Second Brain Visualized in a Graph]({{ page.image }})
+![Jan Spörer's Second Brain Visualized by Obsidian's "Graph View"]({{ page.image }})
+<sup>Jan Spörer's second brain visualized by Obsidian's "Graph View."</sup>
 
 ## Basic Idea
 The second brain concept was first brought to my attention by [productivity book](https://www.ultraproductive.net){:target="_blank"} author [[Dr. Christian Poensgen]]. 
