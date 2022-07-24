@@ -71,6 +71,7 @@ This is the [chair's website](https://ics.unisg.ch/chair-ds-nlp-handschuh/).
 
 ### Other
 * [Goodreads](https://www.goodreads.com/user/show/64425508-jan-sp-rer)
+* [Influencer by DNA](https://philippsandner.medium.com/call-for-applications-for-influencer-by-dna-a-6-week-mentoring-program-to-become-influencer-and-11af32faaccc)
 
 ## How to Get in Touch
 
