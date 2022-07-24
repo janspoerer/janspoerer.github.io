@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "Second Brain/Zettelkasten"
 date: 2022-07-24 (first version)
 permalink: /secondbrain/

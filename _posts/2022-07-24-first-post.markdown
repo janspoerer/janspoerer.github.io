@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  "Hello World!"
 date:   2022-07-24
 categories: announcement
