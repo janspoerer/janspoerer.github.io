@@ -8,6 +8,8 @@ secondbrain_image: "/assets/images/Folder Structure Second Brain.png"
 secondbrain_inprogress: "/assets/images/Writing the Post on Second Brain.png"
 ---
 
+# Second Brain/Zettelkasten
+
 ![Jan Spörer's Second Brain Visualized in a Graph]({{ page.image }})
 
 ## Basic Idea
