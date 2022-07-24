@@ -111,7 +111,7 @@ Also check the [NESSLABS newsletter](https://bit.ly/368Dr5y).
 
 [NESSLABS guide to Roam Research](https://nesslabs.com/roam-research-beginner-guide).
 
-A note on labels: **Do not use labels.** They are not necessary. if, after using a second brain for a year, you feel the need for labels, go ahead. 
+A note on labels: **Do not use labels.** They are not necessary. If, after using a second brain for a year, you feel the need for labels, go ahead. 
 
 ## Resources for Beginners
 
