@@ -13,7 +13,7 @@ secondbrain_inprogress: "/assets/images/Writing the Post on Second Brain.png"
 ![Jan Spörer's Second Brain Visualized in a Graph]({{ page.image }})
 
 ## Basic Idea
-The second brain concept was first brought to my attention by [productivity book](www.ultraproductive.net) author [[Dr. Christian Poensgen]]. 
+The second brain concept was first brought to my attention by [productivity book](https://www.ultraproductive.net){:target="_blank"} author [[Dr. Christian Poensgen]]. 
 
 While there are different flavors to using a second brain, the basic idea is to have atomic notes that are interconnected.
 
@@ -28,10 +28,10 @@ Throughout this post, you are seeing multiple `[[ ... ]]`-style annotations. Tho
 Obsidian is a great private Wiki, just that it performs quicker than any web-based Wiki page. Obsidian executes fully locally and feels like a breeze. The shortcuts in Obsidian make usage more productive and intuitive.
 
 Implementation options include:
-* [[Obsidian]] -> **Free, desktop-based**. No mobile version. Built-in sync costs money. But other automated sync options are available as well (Google Drive, `git`, and many others). https://obsidian.md/
-* [[Roam Research]] -> Paid subscription, **browser-based**. https://roamresearch.com/
-* [[Athens]] -> Free local version. Specialized on being a Wikipedia for startup **teams**. Thus emphasizes the idea of shared access. (Which would also be possible using multiple git-tracked repositories with Obsidian, each with different access permissions.) https://www.athensresearch.org/
-* [[RemNote]] -> Paid subscription. Ability to create flashcards. Available on **mobile devices**! https://www.remnote.com/notes
+* [Obsidian](https://obsidian.md/) -> **Free, desktop-based**. No mobile version. Built-in sync costs money. But other automated sync options are available as well (Google Drive, `git`, and many others).
+* [Roam Research](https://roamresearch.com/) -> Paid subscription, **browser-based**. 
+* [Athens](https://www.athensresearch.org/) -> Free local version. Specialized on being a Wikipedia for startup **teams**. Thus emphasizes the idea of shared access. (Which would also be possible using multiple git-tracked repositories with Obsidian, each with different access permissions.)
+* [RemNote](https://www.remnote.com/notes) -> Paid subscription. Ability to create flashcards. Available on **mobile devices**!
 * [[The Archive]] -> Out of completeness, I also wanted to mention The Archive here.
 
 ## More Advanced Concepts and Recommendations for More Advanced Structures
