@@ -29,10 +29,6 @@ I love writing with `LaTeX`.
 
 I can recommend using a second brain/Zettelkasten software to just about anybody. I'm using the free option [Obsidian](https://obsidian.md/).
 
-## How to Get in Touch
-
-Send me an invite on [LinkedIn](https://www.linkedin.com/in/janspoerer/) with a personalized note.
-
 ## Ph.D. Studies
 
 I'm working on a dissertation in the field of Natural Language Processing. 
@@ -61,3 +57,7 @@ I'm working on a dissertation in the field of Natural Language Processing.
 
 ### Other
 * [Goodreads](https://www.goodreads.com/user/show/64425508-jan-sp-rer)
+
+## How to Get in Touch
+
+Send me an invite on [LinkedIn](https://www.linkedin.com/in/janspoerer/) with a personalized note or send an email to jan.spoerer@whu.edu.

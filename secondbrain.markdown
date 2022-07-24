@@ -28,7 +28,7 @@ Throughout this post, you are seeing multiple `[[ ... ]]`-style annotations. Tho
 Obsidian is a great private Wiki, just that it performs quicker than any web-based Wiki page. Obsidian executes fully locally and feels like a breeze. The shortcuts in Obsidian make usage more productive and intuitive.
 
 Implementation options include:
-* [[Obsidian]] -> Free, desktop-based. No mobile version. Built-in sync costs money. But other automated sync options are available as well (Google Drive, `git`, and many others). https://obsidian.md/
+* [[Obsidian]] -> **Free, desktop-based**. No mobile version. Built-in sync costs money. But other automated sync options are available as well (Google Drive, `git`, and many others). https://obsidian.md/
 * [[Roam Research]] -> Paid subscription, **browser-based**. https://roamresearch.com/
 * [[Athens]] -> Free local version. Specialized on being a Wikipedia for startup **teams**. Thus emphasizes the idea of shared access. (Which would also be possible using multiple git-tracked repositories with Obsidian, each with different access permissions.) https://www.athensresearch.org/
 * [[RemNote]] -> Paid subscription. Ability to create flashcards. Available on **mobile devices**! https://www.remnote.com/notes
@@ -111,7 +111,7 @@ See a screenshot of me in action writing this post in `markdown` format directly
 
 ![Jan Spörer's Progress Writing the Blog Post]({{ page.secondbrain_inprogress }})
 
-And a screenshot of my file explorer, showing the `PARA` folder structure.
+And a screenshot of my file explorer showing the `PARA` folder structure.
 
 ![Jan Spörer's PARA Folder Structure]({{ page.secondbrain_image }})
 
