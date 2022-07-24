@@ -18,9 +18,13 @@ Besides that, I am a **Ph.D. student** in [natural language processing (NLP)](ht
 
 And last, I am involed with **[21e6 Capital AG](https://21e6.io/)**, an investment company for sophisticated, professional crypto investors.
 
+## Project Portfolio
+
+Please find my project portfolio in this [post](post/2022/07/24/project-portfolio.html).
+
 ## Technical Interests
 
-I am a big fan of **engineering** challenges, less so of architectural challenges.
+I am a big fan of **engineering** challenges, less so of architectural challenges. 
 
 I code with `Java`, `JavaScript`/`TypeScript`, and `Python`. After struggling with `Visual Basic` and `Fortran` in middle school, the first language that I learned to do well in was `Ruby`. This was then followed by getting deep into `Python`.
 
@@ -56,10 +60,6 @@ I recommend using a [second brain/Zettelkasten](/secondbrain) software to just a
 ### Other
 * [Goodreads](https://www.goodreads.com/user/show/64425508-jan-sp-rer)
 * [Influencer by DNA](https://philippsandner.medium.com/call-for-applications-for-influencer-by-dna-a-6-week-mentoring-program-to-become-influencer-and-11af32faaccc)
-
-## Project Portfolio
-
-Please find my project portfolio in this [post](post/2022/07/24/project-portfolio.html).
 
 ## How to Get in Touch
 
