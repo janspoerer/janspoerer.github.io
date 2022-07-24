@@ -1,18 +1,13 @@
 ---
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: default
 image: "/assets/images/Jan Spörer Portrait.jpg"
 ---
 
-# Jan Spörer
-
 ## About Me
 
 ![Jan Spörer]({{ page.image }}){: style="float: left; padding: 50px; max-width: 200px"}
-
-
 
 Finance guy turned software engineer.
 

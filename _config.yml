@@ -18,18 +18,20 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Home
+title: Jan Spörer's Personal Homepage
 email: jan.spoerer@whu.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Jan Spörer's personal website. I write about software, data, and 
-  finance. 
+  I write about software, data, and finance. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: janspoerer
 github_username:  janspoerer
 
+page_excerpts: true
+
 # Build settings
-theme: jekyll-theme-midnight
+# theme: jekyll-theme-midnight
+theme: minima
 plugins:
   - jekyll-feed
 

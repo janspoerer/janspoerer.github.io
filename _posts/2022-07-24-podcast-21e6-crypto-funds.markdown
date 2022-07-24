@@ -1,7 +1,7 @@
 ---
 layout: default
-title:  "Podcast on Crypto Funds"
-date:   2022-07-24
+title: "Podcast on Crypto Funds"
+date: 2022-07-24
 categories: 21e6
 tags: 21e6
 ---
