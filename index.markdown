@@ -15,7 +15,7 @@ All about finance, data, and, software.
 
 I write code, but also like to talk. So at my main job at **Commerzbank**, I do just that: being a software engineer and also doing internal communication for the blockchain/DLT team.
 
-Also, I am a **Ph.D. student** in [Natural Language Processing (NLP)](https://ics.unisg.ch/chair-ds-nlp-handschuh/) at the University of St. Gallen (HSG). My focus is information extraction from documents from the financial domain.
+Also, I am a **Ph.D. student** in [Natural Language Processing (NLP)](https://ics.unisg.ch/chair-ds-nlp-handschuh/) at the University of St. Gallen (HSG). My focus is information extraction for financial texts.
 
 And last, I an involed with **[21e6 Capital AG](https://21e6.io/)**, an investment company for sophisticated, professional crypto investors.
 
@@ -23,15 +23,29 @@ And last, I an involed with **[21e6 Capital AG](https://21e6.io/)**, an investme
 
 I am a big fan of **engineering** challenges, less so of architectural challenges.
 
-I code with `Java`, `JavaScript`/`TypeScript`, and `Python`. After struggling with `Visual Basic` and `Fortran` in middle school, the first language that I learned to really do well in was `Ruby`. This was then followed by getting really deep into `Python`.
+I code with `Java`, `JavaScript`/`TypeScript`, and `Python`. After struggling with `Visual Basic` and `Fortran` in middle school, the first language that I learned to really do well in was `Ruby`. This was then followed by getting deep into `Python`.
 
-I love writing with `LaTeX`.
+For software projects, `Java` and `JavaScript` are currently my main languages. My natural language processing (NLP) research happens exclusively in `Python` (supported by `Huggingface` libraries).
 
-I can recommend using a second brain/Zettelkasten software to just about anybody. I'm using the free option [Obsidian](https://obsidian.md/).
+I love writing with `LaTeX`. All my academic texts are written with `LaTeX`.
+
+I can recommend using a [second brain/Zettelkasten](/secondbrain) software to just about anybody. I'm using the free option [Obsidian](https://obsidian.md/).
 
 ## Ph.D. Studies
 
-I'm working on a dissertation in the field of Natural Language Processing. 
+I'm working on a dissertation in the field of natural language processing (NLP). 
+
+The tool I'm developing as part of this dissertation will be a retrieval-augmented generator for financial documents. This means that one can provide a question and a PDF (with an annual report, for example) and get the answer to the question based on the PDF.
+
+Modules in the `finrag-sequence` project:
+```
+|-pdf
+|-embeddings
+|-document_retriever
+|-generator
+```
+
+This is the [chair's website](https://ics.unisg.ch/chair-ds-nlp-handschuh/).
 
 ## Links to Social Accounts
 
