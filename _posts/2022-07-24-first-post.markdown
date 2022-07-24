@@ -2,7 +2,7 @@
 layout: post
 title: "Hello World!"
 date: 2022-07-24
-categories: announcement
+categories: post
 tags: announcement
 ---
 This is my first post. I am looking forward to use posts like this one to share something about me in the future.

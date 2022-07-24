@@ -57,6 +57,10 @@ I recommend using a [second brain/Zettelkasten](/secondbrain) software to just a
 * [Goodreads](https://www.goodreads.com/user/show/64425508-jan-sp-rer)
 * [Influencer by DNA](https://philippsandner.medium.com/call-for-applications-for-influencer-by-dna-a-6-week-mentoring-program-to-become-influencer-and-11af32faaccc)
 
+## Project Portfolio
+
+Please find my project portfolio in this [post](post/2022/07/24/project-portfolio.html).
+
 ## How to Get in Touch
 
 Send me an invite on [LinkedIn](https://www.linkedin.com/in/janspoerer/) with a personalized note or send an email to jan.spoerer@whu.edu.
