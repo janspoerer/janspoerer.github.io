@@ -30,7 +30,7 @@ Obsidian is a great private wiki, just that it performs quicker than any web-bas
 
 Implementation options include:
 * [Obsidian](https://obsidian.md/) -> **Free, desktop-based**. No mobile version. Built-in sync costs money. But other automated sync options are available as well (Google Drive, `git`, and many others).
-* [Roam Research](https://roamresearch.com/) -> Paid subscription, **browser-based**. 
+* [Roam Research](https://roamresearch.com/) -> Paid subscription, **browser-based**. Check this [NESSLABS guide to Roam Research](https://nesslabs.com/roam-research-beginner-guide).
 * [Athens](https://www.athensresearch.org/) -> Free local version. Specialized on being a wiki for startup **teams**. Thus emphasizes the idea of shared access. (This would also be possible using multiple `git`-tracked repositories with Obsidian, each with different access permissions.)
 * [RemNote](https://www.remnote.com/notes) -> Paid subscription. Ability to create flashcards. Available on **mobile devices**!
 * [[The Archive]] -> Out of completeness, I also wanted to mention The Archive here.
@@ -99,7 +99,7 @@ If you are on Windows, you might run into problems with such **long file and fol
 
 `4_ARCHIVE` is where old `1_PROJECTS` go.
 
-> This folder is basically your trash bin. It does not require subfolders. I rarely need it, as I rarely use the `1_PROJECTS` folder.
+> `4_ARCHIVE`: This folder is basically your trash bin. It does not require subfolders. I rarely need it, as I rarely use the `1_PROJECTS` folder.
 
 The PARA structure is simply a folder structure, see here:
 ![Jan Spörer's PARA Folder Structure]({{ page.secondbrain_image }})
@@ -110,7 +110,12 @@ Another good concept: [progressive summarization](https://fortelabs.co/blog/prog
 
 Also check the [NESSLABS newsletter](https://bit.ly/368Dr5y).
 
-[NESSLABS guide to Roam Research](https://nesslabs.com/roam-research-beginner-guide).
+* [Some quotes from the Forte Labs PARA guide](https://fortelabs.co/blog/para/)
+	* "A project has a goal to be achieved - a discrete event that will happen, allowing this item to be completely checked off and struck from the list. And this goal is supposed to take place by a specific moment in time. It has a deadline or timeframe, whether externally or self-imposed."
+	* "Projects always fall into Areas."
+	* "By breaking these responsibilities into bite-sized projects (as in the list on the right), you ensure that your Project List will change nearly every week. This creates a rhythm and a momentum of project completion to maintain your motivation. It generates the constant novelty that the latest research suggests is essential for satisfaction."
+	* "Now, imagine the psychological effect of waking up to the list on the left day after day, week after week, month after month, even year after year. Areas of Responsibility rarely if ever change, remember? No matter how hard you work, how many years of service you put in, the list of never-changing obligations only gets heavier and longer."
+	* "I couldn't design a better method of killing personal motivation if I tried."
 
 A note on labels: **Do not use labels.** They are not necessary. If, after using a second brain for a year, you feel the need for labels, go ahead. 
 
