@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hello World!"
+title: "2022-07-24: Hello World!"
 date: 2022-07-24
 categories: post
 tags: announcement

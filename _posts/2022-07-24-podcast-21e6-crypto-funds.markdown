@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Podcast on Crypto Funds"
+title: "2022-07-24: Podcast on Crypto Funds"
 date: 2022-07-24
 categories: post
 tags: 21e6
