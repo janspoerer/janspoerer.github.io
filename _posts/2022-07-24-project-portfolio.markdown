@@ -4,6 +4,8 @@ title: "2022-07-24: Project Portfolio"
 date: 2022-07-24
 categories: post
 tags: spoerico
+is_series: true
+series_title: "Spoerico"
 ---
 <sub>This article is updated on an ongoing basis. Latest change: 2022-07-26. See the `git` [version history of this repository](https://github.com/janspoerer/janspoerer.github.io/blob/main/_posts/2022-07-24-project-portfolio.markdown) for exact versioning.</sub>
 
@@ -80,3 +82,17 @@ Specific areas of competence included: Cost center accounting, management accoun
 * [Twago](https://www.twago.de/p/jan-sporer/433005/)
 * [Apollo](https://www.apollo.io/companies/Jan-Sp-rer-Consulting/5e57ec274a6b110001ead30e)
 * [Freelancermap](https://www.freelancermap.de/profile/139240/)
+
+{% if page.is_series == true %}
+<h2 class="text-success p-3 pb-0">Read More From the {{ page.series_title }} Series</h2>
+{% assign posts = site.posts | where: "is_series", true | where: "series_title", page.series_title | sort: 'date' %}
+ 
+{% for post in posts %}
+        {% if post.title == page.title %}
+ <p class="nav-link bullet-pointer mb-0">{{ post.title }}</p>
+        {% else %}
+ <a class="nav-link bullet-hash" href="{{ post.url }}">{{ post.title }}</a>
+        {% endif %}
+{% endfor %}
+
+{% endif %}

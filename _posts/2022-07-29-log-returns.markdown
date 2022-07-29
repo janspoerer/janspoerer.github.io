@@ -4,6 +4,8 @@ title: "2022-07-29: Log Returns in Portfolio Management"
 date: 2022-07-29
 categories: post
 tags: finance
+is_series: true
+series_title: "Finance"
 # https://shantoroy.com/jekyll/add-latex-math-to-jekyll-blog-minimal-mistakes/
 ---
 <script type="text/javascript" async
@@ -44,3 +46,17 @@ The following video is the most comprehensive one with 25min length. As you can 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/sR5foYbymaE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 After studying these videos, I became a bit of a fan of log returns. I hope they make your life easier as well.
+
+{% if page.is_series == true %}
+<h2 class="text-success p-3 pb-0">Read More From the {{ page.series_title }} Series</h2>
+{% assign posts = site.posts | where: "is_series", true | where: "series_title", page.series_title | sort: 'date' %}
+ 
+{% for post in posts %}
+        {% if post.title == page.title %}
+ <p class="nav-link bullet-pointer mb-0">{{ post.title }}</p>
+        {% else %}
+ <a class="nav-link bullet-hash" href="{{ post.url }}">{{ post.title }}</a>
+        {% endif %}
+{% endfor %}
+
+{% endif %}
