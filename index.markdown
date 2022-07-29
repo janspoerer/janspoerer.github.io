@@ -24,13 +24,13 @@ Please find my project portfolio in this [post](post/2022/07/24/project-portfoli
 
 ## Technical Interests
 
-I am a big fan of **engineering** challenges, less so of architectural challenges. 
+I am a big fan of **engineering** challenges.
 
 I code with `Java`, `JavaScript`/`TypeScript`, and `Python`. After struggling with `Visual Basic` and `Fortran` in middle school, the first language that I learned to do well in was `Ruby`. This was then followed by getting deep into `Python`.
 
-For software projects, `Java` and `JavaScript` are currently my main languages. My natural language processing (NLP) research happens exclusively in `Python` (supported by `Huggingface` libraries).
+Sometime in the future, I would like to get into `Rust` and `Go`. I tried `Julia` and `R`, but have not liked either of those languages.
 
-I love writing with `LaTeX`. All my academic texts are written with `LaTeX`.
+For software projects, `Java` and `JavaScript` are currently my main languages. My natural language processing (NLP) research happens exclusively in `Python` (supported by `Huggingface` libraries).
 
 I recommend using a [second brain/Zettelkasten](/secondbrain) software to just about anybody. I'm using the free option [Obsidian](https://obsidian.md/).
 
@@ -64,3 +64,12 @@ I recommend using a [second brain/Zettelkasten](/secondbrain) software to just a
 ## How to Get in Touch
 
 Send me an invite on [LinkedIn](https://www.linkedin.com/in/janspoerer/) with a personalized note or send an email to jan.spoerer@whu.edu.
+
+## Writing
+
+* [Master's Thesis on Backtesting of Cryptocurrency Trading Strategies](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3620154)
+* Crypto-related articles:
+    * [Comparison of Relevance of Stablecoins](https://medium.com/@mk.marcel.kaiser/tether-is-the-dominant-stablecoin-with-an-87-share-of-total-stablecoin-market-capitalization-772dc78b32a1)
+    * [Price correlation between Bitcoin and Ether from Jan 2017 to Jul 2019](https://medium.com/@mk.marcel.kaiser/price-correlation-between-bitcoin-and-ether-from-jan-2017-to-jul-2019-59a0db26de6)
+    * [Top 10 Ledger-Native Tokens by Market Capitalization](https://medium.com/@mk.marcel.kaiser/top-10-ledger-native-tokens-by-market-capitalization-21f40bae6257)
+* [Medium](https://medium.com/@janspoerer/about)

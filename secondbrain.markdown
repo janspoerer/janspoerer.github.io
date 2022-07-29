@@ -21,7 +21,7 @@ While there are different flavors to using a second brain, the basic idea is to 
 Another essential convention is to use [[Evergreen Notes]]. As the system organizes itself with minimal overhead and scaling costs, notes are meant to last. One does not need to delete old notes; one can revisit existing notes to add information and gradually refine low-quality notes as required.
 
 ## Where Do These Strange Square Brackets Come From?
-Throughout this post, see multiple `[[ ... ]]`-style annotations. Those are links to other notes. I originally wrote this post directly in my second brain (as any other post on this website) and I intentionally left the square brackets in.
+Throughout this post, you see multiple `[[...]]`-style annotations. Those are links to other notes. I originally wrote this post directly in my second brain (as any other post on this website) and I intentionally left the square brackets in.
 
 ## Implementations
 [Obsidian](https://obsidian.md/) is my recommendation. It is available on all desktop operating systems. Obsidian, however, does not have free built-in backups and versioning. I use `git` to version my Obsidian second brain. You can also put your Obsidian files in a Google Drive folder, in another folder synced by a cloud provider, buy Obsidian Sync, or get used to `git` (ask me for help).
