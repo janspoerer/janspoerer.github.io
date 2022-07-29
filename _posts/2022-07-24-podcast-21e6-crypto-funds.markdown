@@ -12,15 +12,16 @@ Check me out [being interviewed](https://open.spotify.com/episode/0ucfbvFGrU7AGt
 [21e6's podcast](https://assets.21e6.io/crypto-for-family-offices/new-podcast-krypto-im-portfolio-launched) covers guests from the crypto portfolio management industry.
 
 {% if page.is_series == true %}
-<h2 class="text-success p-3 pb-0">Read More From the {{ page.series_title }} Series</h2>
-{% assign posts = site.posts | where: "is_series", true | where: "series_title", page.series_title | sort: 'date' %}
- 
-{% for post in posts %}
-        {% if post.title == page.title %}
- <p class="nav-link bullet-pointer mb-0">{{ post.title }}</p>
-        {% else %}
- <a class="nav-link bullet-hash" href="{{ post.url }}">{{ post.title }}</a>
-        {% endif %}
-{% endfor %}
-
+    {% assign posts = site.posts | where: "is_series", true | where: "series_title", page.series_title | sort: 'date' %}
+    {% if posts.size > 1 %}
+        
+<h3 class="text-success p-3 pb-0">Read More From the {{ page.series_title }} Series</h3>
+        {% for post in posts %}
+                {% if post.title == page.title %}
+<p class="nav-link bullet-pointer mb-0">{{ post.title }}</p>
+                {% else %}
+<a class="nav-link bullet-hash" href="{{ post.url }}">{{ post.title }}</a>
+                {% endif %}
+        {% endfor %}
+    {% endif %}
 {% endif %}
