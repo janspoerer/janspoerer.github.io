@@ -12,7 +12,7 @@ secondbrain_inprogress: "/assets/images/Writing the Post on Second Brain.png"
 
 <sub>This article is updated on an ongoing basis. Latest change: 2022-07-30. See the [version history of this repository](https://github.com/janspoerer/janspoerer.github.io/blob/main/secondbrain.markdown) for exact versioning.</sub>
 
-> Life is a graph database!
+> [Life is a graph database!](https://www.forbes.com/sites/craigsmith/2020/08/31/your-life-is-a-graph-look-at-it-that-way/?sh=18bbe3aa2a47)
 
 ![Jan Spörer's Second Brain Visualized by Obsidian's "Graph View"]({{ page.image }})
 <sup>Jan Spörer's second brain visualized by Obsidian's "Graph View."</sup>
