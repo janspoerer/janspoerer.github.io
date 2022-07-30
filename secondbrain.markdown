@@ -10,6 +10,10 @@ secondbrain_inprogress: "/assets/images/Writing the Post on Second Brain.png"
 
 # Second Brain/Zettelkasten
 
+<sub>This article is updated on an ongoing basis. Latest change: 2022-07-30. See the [version history of this repository](https://github.com/janspoerer/janspoerer.github.io/blob/main/secondbrain.markdown) for exact versioning.</sub>
+
+> Life is a graph database!
+
 ![Jan Spörer's Second Brain Visualized by Obsidian's "Graph View"]({{ page.image }})
 <sup>Jan Spörer's second brain visualized by Obsidian's "Graph View."</sup>
 
