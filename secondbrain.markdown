@@ -10,7 +10,7 @@ secondbrain_inprogress: "/assets/images/Writing the Post on Second Brain.png"
 
 # Second Brain/Zettelkasten
 
-<sub>This article is updated on an ongoing basis. Latest change: 2022-07-30. See the [version history of this repository](https://github.com/janspoerer/janspoerer.github.io/blob/main/secondbrain.markdown) for exact versioning.</sub>
+<sub>This article is updated on an ongoing basis. Latest change: 2022-08-20. See the [version history of this repository](https://github.com/janspoerer/janspoerer.github.io/blob/main/secondbrain.markdown) for exact versioning.</sub>
 
 > [Life is a graph database!](https://www.forbes.com/sites/craigsmith/2020/08/31/your-life-is-a-graph-look-at-it-that-way/?sh=18bbe3aa2a47)
 
@@ -44,11 +44,11 @@ Implementation options include:
 ### Do Not Over-engineer Your Second Brain 
 While no second brain requires a classical folder structure, it still might be useful to at least give your second brain a minimal bit of rigid structure. **Links between notes** will still always be the most important structuring mechanism.
 
-So first of all: **do not over-engineer this!** You will probably notice that links between notes already provide 10x better structure than any note-taking approach that you have used to far, even without any additional structure.
+So first of all: **do not over-engineer this!** You will probably notice that links between notes already provide 10x better structure than any note-taking approach that you have used so far, even without any additional structure.
 
 If you do would like to get a little bit more advanced, I recommend the PARA method by [[Tiago Forte]]. Check [this link](https://fortelabs.co/blog/para/). PARA will, at the very minimum, require you to drag and drop each new note into one of four different folders. That's an acceptable effort.
 
-PARA divides your notes into `1_PROJECTS`, `2_AREAS`, `3_RESOURCES`, and `4_ARCHIVE`. Check the link mentioned in the previous paragraph, and here is my own interpretation.
+PARA divides your notes into `1_PROJECTS`, `2_AREAS`, `3_RESOURCES`, and `4_ARCHIVE`. Check the link mentioned in the previous paragraph, and here comes my own interpretation.
 
 ### How I Use PARA
 
