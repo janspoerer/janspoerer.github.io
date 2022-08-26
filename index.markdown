@@ -38,20 +38,20 @@ I recommend using a "second brain/Zettelkasten" software to just about anybody, 
 
 ## Links to Social Accounts
 
-### Tech-related
+### Tech-Related
 
 * [Stackoverflow](https://stackoverflow.com/users/6057510/jan-sp%c3%b6rer)
 * [GitHub](https://github.com/janspoerer)
 * [Gitlab (I'm more active there than on GitHub, but most repositories there are private)](https://gitlab.com/janspoerer1) 
 * [Twitter](https://twitter.com/JanSpoerer)
 
-### Entrepreneurship-related
+### Entrepreneurship-Related
 
 * [21e6 (a company I am involved with)](https://assets.21e6.io/)
 * [Spoerico (another company I am involved with)](https://spoerico.com/)
 * [LinkedIn](https://www.linkedin.com/in/janspoerer/)
 
-### Research-related
+### Research-Related
 
 * [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3917972)
 * [Researchgate](https://www.researchgate.net/profile/Jan-Spoerer)
@@ -60,6 +60,7 @@ I recommend using a "second brain/Zettelkasten" software to just about anybody, 
 * [University of St. Gallen](https://ics.unisg.ch/chair-ds-nlp-handschuh/)
 
 ### Other
+
 * [Goodreads](https://www.goodreads.com/user/show/64425508-jan-sp-rer)
 * [Influencer by DNA](https://philippsandner.medium.com/call-for-applications-for-influencer-by-dna-a-6-week-mentoring-program-to-become-influencer-and-11af32faaccc)
 
@@ -84,4 +85,15 @@ Send me an invite on [LinkedIn](https://www.linkedin.com/in/janspoerer/) with a 
     * [Comparison of Relevance of Stablecoins](https://medium.com/@mk.marcel.kaiser/tether-is-the-dominant-stablecoin-with-an-87-share-of-total-stablecoin-market-capitalization-772dc78b32a1)
     * [Price correlation between Bitcoin and Ether from Jan 2017 to Jul 2019](https://medium.com/@mk.marcel.kaiser/price-correlation-between-bitcoin-and-ether-from-jan-2017-to-jul-2019-59a0db26de6)
     * [Top 10 Ledger-Native Tokens by Market Capitalization](https://medium.com/@mk.marcel.kaiser/top-10-ledger-native-tokens-by-market-capitalization-21f40bae6257)
-* [Medium](https://medium.com/@janspoerer/about)
+* [Medium](https://medium.com/@janspoerer/about), [ITSA](https://medium.com/@mk.marcel.kaiser/top-10-ledger-native-tokens-by-market-capitalization-21f40bae6257)
+* [Handelsblatt (German Economic Newspaper)](https://www.handelsblatt.com/finanzen/maerkte/devisen-rohstoffe/bitcoin-und-co-wie-fondsprofis-mit-kryptowaehrungen-experimentieren/27805202.html)
+* [Join this free WhatsApp job group to find junior Data Science talent in Germany or to find a job!](https://chat.whatsapp.com/JdDgM4yIexODMe4FkGJuLE)
+* [21e6](https://assets.21e6.io/)
+	* [Check out this English podcast about crypto funds (YouTube)](https://www.youtube.com/watch?v=nl3XdpC4_fo)
+	* German podcast about professional crypto investing
+		* [Apple Podcasts](https://podcasts.apple.com/de/podcast/krypto-im-portfolio/id1638093768)
+		* [Audible](https://www.audible.de/pd/Krypto-im-Portfolio-Podcast/B0B9GCK4GX)
+        * [Amazon Music](https://music.amazon.com/podcasts/4f0d7798-7fc3-44fc-888f-62dc2ee904aa/episodes/2d4a00eb-1efa-42d9-8c84-275c3943faca/krypto-im-portfolio-krypto-fonds-mit-jan-sp%C3%B6rer-due-diligence-und-data-manager-bei-21e6-capital)
+	* [German short video on the impact of crypto investments on the Sharpe ratio (by 21e6 CEO Felix Fernandez)](https://www.youtube.com/watch?v=euyf8CKHEeg)
+	* [English crypto deep-dive by 21e6 CEO Felix Fernandez](https://www.youtube.com/watch?v=BPT3FuO9VnQ)
+	* [ifb Workshops for Executives](https://assets.21e6.io/blog/jan-sp%C3%B6rer-at-ifb-workshop-about-distributed-ledger-technologies)
