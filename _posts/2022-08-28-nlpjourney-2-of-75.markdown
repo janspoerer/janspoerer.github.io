@@ -66,9 +66,9 @@ So next week, I will lock myself in a room for a day without access to my phone 
 2) Carried over from last week: First successful end-to-end document processing with the Python module (MVP). (With >80% test coverage and all tests passing.)
 
 3) Literature review:
-    1) Add the following retrieval-augmented generation (RAG) papers to my literature database: Guu et al., 2020 (REALM), Yogatama et al., 2021, Bordeaud et al., 2021, Izacard & Grave, 2020, Min et al., 2020
-    2) Add this text-to-text framework paper to my literature database: Raffel et al., 2019
-    3) Add Contriever paper (Izacard et al., 2022, unsupervised training & continuous dense embeddings) to my literature database.
+    * Add the following retrieval-augmented generation (RAG) papers to my literature database: Guu et al., 2020 (REALM), Yogatama et al., 2021, Bordeaud et al., 2021, Izacard & Grave, 2020, Min et al., 2020
+    * Add this text-to-text framework paper to my literature database: Raffel et al., 2019
+    * Add Contriever paper (Izacard et al., 2022, unsupervised training & continuous dense embeddings) to my literature database.
 
 ____________________________________
 
