@@ -25,9 +25,9 @@ series_title: "75 Steps Toward a Ph.D. in NLP"
     });
 </script>
 
-Thanks for checking in for the second update, and the first one with an actual weekly review.
+Thanks for checking in for the second update - the first one with an actual weekly review.
 
-If this is your first time reading about the "NLP Journey in 75 Weekly Steps," let me tell you that you will be my real-time weekly witness toward my goal of getting a Ph.D.!
+If this is your first time reading a "NLP Journey in 75 Weekly Steps" update, welcome to being my real-time weekly witness on my journey of getting a Ph.D.!
 
 These weekly updates are always be structured in the same way. So let's continue.
 
@@ -37,23 +37,27 @@ You can follow these updates on: [Substack](https://nlpjourney.substack.com/) [B
 
 I participated in the [Frankfurt Data Science Cocktail Night With DALL-E 2](https://www.meetup.com/de-DE/FrankfurtDataScience/?_cookie-check=qLxLguQbNAeLwUoJ) this week. Made a couple of new connections there and talked to many old ones. I recommend the [Frankfurt Data Science Meetup](https://www.meetup.com/de-DE/frankfurtdatascience/), make sure to check it out if and when you are in Frankfurt! The organizer is [Eldar Rakhmatullaev](https://www.linkedin.com/in/eldarr/), and this is their Meetup page: [Frankfurt Data Science Meetup](https://www.meetup.com/de-DE/frankfurtdatascience/).
 
+Also, I had a good conversation with [Christian Strässle](https://www.linkedin.com/in/christian-str%C3%A4ssle/) from [ValueFocus AG](https://valuefocus.ch/), a Swiss asset manager that [cooperates](https://valuefocus.ch/risiko-aus-sicht-des-value-investors-2/) with the [Chair of Data Science and Natural Language Processing](https://ics.unisg.ch/chair-ds-nlp-handschuh/). We will announce more details on the [company cooperation](https://valuefocus.ch/), a Swiss asset manager that [cooperates](https://valuefocus.ch/risiko-aus-sicht-des-value-investors-2/) in the coming months.
+
 ## What were the Biggest Obstacles?
 
-Unlike last week, no major distractions from work. Some minor private distractions (but worthy ones). All good.
+Unlike last week, there were **no major distractions** by my corporate work. Some minor private distractions (but worthy ones). All good.
 
 ## Which Goals Did I Meet?
 
-Goal 2 from last week: I've set up the GitLab documentation for the dissertation code. It's working well, and I may make the page publicly available in the future.
+Goal 2 from last week: I've set up the GitLab **documentation** for the dissertation code. It's working well, and I may make the page publicly available in the future.
 
 ## Which Goals Did I Miss?
 
-Goal 1 from last weeK: The appointment with my supervisors is still not scheduled. This is due to things outside of my direct control, but not a big issue. I'll carry this goal over to the next week.
+Goal 1 from last weeK: The appointment with my supervisors is **still not scheduled**. This is due to things outside of my direct control, but not a big issue. I'll carry this goal over to the next week.
 
-Goal 3 from last week: The end-to-end document processing 
+Goal 3 from last week: End-to-end document processing for the Python code is still not working. **I simply did not put in enough time into this one.**
 
 ## Was It a Good Week?
 
-Well, 2/3 goals missed, so it was not really a good week. I
+Well, 2/3 goals missed, so it was not a good week. The appointment goal is not fully in my control; and for the MVP goal, I think my schedule was too scattered to complete this. I need a couple of hourse of deep concentration to finish the MVP task, and while I did have enough gross time allocated to Ph.D. tasks, I did not have a long, uninterrupted period of time where I could focus on this task.
+
+So next week, I will lock myself in a room for a day without access to my phone and will not schedule any calls on that day.
 
 ## Short-Term Tasks for The Coming Week
 
