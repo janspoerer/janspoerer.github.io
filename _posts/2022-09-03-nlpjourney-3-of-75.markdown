@@ -25,7 +25,7 @@ series_title: "75 Steps Toward a Ph.D. in NLP"
     });
 </script>
 
-**Let me finally give you some more detail on what I'm actually working on.** The first paper will probably be called "FinRAG," pointing to the combination of Retrieval-Augmented Generation (RAG, Lewis et al., 2020), and the application to the financial domain.
+**Let me finally give you some more detail on what I'm actually working on.** The first paper will probably be called "FinRAG," pointing to the combination between Retrieval-Augmented Generation (RAG, Lewis et al., 2020) and the application to the financial domain.
 
 **FinRAG** will be a method that takes a set of PDFs and a question as an input, and will provide an **answer to the question based on the PDFs**. It will also provide the page number, the file name, and the context that the information was taken from. This is **relevant for financial and law professionals**, because they often need to manually double-check any machine-provided information to avoid mistakes.
 
@@ -33,7 +33,7 @@ You can follow these updates on: [Substack](https://nlpjourney.substack.com/) [B
 
 ## What Happened Since Last Week?
 
-First off, I did not follow through with Jo's suggestions to trying new approach to taking breaks. I jumped into work and when I realized that I was not following the break method, it was already too late and I preferred to just get the work done. Also, the work involved waiting for a long time for code to finish, so I was not fully utilized at all times. I'll try to do this in the coming weeks! 
+First off, I did not follow through with Jo's suggestions to trying a new approach to taking breaks. I jumped into work and when I realized that I was not following the break method, it was already too late and I preferred to just get the work done. Also, the work involved waiting for a long time for code to finish, so I was not fully utilized at all times. I'll try to do this in the coming weeks! 
 
 I had a meeting with the organizers (Tolga Bastürk and Benedikt Buchner) of the Machine Learning Community in Commerzbank. We have set a date where I will present latest developments in the field of document retrieval and retrieval-augmented generation.
 
