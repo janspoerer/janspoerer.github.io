@@ -27,25 +27,25 @@ series_title: "75 Steps Toward a Ph.D. in NLP"
 
 **Let me finally give you some more detail on what I'm actually working on.** The first paper will probably be called "FinRAG," pointing to the combination between Retrieval-Augmented Generation (RAG, Lewis et al., 2020) and the application to the financial domain.
 
-**FinRAG** will be a method that takes a set of PDFs and a question as an input, and will provide an **answer to the question based on the PDFs**. It will also provide the page number, the file name, and the context that the information was taken from. This is **relevant for financial and law professionals**, because they often need to manually double-check any machine-provided information to avoid mistakes.
+**FinRAG** will be a method that takes a set of PDFs and a question as input and will provide an **answer to the question based on the PDFs**. It will also provide the page number, the file name, and the context that the information was taken from. This is **relevant for financial and law professionals**, because they often need to manually double-check any machine-provided information to avoid mistakes.
 
 You can follow these updates on: [Substack](https://nlpjourney.substack.com/) [Blog](https://janspoerer.github.io/phdstudies/) [Telegram](https://t.me/+gmkAaVlKPh4xZTky) [WhatsApp](https://chat.whatsapp.com/F6901LMMJWIGlxrahkgBcq) [LinkedIn](https://www.linkedin.com/in/janspoerer/) [Medium](https://medium.com/@janspoerer/about) [Twitter](https://twitter.com/JanSpoerer) [Calendly](https://calendly.com/janspoerer/60m-private)
 
 ## What Happened Since Last Week?
 
-First off, I did not follow through with Jo's suggestions to trying a new approach to taking breaks. I jumped into work and when I realized that I was not following the break method, it was already too late and I preferred to just get the work done. Also, the work involved waiting for a long time for code to finish, so I was not fully utilized at all times. I'll try to do this in the coming weeks! 
+First off, I did not follow through with Jo Karajanov's suggestions to try a new approach to taking breaks. (Her approach: Take a break every 15 minutes by walking around for a minute in the room. After about three times, one can take a longer break or walk outside.) I jumped into work, and when I realized that I was not following the break method, it was already too late, and I preferred to just get the work done. Furthermore, the work involved waiting for a long time for the code to finish, so I was not fully utilized at all times. I will do this in the coming weeks!
 
-I had a meeting with the organizers (Tolga Bastürk and Benedikt Buchner) of the Machine Learning Community in Commerzbank. We have set a date where I will present latest developments in the field of document retrieval and retrieval-augmented generation.
+I met with the organizers (Tolga Bastürk and Benedikt Buchner) of the Machine Learning Community in Commerzbank. We have set a date where I will present the latest developments in the field of document retrieval and retrieval-augmented generation.
 
-On Saturday, I had an alumni event at my B.Sc. alma mater, WHU - Otto Beisheim School of Management in Vallendar. I met many old and some new people there, and I'm still tired from the amazing party on Saturday. On the title picture, you can see one of the more relaxed moments of this event.
+On Saturday, I had an alumni event at my B.Sc. alma mater, WHU - Otto Beisheim School of Management in Vallendar. I met many old and some new people there, and I'm still tired from the outstanding party on Saturday. On the title picture, you can see one of the more relaxed moments of this event.
 
 ## What were the Biggest Obstacles?
 
-The computing power needed to produce embeddings for a new text might be higher than expected. **This might make near-time processing of user-inputted PDFs impossible.** My Initially intended use case of uploading PDFs and a set of questions, and then getting an answer immediately, might thus be unrealistic at this point.
+The computing power needed to produce embeddings for a new text might be higher than expected. **This might make near-time processing of user-inputted PDFs impossible**. My initially intended use case of uploading PDFs and a set of questions and then getting an answer immediately might thus be unrealistic at this point.
 
-That could turn out to be a big problem.
+That could turn out to be a big problem. 
 
-I'll definitely need to either pivot or optimize the algorithm such that **processing gets faster by two orders of magnitude**. Let's see...
+But I think and hope that I may have just made a mistake in the configuration of the algorithm, and the algorithm will be faster upon closer inspection.
 
 ## Which Goals Did I Meet?
 
