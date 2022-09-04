@@ -86,7 +86,7 @@ Send me an invite on [LinkedIn](https://www.linkedin.com/in/janspoerer/) with a 
     * [Price correlation between Bitcoin and Ether from Jan 2017 to Jul 2019](https://medium.com/@mk.marcel.kaiser/price-correlation-between-bitcoin-and-ether-from-jan-2017-to-jul-2019-59a0db26de6)
     * [Top 10 Ledger-Native Tokens by Market Capitalization](https://medium.com/@mk.marcel.kaiser/top-10-ledger-native-tokens-by-market-capitalization-21f40bae6257)
 * [Medium](https://medium.com/@janspoerer/about), [ITSA](https://medium.com/@mk.marcel.kaiser/top-10-ledger-native-tokens-by-market-capitalization-21f40bae6257)
-* [Handelsblatt (German Economic Newspaper)](https://www.handelsblatt.com/finanzen/maerkte/devisen-rohstoffe/bitcoin-und-co-wie-fondsprofis-mit-kryptowaehrungen-experimentieren/27805202.html)
+* [Appearance in the Handelsblatt (German Economic Newspaper)](https://www.handelsblatt.com/finanzen/maerkte/devisen-rohstoffe/bitcoin-und-co-wie-fondsprofis-mit-kryptowaehrungen-experimentieren/27805202.html)
 * [Join this free WhatsApp job group to find junior Data Science talent in Germany or to find a job!](https://chat.whatsapp.com/JdDgM4yIexODMe4FkGJuLE)
 * [21e6](https://assets.21e6.io/)
 	* [Check out this English podcast about crypto funds (YouTube)](https://www.youtube.com/watch?v=nl3XdpC4_fo)
