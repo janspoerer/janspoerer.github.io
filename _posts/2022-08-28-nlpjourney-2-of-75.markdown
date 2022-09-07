@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "2022-08-28: Update 2/75 - Literature Review"
-date: 2022-08-20
+date: 2022-08-28
 categories: post
 tags: phd
 is_series: true
