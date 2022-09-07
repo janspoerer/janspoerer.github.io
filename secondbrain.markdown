@@ -33,11 +33,12 @@ Throughout this post, you see multiple `[[...]]`-style annotations. Those are li
 Obsidian is a great private wiki, just that it performs quicker than any web-based wiki page. Obsidian executes fully locally and feels like a breeze. The shortcuts in Obsidian make usage more productive and intuitive.
 
 Implementation options include:
-* [Obsidian](https://obsidian.md/) -> **Free, desktop-based**. No mobile version. Built-in sync costs money. But other automated sync options are available as well (Google Drive, `git`, and many others).
+* [Obsidian](https://obsidian.md/) -> **Free, desktop-based**. There is a mobile version as well, but this requires the built-in sync functionality (for vaults that are synced between desktop and mobile). Built-in sync costs money. But other automated sync options are available as well (Google Drive, `git`, and many others).
 * [Roam Research](https://roamresearch.com/) -> Paid subscription, **browser-based**. Check this [NESSLABS guide to Roam Research](https://nesslabs.com/roam-research-beginner-guide).
 * [Athens](https://www.athensresearch.org/) -> Free local version. Specialized on being a wiki for startup **teams**. Thus emphasizes the idea of shared access. (This would also be possible using multiple `git`-tracked repositories with Obsidian, each with different access permissions.)
-* [RemNote](https://www.remnote.com/notes) -> Paid subscription. Ability to create flashcards. Available on **mobile devices**!
+* [RemNote](https://www.remnote.com/notes) -> Paid subscription. Ability to create flashcards. The flashcard feature is insanely good. One can create text flash cards and also image flashcards using image masking. Available on **mobile devices**!
 * [[The Archive]] -> Out of completeness, I also wanted to mention The Archive here.
+* [Logseg](https://logseq.com/)
 
 ## More Advanced Concepts and Recommendations for More Advanced Structures
 
