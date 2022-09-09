@@ -18,6 +18,7 @@ secondbrain_inprogress: "/assets/images/Writing the Post on Second Brain.png"
 <sup>Jan Spörer's second brain visualized by Obsidian's "Graph View."</sup>
 
 ## Basic Idea
+
 The second brain concept was first brought to my attention by [productivity book](https://www.ultraproductive.net){:target="_blank"} author [[Dr. Christian Poensgen]]. 
 
 While there are different flavors to using a second brain, the basic idea is to have interconnected atomic notes.
@@ -25,9 +26,11 @@ While there are different flavors to using a second brain, the basic idea is to 
 Another essential convention is to use [[Evergreen Notes]]. As the system organizes itself with minimal overhead and scaling costs, notes are meant to last. One does not need to delete old notes; one can revisit existing notes to add information and gradually refine low-quality notes as required.
 
 ## Where Do These Strange Square Brackets Come From?
+
 Throughout this post, you see multiple `[[...]]`-style annotations. Those are links to other notes. I originally wrote this post directly in my second brain (as any other post on this website) and I intentionally left the square brackets in.
 
 ## Implementations
+
 [Obsidian](https://obsidian.md/) is my recommendation. It is available on all desktop operating systems. Obsidian, however, does not have free built-in backups and versioning. I use `git` to version my Obsidian second brain. You can also put your Obsidian files in a Google Drive folder, in another folder synced by a cloud provider, buy Obsidian Sync, or get used to `git` (ask me for help).
 
 Obsidian is a great private wiki, just that it performs quicker than any web-based wiki page. Obsidian executes fully locally and feels like a breeze. The shortcuts in Obsidian make usage more productive and intuitive.
@@ -43,6 +46,7 @@ Implementation options include:
 ## More Advanced Concepts and Recommendations for More Advanced Structures
 
 ### Do Not Over-engineer Your Second Brain 
+
 While no second brain requires a classical folder structure, it still might be useful to at least give your second brain a minimal bit of rigid structure. **Links between notes** will still always be the most important structuring mechanism.
 
 So first of all: **do not over-engineer this!** You will probably notice that links between notes already provide 10x better structure than any note-taking approach that you have used so far, even without any additional structure.
@@ -161,4 +165,3 @@ Credits: Thanks for my colleague Leona Blehova for pointing out the origins of t
 See a screenshot of me in action writing this post in `markdown` format directly in Obsidian.
 
 ![Jan Spörer's Progress Writing the Blog Post]({{ page.secondbrain_inprogress }})
-
