@@ -25,23 +25,23 @@ series_title: "75 Steps Toward a Ph.D. in NLP"
     });
 </script>
 
-For the first time, the model returns document-specific answers. To recap, retrieval-augmented generation is designed for the very purpose of finding and outputting information from the documents provided. But in previous weeks, I have not had an eye on the model outputs' quality. 
+For the first time, the model returns document-specific answers. To recap, retrieval-augmented generation is designed to find and output information from the documents provided. But in previous weeks, I have not had an eye on the model outputs’ quality.
 
-I wrote a software test to check whether document-provided information is prioritized over parameterized, language model knowledge. From now on, thanks to this test, I will notice whether the model's quality has deteriorated significantly.
+I wrote a software test to check whether document-provided information is prioritized over parameterized language model knowledge. Thanks to this test, I will notice whether the model's quality has deteriorated significantly.
 
-Retrieval-augmented generators (RAG) have **two components**: a language model (parametric knowledge) and a retriever that accesses knowledge from texts/documents (non-parametric knowledge). If we ask RAG about the revenue of a well-known company for a specific year without providing a document that contains this answer, it will likely still provide the correct answer. It can achieve this by utilizing knowledge from the language model (parametric memory). 
+Retrieval-augmented generators (RAG) have **two components**: a language model (parametric knowledge) and a retriever that accesses knowledge from texts/documents (non-parametric knowledge). If we ask RAG about the revenue of a well-known company for a specific year without providing a document that contains this answer, it will likely still give the correct answer. It can achieve this by utilizing knowledge from the language model (parametric memory). 
 
 But for more obscure knowledge, we cannot rely on the language model and need a powerful retriever that accesses documents. If we ask RAG about a niche topic, the model may **"hallucinate"** an answer, meaning that it will generate an answer that seems to make sense, but is factually incorrect. This is a **common problem of language models**.
 
-Even though factual information is retrieved successfully from documents, I noticed that the model cannot properly identify synonyms such as "revenue" and "turnover." So when I provide a question asking about the **revenue** of a company in year X, the model will usually not be able to find this information when the documents say "The company had a **turnover** of Y in year X." **Fine-tuning the model to the financial domain will hopefully solve this issue.**
+Even though factual information is retrieved successfully from documents, I noticed that the model cannot correctly identify synonyms such as "revenue" and "turnover." So when I provide a question asking about the **revenue** of a company in year X, the model will usually not be able to find this information when the documents say "The company had a **turnover** of Y in year X." **Fine-tuning the model to the financial domain will hopefully solve this issue.**
 
 You can follow these updates on: [Substack](https://nlpjourney.substack.com/) [Blog](https://janspoerer.github.io/phdstudies/) [Telegram](https://t.me/+gmkAaVlKPh4xZTky) [WhatsApp](https://chat.whatsapp.com/F6901LMMJWIGlxrahkgBcq) [LinkedIn](https://www.linkedin.com/in/janspoerer/) [Medium](https://medium.com/@janspoerer/about) [Twitter](https://twitter.com/JanSpoerer) [Calendly](https://calendly.com/janspoerer/60m-private)
 
 ## What Happened Since Last Week?
 
-I finally used Jo Karajanov's break suggestions. I had more uninterrupted time to work on Ph.D. tasks this week, and it felt easier to do these small walking breaks every 15 minutes. I will continue to be more conscious about my break habits from now on, it really helps.
+I finally used Jo Karajanov’s break suggestions. I had more uninterrupted time to work on Ph.D. tasks this week, and doing these small walking breaks every 15 minutes felt easier. I will continue to be more conscious about my break habits from now on; it really helps.
 
-And I will make sure to have days that are **completely free of meetings**. This week, Thursday was entirely free of meetings, and Friday, I had only two meetings. These days were incredibly effective.
+And I will make sure to have days **completely free of meetings**. Thursday was entirely free of meetings, and Friday, I had only two meetings. These days were incredibly effective.
 
 Leisure-wise, I will go mountain climbing tomorrow, on Germany's highest mountain, Zugspitze. We go in a group with some experienced friends. I have no experience with climbing, so I'm glad to go with experts! Fresh air, physical activity, adrenaline, and seeing good friends is a good recipe for effective mental and intellectual recovery!
 
@@ -62,7 +62,7 @@ Also, the test runtime increased manifold this week. One code update now takes u
 
 Miss: *When generating answers from PDFs, the software should be able to track pages and titles (provide context for the result). This is important for users because they oftne need to manually verify whether the generated answers are correct.*
 
-I was unable to complete this because I did not have enough time left to understand how the [Hugging Face 🤗](https://huggingface.co/) retrieval-augmented generation model handles contexts and how they can be accessed along with the answer result. I'll have to dig deeper into the model's implementation.
+I was unable to complete this because I did not have enough time to understand how the [Hugging Face 🤗](https://huggingface.co/facebook/rag-sequence-nq) retrieval-augmented generation model handles contexts and how they can be accessed along with the answer result. I'll have to dig deeper into the model's implementation.
 
 ## Was It a Good Week?
 
