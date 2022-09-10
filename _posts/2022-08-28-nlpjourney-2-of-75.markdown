@@ -39,7 +39,7 @@ I participated in the [Frankfurt Data Science Cocktail Night With DALL-E 2](http
 
 Also, I had a good conversation with [Christian Strässle](https://www.linkedin.com/in/christian-str%C3%A4ssle/) from [ValueFocus AG](https://valuefocus.ch/), a Swiss asset manager that cooperates with the [Chair of Data Science and Natural Language Processing](https://ics.unisg.ch/chair-ds-nlp-handschuh/). We will announce details of the [company cooperation](https://valuefocus.ch/risiko-aus-sicht-des-value-investors-2/) in the coming months.
 
-## What were the Biggest Obstacles?
+## What Were the Biggest Obstacles?
 
 Unlike last week, there were **no major distractions** by my corporate work. Some minor private distractions (but worthy ones). All good.
 

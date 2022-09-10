@@ -39,7 +39,7 @@ I met with the organizers (Tolga Bastürk and Benedikt Buchner) of the Machine L
 
 On Saturday, I had an alumni event at my B.Sc. alma mater, WHU - Otto Beisheim School of Management in Vallendar. I met many old and some new people there, and I'm still tired from the outstanding party on Saturday. On the title picture, you can see one of the more relaxed moments of this event.
 
-## What were the Biggest Obstacles?
+## What Were the Biggest Obstacles?
 
 The computing power needed to produce embeddings for a new text might be higher than expected. **This might make near-time processing of user-inputted PDFs impossible**. My initially intended use case of uploading PDFs and a set of questions and then getting an answer immediately might thus be unrealistic at this point.
 

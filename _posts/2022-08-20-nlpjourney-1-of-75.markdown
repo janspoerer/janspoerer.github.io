@@ -37,7 +37,7 @@ You can follow these updates on: [Substack](https://nlpjourney.substack.com/) [B
 
 I've set up a continuous integration pipeline for the code I'm working on. The code will now test itself automatically, and I will get notified if some code is broken. Code tests require proper test coverage monitoring to be helpful, so I've set up test coverage monitoring. I've also set up various other technical bits and pieces, such as a documentation template. The code is still in a private repository, but maybe this can be changed in the future! In another update, I'll go into more detail on my dissertation.
 
-## What were the Biggest Obstacles?
+## What Were the Biggest Obstacles?
 
 I got distracted by demands from my job(s), which is the biggest no-go for this week.
 
