@@ -29,7 +29,9 @@ For the first time, the model returns document-specific answers. To recap, retri
 
 I wrote a software test to check whether document-provided information is prioritized over parameterized, language model knowledge. From now on, I will notice whether the model's quality has deteriorated significantly.
 
-Retreival-augmented generators (RAG) have **two components**: a language model (parametric knowledge) and a retriever that accesses knowledge from texts/documents (non-parametric knowledge). If we ask RAG about the revenue of a well-known company for a specific year without giving a document that contains this answer, it will likely still provide the correct answer. It can achieve this by utilizing knowledge from the language model (parametric memory). But for more obscure knowledge, we cannot rely on the language model and need a powerful retriever that accesses documents.
+Retrieval-augmented generators (RAG) have **two components**: a language model (parametric knowledge) and a retriever that accesses knowledge from texts/documents (non-parametric knowledge). If we ask RAG about the revenue of a well-known company for a specific year without giving a document that contains this answer, it will likely still provide the correct answer. It can achieve this by utilizing knowledge from the language model (parametric memory). 
+
+But for more obscure knowledge, we cannot rely on the language model and need a powerful retriever that accesses documents. If we ask RAG about a niche topic, the model may **"hallucinate"** an answer, meaning that it will generate an answer that seems to make sense, but is factually incorrect. This is a **common problem of language models**.
 
 Even though factual information is retrieved successfully from documents, I noticed that the model cannot properly identify synonyms such as "revenue" and "turnover." So when I provide a question asking about the **revenue** of a company in year X, the model will usually not be able to find this information when the documents say "The company had a **turnover** of Y in year X." **Fine-tuning the model to the financial domain will hopefully solve this issue.**
 
@@ -39,24 +41,26 @@ You can follow these updates on: [Substack](https://nlpjourney.substack.com/) [B
 
 I finally used Jo Karajanov's break suggestions. I had more uninterrupted time to work on Ph.D. tasks this week and it felt easier to do these small walking breaks every 15 minutes. I will continue to be more conscious about my break habits from now on, it really helps.
 
-Leisure-wise, I will go mountain climbing tomorrow, on Germany's highest mountain, Zugspitze. We go in a group with some experienced friends. I have no experience with climbing, so I'm glad to go with experts!
+And I will make sure to have days that are **completely free of meetings**. This week, I Thursday was entirely free of meetings, and Friday I had only two meetings. These days were incredibly effective.
+
+Leisure-wise, I will go mountain climbing tomorrow, on Germany's highest mountain, Zugspitze. We go in a group with some experienced friends. I have no experience with climbing, so I'm glad to go with experts! Fresh air, physical activity, some adrenaline, and seeing good friends is a good recipe for effective mental and intellectual recovery!
 
 ## What Were the Biggest Obstacles?
 
-I struggled with handling command line arguments in Python, and especially with making those testable.
+It took some time to handle command line arguments in Python, and especially to make those testable.
 
-Also, the test runtime increased manifold this week. I added some end-to-end tests this week, and they take a very long time to run, even though they only perform inference. From now on, I have to test very carefully, only testing the modules that I've recently changed. A pre-commit test hook is implemented, meaning that the full set of tests will continue to run before every commit. (A commit is a versioning snapshot in coding. Each versioning snapshot should be working properly, so it is good practice to run tests before each snapshot.)
+Also, the test runtime increased manifold this week. One code update now takes up to 15 minutes for all tests, coverage reports, and deployments to run (on GitLab). I added some end-to-end tests this week, which are computationally expensive. From now on, I have to test very carefully, only testing the modules that I've recently changed. A pre-commit test hook is implemented, meaning that the full set of tests will continue to run before every commit. (A commit is a versioning snapshot in coding. Each versioning snapshot should be working properly, so it is good practice to run tests before each snapshot.) I will try to get the overall runtime below 5 minutes again.
 
 ## Which Goals Did I Meet?
 
 <ul>
-  <li><b>CLI entry points:</b> To make the module more versatile, I want to provide a convenient command line entry point. A developer can point to a folder with input PDFs and insert the question/query, and can execute the program directly from the shell.</li>
-  <li>Prepare the research proposal <b>meeting with my supervisors</b>.</li>
+  <li>Done: <i><b>CLI entry points:</b> To make the module more versatile, I want to provide a convenient command line entry point. A developer can point to a folder with input PDFs and insert the question/query, and can execute the program directly from the shell.</i></li>
+  <li>Done: <i>Prepare the research proposal <b>meeting with my supervisors</b>.</i></li>
 </ul>
 
 ## Which Goals Did I Miss?
 
-When generating answers from PDFs, the software should be able to track pages and titles (provide context for the result). This is important for users because they oftne need to manually verify whether the generated answers are correct.
+Miss: *When generating answers from PDFs, the software should be able to track pages and titles (provide context for the result). This is important for users because they oftne need to manually verify whether the generated answers are correct.*
 
 I was not able to complete this because I did not have enough time left to understand how Hugginface retrieval-augmented generation model handles contexts and how they can be accessed along with the answer result. I'll have to dig deeper into the model's implementation.
 
