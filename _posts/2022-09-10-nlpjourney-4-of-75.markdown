@@ -27,9 +27,9 @@ series_title: "75 Steps Toward a Ph.D. in NLP"
 
 For the first time, the model returns document-specific answers. To recap, retrieval-augmented generation is designed for the very purpose of finding and outputting information from the documents provided. But in previous weeks, I have not had an eye on the model outputs' quality. 
 
-I wrote a software test to check whether document-provided information is prioritized over parameterized, language model knowledge. From now on, I will notice whether the model's quality has deteriorated significantly.
+I wrote a software test to check whether document-provided information is prioritized over parameterized, language model knowledge. From now on, thanks to this test, I will notice whether the model's quality has deteriorated significantly.
 
-Retrieval-augmented generators (RAG) have **two components**: a language model (parametric knowledge) and a retriever that accesses knowledge from texts/documents (non-parametric knowledge). If we ask RAG about the revenue of a well-known company for a specific year without giving a document that contains this answer, it will likely still provide the correct answer. It can achieve this by utilizing knowledge from the language model (parametric memory). 
+Retrieval-augmented generators (RAG) have **two components**: a language model (parametric knowledge) and a retriever that accesses knowledge from texts/documents (non-parametric knowledge). If we ask RAG about the revenue of a well-known company for a specific year without providing a document that contains this answer, it will likely still provide the correct answer. It can achieve this by utilizing knowledge from the language model (parametric memory). 
 
 But for more obscure knowledge, we cannot rely on the language model and need a powerful retriever that accesses documents. If we ask RAG about a niche topic, the model may **"hallucinate"** an answer, meaning that it will generate an answer that seems to make sense, but is factually incorrect. This is a **common problem of language models**.
 
@@ -39,17 +39,17 @@ You can follow these updates on: [Substack](https://nlpjourney.substack.com/) [B
 
 ## What Happened Since Last Week?
 
-I finally used Jo Karajanov's break suggestions. I had more uninterrupted time to work on Ph.D. tasks this week and it felt easier to do these small walking breaks every 15 minutes. I will continue to be more conscious about my break habits from now on, it really helps.
+I finally used Jo Karajanov's break suggestions. I had more uninterrupted time to work on Ph.D. tasks this week, and it felt easier to do these small walking breaks every 15 minutes. I will continue to be more conscious about my break habits from now on, it really helps.
 
-And I will make sure to have days that are **completely free of meetings**. This week, I Thursday was entirely free of meetings, and Friday I had only two meetings. These days were incredibly effective.
+And I will make sure to have days that are **completely free of meetings**. This week, Thursday was entirely free of meetings, and Friday, I had only two meetings. These days were incredibly effective.
 
-Leisure-wise, I will go mountain climbing tomorrow, on Germany's highest mountain, Zugspitze. We go in a group with some experienced friends. I have no experience with climbing, so I'm glad to go with experts! Fresh air, physical activity, some adrenaline, and seeing good friends is a good recipe for effective mental and intellectual recovery!
+Leisure-wise, I will go mountain climbing tomorrow, on Germany's highest mountain, Zugspitze. We go in a group with some experienced friends. I have no experience with climbing, so I'm glad to go with experts! Fresh air, physical activity, adrenaline, and seeing good friends is a good recipe for effective mental and intellectual recovery!
 
 ## What Were the Biggest Obstacles?
 
-It took some time to handle command line arguments in Python, and especially to make those testable.
+It took some time to handle command line arguments in Python, especially to make those testable.
 
-Also, the test runtime increased manifold this week. One code update now takes up to 15 minutes for all tests, coverage reports, and deployments to run (on GitLab). I added some end-to-end tests this week, which are computationally expensive. From now on, I have to test very carefully, only testing the modules that I've recently changed. A pre-commit test hook is implemented, meaning that the full set of tests will continue to run before every commit. (A commit is a versioning snapshot in coding. Each versioning snapshot should be working properly, so it is good practice to run tests before each snapshot.) I will try to get the overall runtime below 5 minutes again.
+Also, the test runtime increased manifold this week. One code update now takes up to 15 minutes for all tests, coverage reports, and deployments to run (on GitLab). I added some end-to-end tests this week, which are computationally expensive. From now on, I have to test cautiously, only testing the modules that I have recently changed. A pre-commit test hook is implemented, meaning that the full set of tests will continue to run before every commit. (A commit is a versioning snapshot in coding. Each versioning snapshot should be working properly, so it is good practice to run tests before each snapshot.) I will try to get the overall runtime below 5 minutes again.
 
 ## Which Goals Did I Meet?
 
@@ -62,7 +62,7 @@ Also, the test runtime increased manifold this week. One code update now takes u
 
 Miss: *When generating answers from PDFs, the software should be able to track pages and titles (provide context for the result). This is important for users because they oftne need to manually verify whether the generated answers are correct.*
 
-I was not able to complete this because I did not have enough time left to understand how Hugginface retrieval-augmented generation model handles contexts and how they can be accessed along with the answer result. I'll have to dig deeper into the model's implementation.
+I was unable to complete this because I did not have enough time left to understand how Huggingface 🤗 retrieval-augmented generation model handles contexts and how they can be accessed along with the answer result. I'll have to dig deeper into the model's implementation.
 
 ## Was It a Good Week?
 
@@ -71,8 +71,8 @@ Yes. I did not expect to be able to work on my tasks with so few interruptions. 
 ## Short-Term Tasks for The Coming Week
 
 <ol>
-  <li>Carried over from last week: When generating answers from PDFs, the software should be able to track pages and titles (provide context for the result). This is important for users because they oftne need to manually verify whether the generated answers are correct.</li>
-  <li>Start first paper, write outline, and identify initial outlets for publication.</li>
+  <li>Carried over from last week: When generating answers from PDFs, the software should be able to track pages and titles (provide context for the result). This is essential for users because they typically need to verify whether the generated answers are correct manually.</li>
+  <li>Start the first paper, write an outline, and identify initial outlets for publication.</li>
   <li>Conduct the research proposal meeting with my supervisors.</li>
 </ol>
 
