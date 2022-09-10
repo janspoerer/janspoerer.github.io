@@ -39,7 +39,7 @@ You can follow these updates on: [Substack](https://nlpjourney.substack.com/) [B
 
 I finally used Jo Karajanov's break suggestions. I had more uninterrupted time to work on Ph.D. tasks this week and it felt easier to do these small walking breaks every 15 minutes. I will continue to be more conscious about my break habits from now on, it really helps.
 
-Leisure-wise, I will go mountain climbing tomorrow, on Germany's highest mountain, Zugspitze.
+Leisure-wise, I will go mountain climbing tomorrow, on Germany's highest mountain, Zugspitze. We go in a group with some experienced friends. I have no experience with climbing, so I'm glad to go with experts!
 
 ## What Were the Biggest Obstacles?
 
