@@ -60,7 +60,7 @@ Also, the test runtime increased manifold this week. One code update now takes u
 
 ## Which Goals Did I Miss?
 
-Miss: *When generating answers from PDFs, the software should be able to track pages and titles (provide context for the result). This is important for users because they oftne need to manually verify whether the generated answers are correct.*
+Miss: *When generating answers from PDFs, the software should be able to track pages and titles (provide context for the result). This is important for users because they often need to manually verify whether the generated answers are correct.*
 
 I was unable to complete this because I did not have enough time to understand how the [Hugging Face 🤗](https://huggingface.co/facebook/rag-sequence-nq) retrieval-augmented generation model handles contexts and how they can be accessed along with the answer result. I'll have to dig deeper into the model's implementation.
 

@@ -68,7 +68,7 @@ And I had a great WHU Alumni Homecoming on Saturday, and one of my besties and W
 ## Short-Term Tasks for The Coming Week
 
 <ol>
-  <li>When generating answers from PDFs, the software should be able to track pages and titles (provide context for the result). This is important for users because they oftne need to manually verify whether the generated answers are correct.</li>
+  <li>When generating answers from PDFs, the software should be able to track pages and titles (provide context for the result). This is important for users because they often need to manually verify whether the generated answers are correct.</li>
   <li>CLI entry points: To make the module more versatile, I want to provide a convenient command line entry point. A developer can point to a folder with input PDFs and insert the question/query, and can execute the program directly from the shell.</li>
   <li>Prepare the research proposal meeting with my supervisors.</li>
 </ol>
