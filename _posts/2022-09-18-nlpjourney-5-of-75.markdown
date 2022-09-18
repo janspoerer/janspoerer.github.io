@@ -42,7 +42,7 @@ I had some non-Ph.D. distractions this week that kept me from refining the propo
 ## Which Goals Did I Meet?
 
 <ul>
-  <li>Done: <i><b>Proposal meeting:</b> My supervisor, my co-supervisor, and I held the proposal presentation meeting. It got accepted!</i></li>
+  <li>Done: <i><b>Proposal meeting:</b> My supervisor, my co-supervisor, and I held the proposal presentation meeting. The research plan got accepted!</i></li>
 </ul>
 
 ## Which Goals Did I Miss?
@@ -53,7 +53,7 @@ Miss: *Start the first paper, write an outline, and identify initial outlets for
 
 ## Was It a Good Week?
 
-My initial instinct would be to say no because I put in less time than I wanted to. BUT: I have passed the proposal. And, if I think about it more closely, something **even more significant happened during the proposal meeting**: My supervisor suggested **meeting with me weekly and dedicating one person from the chair to guide my research**. This addresses an issue I have sensed for a long while - I needed a jour fixe. I'm definitely a big believer in jour fixes and think that this frequent checkpoint will help me to detect mistakes in my research direction much quicker. 
+My initial instinct would be to say no because I put in less time than I wanted to. BUT: I have passed the proposal. And, if I think about it more closely, something **even more significant happened during the proposal meeting**: My supervisor suggested **meeting with me weekly and dedicating one person from the chair to guide my research**. This addresses an issue I have sensed for a long while - I needed a jour fixe. I'm definitely a big believer in jour fixes and think that this frequent checkpoint will help me detect mistakes in my research direction much quicker. 
 
 ## Short-Term Tasks for The Coming Week
 
