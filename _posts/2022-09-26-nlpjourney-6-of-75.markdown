@@ -57,7 +57,7 @@ Miss: *When generating answers from PDFs, the software should be able to track p
 
 The paper on research methods in computer science was insightful. I have much more clarity now about my research plan and about how to approach my research articles.
 
-But, I am not satisfied with my focus again. Thus, I am currently writing this weekly update while my phone is at home. The phone is a big issue that I need to be more aware of, and additionally I will again enforce that I have days without any meetings to have a less scattered daily structure. A synergy effect of having meeting-free days is that this eliminates the need to bring a phone.
+But, I am still not satisfied with my focus. Thus, I am currently writing this weekly update while my phone is at home. The phone is a big issue that I need to be more aware of, and additionally I will again enforce that I have days without any meetings to have a less scattered daily structure. A synergy effect of having meeting-free days is that this eliminates the need to bring a phone.
 
 ## Short-Term Tasks for The Coming Week
 
