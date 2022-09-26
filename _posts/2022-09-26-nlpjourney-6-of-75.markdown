@@ -42,9 +42,9 @@ Other than too little time, everything was fine.
 ## Which Goals Did I Meet?
 
 <ul>
-  <li>Done: <i><b>Presentation on research methods in computer science:</b>The draft is done.</i></li>
-  <li>Done: <i><b>Outline for my literature review paper:</b>The outline is done and ready for review by my supervisor.</i></li>
-  <li>Done: <i><b>Improvements to the proposal:</b>Refine the proposal as per my supervisors' suggestions.</i></li>
+  <li>Done: <i><b>Presentation on research methods in computer science: </b>The draft is done.</i></li>
+  <li>Done: <i><b>Outline for my literature review paper: </b>The outline is done and ready for review by my supervisor.</i></li>
+  <li>Done: <i><b>Improvements to the proposal: </b>Refine the proposal as per my supervisors' suggestions.</i></li>
 </ul>
 
 ## Which Goals Did I Miss?
