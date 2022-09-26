@@ -51,11 +51,13 @@ Besides the fact that there was too little time, everything was fine.
 
 ## Which Goals Did I Miss?
 
-Miss: *When generating answers from PDFs, the software should be able to track pages and titles (provide context for the result). This is essential for users because they typically need to verify whether the generated answers are correct manually.*
+Miss: *When generating answers from PDFs, the software should be able to track pages and titles (provide context for the result). This is essential for users because they typically need to verify whether the generated answers are correct manually.* - I did not work on this.
 
 ## Was It a Good Week?
 
-My initial instinct would be to say no because I put in less time than I wanted to. BUT: I have passed the proposal. And, if I think about it more closely, something **even more significant happened during the proposal meeting**: My supervisor suggested **meeting with me weekly and dedicating one person from the chair to guide my research**. This addresses an issue I have sensed for a long while - I needed a jour fixe. I'm definitely a big believer in jour fixes and think that this frequent checkpoint will help me detect mistakes in my research direction much quicker. 
+The paper on research methods in computer science was insightful. I have much more clarity now about my research plan and about how to approach my research articles.
+
+But, I am not satisfied with my focus again. Thus, I am currently writing this weekly update while my phone is at home. The phone is a big issue that I need to be more aware of, and additionally I will again enforce that I have days without any meetings to have a less scattered daily structure. A synergy effect of having meeting-free days is that this eliminates the need to bring a phone.
 
 ## Short-Term Tasks for The Coming Week
 
