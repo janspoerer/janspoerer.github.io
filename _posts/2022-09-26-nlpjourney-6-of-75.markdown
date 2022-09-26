@@ -51,7 +51,9 @@ Besides the fact that there was too little time, everything was fine.
 
 ## Which Goals Did I Miss?
 
-Miss: *When generating answers from PDFs, the software should be able to track pages and titles (provide context for the result). This is essential for users because they typically need to verify whether the generated answers are correct manually.* - I did not work on this.
+<ul>
+  <li>Miss: <i>When generating answers from PDFs, the software should be able to track pages and titles (provide context for the result). This is essential for users because they typically need to verify whether the generated answers are correct manually.</i> - I did not work on this.</li>
+</ul>
 
 ## Was It a Good Week?
 
