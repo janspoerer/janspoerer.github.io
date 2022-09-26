@@ -29,6 +29,8 @@ In the first regular weekly meeting with my supervisor, he asked me to make a pr
 
 The presentation will be held in front of the chair in a couple of weeks.
 
+I'm not sure whether the paper is supposed to be publicly available, so I do not provide a link to my Google Drive to the paper for now. But I will do so after confirming that it can be shared!
+
 You can follow these updates on: [Substack](https://nlpjourney.substack.com/) [Blog](https://janspoerer.github.io/phdstudies/) [Telegram](https://t.me/+gmkAaVlKPh4xZTky) [WhatsApp](https://chat.whatsapp.com/F6901LMMJWIGlxrahkgBcq) [LinkedIn](https://www.linkedin.com/in/janspoerer/) [Medium](https://medium.com/@janspoerer/about) [Twitter](https://twitter.com/JanSpoerer) [Calendly](https://calendly.com/janspoerer/60m-private)
 
 ## What Happened Since Last Week?
