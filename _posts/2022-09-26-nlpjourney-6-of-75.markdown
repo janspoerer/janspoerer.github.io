@@ -25,9 +25,9 @@ series_title: "75 Steps Toward a Ph.D. in NLP"
     });
 </script>
 
-In the first regular weekly meeting with my supervisor, he asked me to make a presentation about a research methodology paper. This paper focuses on research within computer science, and I should take the methodology from this paper as a basis for my revised research proposal.
+In the first regular weekly meeting with my supervisor, he asked me to make a presentation about a paper on research methods in computer science. I will take the methodology from this paper as a basis for my revised research proposal.
 
-The presentation will be presented in front of the chair in a couple of weeks.
+The presentation will be held in front of the chair in a couple of weeks.
 
 You can follow these updates on: [Substack](https://nlpjourney.substack.com/) [Blog](https://janspoerer.github.io/phdstudies/) [Telegram](https://t.me/+gmkAaVlKPh4xZTky) [WhatsApp](https://chat.whatsapp.com/F6901LMMJWIGlxrahkgBcq) [LinkedIn](https://www.linkedin.com/in/janspoerer/) [Medium](https://medium.com/@janspoerer/about) [Twitter](https://twitter.com/JanSpoerer) [Calendly](https://calendly.com/janspoerer/60m-private)
 
@@ -37,7 +37,7 @@ I've read the paper proposed by my supervisor, summarized it, and made a present
 
 ## What Were the Biggest Obstacles?
 
-Other than too little time, everything was fine.
+Besides the fact that there was too little time, everything was fine.
 
 ## Which Goals Did I Meet?
 
