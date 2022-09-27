@@ -29,7 +29,7 @@ In the first regular weekly meeting with my supervisor, he asked me to make a pr
 
 The presentation will be held in front of the chair in a couple of weeks.
 
-I'm not sure whether the paper is supposed to be publicly available, so I do not provide a link to my Google Drive to the paper for now. But I will do so after confirming that it can be shared!
+I'm uncertain whether the paper is supposed to be publicly available, so I do not provide a link to my Google Drive to the paper for now. But I will do so after confirming that it can be shared!
 
 You can follow these updates on: [Substack](https://nlpjourney.substack.com/) [Blog](https://janspoerer.github.io/phdstudies/) [Telegram](https://t.me/+gmkAaVlKPh4xZTky) [WhatsApp](https://chat.whatsapp.com/F6901LMMJWIGlxrahkgBcq) [LinkedIn](https://www.linkedin.com/in/janspoerer/) [Medium](https://medium.com/@janspoerer/about) [Twitter](https://twitter.com/JanSpoerer) [Calendly](https://calendly.com/janspoerer/60m-private)
 
@@ -44,7 +44,7 @@ Besides the fact that there was too little time, everything was fine.
 ## Which Goals Did I Meet?
 
 <ul>
-  <li>Done: <i><b>Presentation on research methods in computer science: </b>The draft is done. Please note that this was an ad-hoc task that I did not mention in last week's post.</i></li>
+  <li>Done: <i><b>Presentation on research methods in computer science: </b>The draft is done. It is worth noting that this was an ad-hoc task that I did not mention in last week's post.</i></li>
   <li>Done: <i><b>Outline for my literature review paper: </b>The outline is done and ready for review by my supervisor.</i></li>
   <li>Done: <i><b>Improvements to the proposal: </b>The refined proposal with explicitly defined research questions and hypotheses (as per the methodology paper mentioned above) is done and ready for review by my supervisor.</i></li>
 </ul>
@@ -59,13 +59,13 @@ Besides the fact that there was too little time, everything was fine.
 
 The paper on research methods in computer science was insightful. I have much more clarity now about my research plan and about how to approach my research articles.
 
-But, I am still not satisfied with my focus. Thus, I am currently writing this weekly update while my phone is at home. The phone is a big issue that I need to be more aware of, and additionally I will again enforce that I have days without any meetings to have a less scattered daily structure. A synergy effect of having meeting-free days is that this eliminates the need to bring a phone.
+But, I am still not satisfied with my focus. Thus, I am currently writing this weekly update while my phone is at home. The phone is a big issue that I need to be more aware of, and additionally, I will again enforce that I have days without any meetings to have a less scattered daily structure. A synergy effect of having meeting-free days is that this eliminates the need to bring a phone.
 
 ## Short-Term Tasks for The Coming Week
 
 <ol>
   <li>Refine the presentation about research methods in computer science as per my supervisors' suggestions.</li>
-  <li>Refine the research proposal my supervisors' suggestions.</li>
+  <li>Refine the research proposal using my supervisors' suggestions.</li>
   <li>Carried over from last week: When generating answers from PDFs, the software should be able to track pages and titles (provide context for the result). This is essential for users because they typically need to verify whether the generated answers are correct manually.</li>
 </ol>
 
