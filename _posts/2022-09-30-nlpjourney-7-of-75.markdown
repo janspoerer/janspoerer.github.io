@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "2022-09-30: Update 7/75 - Leaving the Phone at Home"
-date: 2022-09-30
+date: 2022-09-29
 categories: post
 tags: phd
 is_series: true
