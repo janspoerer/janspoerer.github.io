@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "2022-09-30: Update 7/75 - Leaving the Phone at Home"
-date: 2022-09-29
+date: 2022-09-30
 categories: post
 tags: phd
 is_series: true
@@ -25,11 +25,11 @@ series_title: "75 Steps Toward a Ph.D. in NLP"
     });
 </script>
 
-This week's update comes much earlier than last week's update, which was one day too late.
+This week's update comes much **earlier** than last week's update.
 
 Why?
 
-Simply because I left the phone at home today and was [ultraproductive](https://www.linkedin.com/posts/christianpoensgen_we-use-our-phones-from-the-moment-we-wake-activity-6938049822918651904-nBiJ?utm_source=share&utm_medium=member_desktop).
+Simply because I **left the phone at home today** and was [ultraproductive](https://www.linkedin.com/posts/christianpoensgen_we-use-our-phones-from-the-moment-we-wake-activity-6938049822918651904-nBiJ?utm_source=share&utm_medium=member_desktop).
 
 You can follow these updates on: [Substack](https://nlpjourney.substack.com/) [Blog](https://janspoerer.github.io/phdstudies/) [Telegram](https://t.me/+gmkAaVlKPh4xZTky) [WhatsApp](https://chat.whatsapp.com/F6901LMMJWIGlxrahkgBcq) [LinkedIn](https://www.linkedin.com/in/janspoerer/) [Medium](https://medium.com/@janspoerer/about) [Twitter](https://twitter.com/JanSpoerer) [Calendly](https://calendly.com/janspoerer/60m-private)
 
@@ -37,7 +37,7 @@ You can follow these updates on: [Substack](https://nlpjourney.substack.com/) [B
 
 I will hold the presentation about research methods in computer science today (Friday). So I made sure to finish this presentation.
 
-The jour fixe with my supervisor was canceled due to an urgent unexpected issue that entered his schedule. That was compensated by scheduling my presentation on research methods for Friday. I will get feedback on this presentation and this replaces the jour fixe, so all is good.
+The weekly with my supervisor was canceled due to an urgent unexpected issue that entered his schedule. That was compensated by scheduling my presentation on research methods for Friday. I will get feedback on this presentation, and this replaces the weekly, so all is good.
 
 ## What Were the Biggest Obstacles?
 
@@ -59,7 +59,12 @@ None.
 
 Yes. Learning: Leave the phone at home!
 
-How can one leave the phone at home? It is not so easy! **These things help me to leave the phone at home**: 1) Having passwords ready that one needs to join calls (Google Meet and Microsoft Teams), 2) having a two-factor authentication method that does not require a phone (Yubikey), and 3) scheduling meetings in batches on one particular day or in short succession on the same day.
+How can one leave the phone at home? It is not so easy! **These things help me to leave the phone at home**: 
+<ol>
+    <li>Having passwords ready that one needs to join calls (Google Meet and Microsoft Teams),</li>
+    <li>having a two-factor authentication method that does not require a phone (Yubikey), and</li>
+    <li>scheduling meetings in batches on one particular day or in short succession on the same day.</li>
+</ol>
 
 ## Short-Term Tasks for The Coming Week
 
