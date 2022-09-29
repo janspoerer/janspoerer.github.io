@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "2022-09-30: Update 7/75 - Leaving the Phone at Home"
-date: 2022-09-30
+date: 2022-09-29
 categories: post
 tags: phd
 is_series: true
@@ -69,7 +69,9 @@ How can one leave the phone at home? It is not so easy! **These things help me t
 ## Short-Term Tasks for The Coming Week
 
 <ol>
-  <li>Write one section for the first paper. The first paper will be literature review/state-of-the-art.</li>
+  <li>Write one section for the first paper. The first paper will be a literature review/state-of-the-art.</li>
+  <li>Identify a conference for the state-of-the-art.</li>
+  <li>Align the outlet (conference) with my supervisor. (I.e., ask him if he likes the conference and thinks that it fits to my research question.</li>
 </ol>
 
 ____________________________________
