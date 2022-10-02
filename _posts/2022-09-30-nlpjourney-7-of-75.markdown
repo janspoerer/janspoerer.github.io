@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "2022-09-30: Update 7/75 - Leaving the Phone at Home"
-date: 2022-09-29
+title: "2022-10-02: Update 7/75 - Leaving the Phone at Home"
+date: 2022-10-02
 categories: post
 tags: phd
 is_series: true
@@ -25,23 +25,19 @@ series_title: "75 Steps Toward a Ph.D. in NLP"
     });
 </script>
 
-This week's update comes much **earlier** than last week's update.
-
-Why?
-
-Simply because I **left the phone at home today** and was [ultraproductive](https://www.linkedin.com/posts/christianpoensgen_we-use-our-phones-from-the-moment-we-wake-activity-6938049822918651904-nBiJ?utm_source=share&utm_medium=member_desktop).
+This week was a success, simply because I **left the phone at home on Thursday** and I was [ultraproductive](https://www.linkedin.com/posts/christianpoensgen_we-use-our-phones-from-the-moment-we-wake-activity-6938049822918651904-nBiJ?utm_source=share&utm_medium=member_desktop).
 
 You can follow these updates on: [Substack](https://nlpjourney.substack.com/) [Blog](https://janspoerer.github.io/phdstudies/) [Telegram](https://t.me/+gmkAaVlKPh4xZTky) [WhatsApp](https://chat.whatsapp.com/F6901LMMJWIGlxrahkgBcq) [LinkedIn](https://www.linkedin.com/in/janspoerer/) [Medium](https://medium.com/@janspoerer/about) [Twitter](https://twitter.com/JanSpoerer) [Calendly](https://calendly.com/janspoerer/60m-private)
 
 ## What Happened Since Last Week?
 
-I will hold the presentation about research methods in computer science today (Friday). So I made sure to finish this presentation.
+I held a presentation about research methods in computer science on Friday.
 
-The weekly with my supervisor was canceled due to an urgent unexpected issue that entered his schedule. That was compensated by scheduling my presentation on research methods for Friday. I will get feedback on this presentation, and this replaces the weekly, so all is good.
+The weekly with my supervisor was canceled due to an urgent unexpected issue that entered his schedule. That was compensated by scheduling my presentation on research methods for Friday. I got feedback on this presentation, and this replaced the weekly, so all is good.
 
 ## What Were the Biggest Obstacles?
 
-This week was productive again. The biggest obstacle is usually called "me," and this week I was able to refocus by leaving my phone at home. 
+This week brought me back on track. The biggest obstacle is usually called "me," and this week I was able to refocus by leaving my phone at home. 
 
 ## Which Goals Did I Meet?
 
