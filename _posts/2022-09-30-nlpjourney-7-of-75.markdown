@@ -42,7 +42,7 @@ This week brought me back on track. The biggest obstacle is usually called "me,"
 ## Which Goals Did I Meet?
 
 <ul>
-  <li>Done: <i>When generating answers from PDFs, the software should be able to track pages and titles (provide context for the result). This is essential for users because they typically need to verify whether the generated answers are correct manually.</i> - I did not work on this.</li>
+  <li>Done: <i>When generating answers from PDFs, the software should be able to track pages and titles (provide context for the result). This is essential for users because they typically need to verify whether the generated answers are correct manually.</i> </li>
   <li>Done: <i>Refine the presentation about research methods in computer science as per my supervisors' suggestions.</i></li>
   <li>Done: <i>Refine the research proposal using my supervisors' suggestions.</i></li>
 </ul>
