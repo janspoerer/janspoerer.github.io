@@ -6,6 +6,7 @@ categories: post
 tags: phd
 is_series: true
 series_title: "75 Steps Toward a Ph.D. in NLP"
+image: "/assets/images/2022-10-09.jpg"
 # https://shantoroy.com/jekyll/add-latex-math-to-jekyll-blog-minimal-mistakes/
 ---
 <script type="text/javascript" async
@@ -30,6 +31,9 @@ Reading the books displayed in this post's picture helped me to understand that 
 Finding a good conference or journal for my first paper was already crossed from my to-do list, and the next step is to align my selection with my supervisor.
 
 You can follow these updates on: [Substack](https://nlpjourney.substack.com/) [Blog](https://janspoerer.github.io/phdstudies/) [Telegram](https://t.me/+gmkAaVlKPh4xZTky) [WhatsApp](https://chat.whatsapp.com/F6901LMMJWIGlxrahkgBcq) [LinkedIn](https://www.linkedin.com/in/janspoerer/) [Medium](https://medium.com/@janspoerer/about) [Twitter](https://twitter.com/JanSpoerer) [Calendly](https://calendly.com/janspoerer/60m-private)
+
+![Two good books: 1) Scientific English and 2) How to Write and Publish a Scientific Paper.]({{ page.image }})
+<sup>Two good books: 1) Scientific English and 2) How to Write and Publish a Scientific Paper."</sup>
 
 ## What Happened Since Last Week?
 
