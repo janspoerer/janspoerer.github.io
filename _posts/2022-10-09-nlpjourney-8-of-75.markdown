@@ -49,9 +49,9 @@ The learning from that is to be more realistic when agreeing to other activities
 
 ## Which Goals Did I Meet?
 
-None.
+None. 
 
-Sadl.y I
+While replacing tasks with other tasks is no excuse, I would still like to mention that I have at least read the above-mentioned books. (But I only read half of "How to Write and Publish a Scientific Paper" so far.)
 
 ## Which Goals Did I Miss?
 
