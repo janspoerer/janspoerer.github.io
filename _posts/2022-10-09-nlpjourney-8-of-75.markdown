@@ -58,7 +58,7 @@ Replacing tasks with other tasks is no excuse for not following through with pla
 <ol>
   <li>Write one section for the first paper. The first paper will be a literature review/state-of-the-art.</li>
   <li>Identify a conference for the state-of-the-art.</li>
-  <li>Align the outlet (conference) with my supervisor. (I.e., ask him if he likes the conference and thinks that it fits to my research question.</li>
+  <li>Align the outlet (conference) with my supervisor. (I.e., ask him if he likes the conference and thinks that it fits my research question.</li>
 </ol>
 
 ## Was It a Good Week?
