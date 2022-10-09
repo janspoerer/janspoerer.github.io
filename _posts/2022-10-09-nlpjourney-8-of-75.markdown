@@ -37,21 +37,21 @@ You can follow these updates on: [Substack](https://nlpjourney.substack.com/) [B
 
 ## What Happened Since Last Week?
 
-I have read a book about "Scientific English" (see picture) and read half of the book "How to Write and Publish a Scientific Paper".
+I have read a book about "Scientific English" (see picture) and read half of the book "How to Write and Publish a Scientific Paper". My supervisor suggested reading these books.
 
-Who knows, maybe the grammar and style of will improve! The books are certainly helpful for my writing and I can recommend them. My supervisor suggested to read these books.
+Who knows, maybe the grammar and style of these posts will improve! The books are certainly helpful for my writing, and I can recommend them. My supervisor suggested reading these books.
 
 ## What Were the Biggest Obstacles?
 
-While last week's post was rant about my lack of focus, this week I simply did not put in enough time. No excuses here, I just prioritized work-related and other activities over working on my dissertation.
+While last week’s post was a rant about my lack of focus, this week I simply did not put in enough time. No excuses here; I just prioritized work-related and other activities over working on my dissertation.
 
-The learning from that is to be more realistic when agreeing to other activities. A couple hours of non-Ph.D. work will often erase an entire day of dissertation progress.
+The learning from that is to be more realistic when agreeing to other activities. A couple of hours of non-Ph.D. work will often erase an entire day of dissertation progress.
 
 ## Which Goals Did I Meet?
 
 None. 
 
-While replacing tasks with other tasks is no excuse, I would still like to mention that I have at least read the above-mentioned books. (But I only read half of "How to Write and Publish a Scientific Paper" so far.)
+Replacing tasks with other tasks is no excuse for not following through with plans. But I would still like to mention that I have at least read most of the above-mentioned books. (I only read half of “How to Write and Publish a Scientific Paper” so far.)
 
 ## Which Goals Did I Miss?
 
