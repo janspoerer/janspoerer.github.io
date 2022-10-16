@@ -37,9 +37,13 @@ You can follow these updates on: [Substack](https://nlpjourney.substack.com/) [B
 
 ## What Happened Since Last Week?
 
-I have read a book about "Scientific English" (see picture) and read half of the book "How to Write and Publish a Scientific Paper". My supervisor suggested reading these books.
+I finished the other half of the book "How to Write and Publish a Scientific Paper" by Robert Day. Good book.
 
-Who knows, maybe the grammar and style of these posts will improve! The books are certainly helpful for my writing, and I can recommend them. My supervisor suggested reading these books.
+My supervisor suggested a dataset that I might use for benchmarking my algorithms. If this dataset is suitable for my research, it can save me much time as I would not have to create a dataset on my own. I reflected on this dataset and am not sure if it is suitable for me. I will discuss this with my supervisor on Tuesday.
+
+My colleague [Thomas Huber](https://www.linkedin.com/in/thomas-huber-a74396119/) held a presentation at the [Chair of Data Science and NLP](https://ics.unisg.ch/chair-ds-nlp-handschuh/) about the introspection of transformer-based language models [[LM-Debugger - An Interactive Tool for Inspection and Intervention in Transformer-Based Language Models (Geva et al, 2022)](https://arxiv.org/abs/2204.12130)]. The paper presents a method to accurately change the behavior of language models for specific prompts (among other research contributions).
+
+On the private side of things, I catched up with my friends [Johannes Diehl](https://www.linkedin.com/in/johannes-diehl/) and [Kim Schröter](https://www.linkedin.com/in/kim-lara-schroeter/). They spent the weekend in Bonn and we drank a couple of Apfelwein together. Thanks for the good time!
 
 ## What Were the Biggest Obstacles?
 
