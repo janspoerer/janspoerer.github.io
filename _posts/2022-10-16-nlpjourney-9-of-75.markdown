@@ -39,7 +39,7 @@ You can follow these updates on: [Substack](https://nlpjourney.substack.com/) [B
 
 ## What Happened Since Last Week?
 
-I finished the other half of the book "How to Write and Publish a Scientific Paper" by Robert Day. Good book.
+I finished the other half of the book ["How to Write and Publish a Scientific Paper"](https://www.goodreads.com/book/show/1912729.How_to_Write_Publish_a_Scientific_Paper) by Robert Day. Good book.
 
 My supervisor suggested a dataset that I might use for benchmarking my algorithms. If this dataset is suitable for my research, it can save me much time as I would not have to create a dataset on my own. I reflected on this dataset and am not sure if it is suitable for me. I will discuss this with my supervisor on Tuesday.
 
