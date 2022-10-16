@@ -28,11 +28,11 @@ image: "/assets/images/2022-10-16.jpg"
 
 This week, I tried to decide between taking an existing dataset for question answering for financial documents vs. making a new dataset.
 
-I gathered some pros and cons, and identified potential datasets.
+I gathered some pros and cons and identified potential datasets. Building a new dataset from scratch requires effort. But it can also be the basis for a publication. Also, there does not seem to be a dataset that fits to my research question.
 
-My supervisor and I will discuss the results and make a decision in the upcoming week.
+My supervisor and I will discuss the results and decide in the upcoming week.
 
-You can follow these updates on: [Substack](https://nlpjourney.substack.com/) [Blog](https://janspoerer.github.io/phdstudies/) [Telegram](https://t.me/+gmkAaVlKPh4xZTky) [WhatsApp](https://chat.whatsapp.com/F6901LMMJWIGlxrahkgBcq) [LinkedIn](https://www.linkedin.com/in/janspoerer/) [Medium](https://medium.com/@janspoerer/about) [Twitter](https://twitter.com/JanSpoerer) [Calendly](https://calendly.com/janspoerer/60m-private)
+You can follow these updates: [Substack](https://nlpjourney.substack.com/) [Blog](https://janspoerer.github.io/phdstudies/) [Telegram](https://t.me/+gmkAaVlKPh4xZTky) [WhatsApp](https://chat.whatsapp.com/F6901LMMJWIGlxrahkgBcq) [LinkedIn](https://www.linkedin.com/in/janspoerer/) [Medium](https://medium.com/@janspoerer/about) [Twitter](https://twitter.com/JanSpoerer) [Calendly](https://calendly.com/janspoerer/60m-private)
 
 ![This large screen makes me more productive.]({{ page.image }})
 <sup>This large screen makes me more productive.</sup>
@@ -45,7 +45,7 @@ My supervisor suggested a dataset that I might use for benchmarking my algorithm
 
 My colleague [Thomas Huber](https://www.linkedin.com/in/thomas-huber-a74396119/) held a presentation at the [Chair of Data Science and NLP](https://ics.unisg.ch/chair-ds-nlp-handschuh/) about the introspection of transformer-based language models [[LM-Debugger - An Interactive Tool for Inspection and Intervention in Transformer-Based Language Models (Geva et al, 2022)](https://arxiv.org/abs/2204.12130)]. The paper presents a method to accurately change the behavior of language models for specific prompts (among other research contributions).
 
-On the private side of things, I catched up with my friends [Johannes Diehl](https://www.linkedin.com/in/johannes-diehl/) and [Kim Schröter](https://www.linkedin.com/in/kim-lara-schroeter/). They spent the weekend in Frankfurt and we drank a couple of Apfelwein together. Thanks for the good time!
+On the private side of things, I caught up with my friends [Johannes Diehl](https://www.linkedin.com/in/johannes-diehl/) and [Kim Schröter](https://www.linkedin.com/in/kim-lara-schroeter/). They spent the weekend in Frankfurt and we drank a couple of Apfelwein together. Thanks for the good time!
 
 ## What Were the Biggest Obstacles?
 
@@ -66,7 +66,7 @@ No major obstacles. I left the phone at home again today, and it was great.
 
 ## Was It a Good Week?
 
-Yes. Everything starts falling into place and I have a clearer view on the literature and what I want to write about.
+Yes. Everything starts falling into place, and I have a clearer view of the literature and what I want to write about.
 
 ## Short-Term Tasks for The Coming Week
 
