@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2022-10-14: Update 9/75 - XYZ"
+title: "2022-10-14: Update 9/75 - Dataset - Make or Take"
 date: 2022-10-14
 categories: post
 tags: phd
@@ -26,14 +26,16 @@ image: "/assets/images/2022-10-16.jpg"
     });
 </script>
 
-Reading the books displayed in this post’s picture created a sense of urgency for finding a venue for publication. 
+This week, I tried to decide between taking an existing dataset for question answering for financial documents vs. making a new one.
 
-Finding a potential conference or journal for my first paper was already crossed from my to-do list, and the next step is to align the selection with my supervisor.
+I gathered some pros and cons, and identified potential datasets.
+
+My supervisor and I will discuss the results and make a decision in the upcoming week.
 
 You can follow these updates on: [Substack](https://nlpjourney.substack.com/) [Blog](https://janspoerer.github.io/phdstudies/) [Telegram](https://t.me/+gmkAaVlKPh4xZTky) [WhatsApp](https://chat.whatsapp.com/F6901LMMJWIGlxrahkgBcq) [LinkedIn](https://www.linkedin.com/in/janspoerer/) [Medium](https://medium.com/@janspoerer/about) [Twitter](https://twitter.com/JanSpoerer) [Calendly](https://calendly.com/janspoerer/60m-private)
 
-![Two good books: 1) Scientific English and 2) How to Write and Publish a Scientific Paper.]({{ page.image }})
-<sup>Two good books: 1) Scientific English and 2) How to Write and Publish a Scientific Paper.</sup>
+![This large screen makes me more productive.]({{ page.image }})
+<sup>This large screen makes me more productive.</sup>
 
 ## What Happened Since Last Week?
 
@@ -47,21 +49,18 @@ On the private side of things, I catched up with my friends [Johannes Diehl](htt
 
 ## What Were the Biggest Obstacles?
 
-While last week’s post was a rant about my lack of focus, this week I simply did not put in enough time. No excuses here; I just prioritized work-related and other activities over working on my dissertation.
-
-The learning from that is to be more realistic when agreeing to other activities. A couple of hours of non-Ph.D. work will often erase an entire day of dissertation progress.
+No major obstacles. I left the phone at home again today, and it was great.
 
 ## Which Goals Did I Meet?
-
-None. 
-
-Replacing tasks with other tasks is no excuse for not following through with plans. But I would still like to mention that I have at least read most of the above-mentioned books. (I only read half of “How to Write and Publish a Scientific Paper” so far.)
-
-## Which Goals Did I Miss?
 
 <ol>
   <li>Write one section for the first paper. The first paper will be a literature review/state-of-the-art.</li>
   <li>Identify a conference for the state-of-the-art.</li>
+</ol>
+
+## Which Goals Did I Miss?
+
+<ol>
   <li>Align the outlet (conference) with my supervisor. (I.e., ask him if he likes the conference and thinks that it fits my research question.</li>
 </ol>
 
@@ -74,9 +73,8 @@ I missed all goals that I originally intended to achieve.
 ## Short-Term Tasks for The Coming Week
 
 <ol>
-  <li>Write one section for the first paper. The first paper will be a literature review/state-of-the-art.</li>
-  <li>Identify a conference for the state-of-the-art.</li>
-  <li>Align the outlet (conference) with my supervisor. (I.e., ask him if he likes the conference and thinks that it fits to my research question.</li>
+  <li>Align the outlet (conference) with my supervisor. (I.e., ask him if he likes the conference and thinks that it fits my research question.</li>
+  <li>Decide on whether to prepare a dataset ourselves or take an existing dataset.</li>
 </ol>
 
 ____________________________________
