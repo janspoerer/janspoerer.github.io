@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "2022-10-14: Update 9/75 - Dataset - Make or Take"
-date: 2022-10-14
+title: "2022-10-16: Update 9/75 - Dataset - Make or Take"
+date: 2022-10-16
 categories: post
 tags: phd
 is_series: true
@@ -26,7 +26,7 @@ image: "/assets/images/2022-10-16.jpg"
     });
 </script>
 
-This week, I tried to decide between taking an existing dataset for question answering for financial documents vs. making a new one.
+This week, I tried to decide between taking an existing dataset for question answering for financial documents vs. making a new dataset.
 
 I gathered some pros and cons, and identified potential datasets.
 
@@ -45,7 +45,7 @@ My supervisor suggested a dataset that I might use for benchmarking my algorithm
 
 My colleague [Thomas Huber](https://www.linkedin.com/in/thomas-huber-a74396119/) held a presentation at the [Chair of Data Science and NLP](https://ics.unisg.ch/chair-ds-nlp-handschuh/) about the introspection of transformer-based language models [[LM-Debugger - An Interactive Tool for Inspection and Intervention in Transformer-Based Language Models (Geva et al, 2022)](https://arxiv.org/abs/2204.12130)]. The paper presents a method to accurately change the behavior of language models for specific prompts (among other research contributions).
 
-On the private side of things, I catched up with my friends [Johannes Diehl](https://www.linkedin.com/in/johannes-diehl/) and [Kim Schröter](https://www.linkedin.com/in/kim-lara-schroeter/). They spent the weekend in Bonn and we drank a couple of Apfelwein together. Thanks for the good time!
+On the private side of things, I catched up with my friends [Johannes Diehl](https://www.linkedin.com/in/johannes-diehl/) and [Kim Schröter](https://www.linkedin.com/in/kim-lara-schroeter/). They spent the weekend in Frankfurt and we drank a couple of Apfelwein together. Thanks for the good time!
 
 ## What Were the Biggest Obstacles?
 
@@ -66,9 +66,7 @@ No major obstacles. I left the phone at home again today, and it was great.
 
 ## Was It a Good Week?
 
-No. My progress reading books about academic writing was good. But my reading and coding progress was poor. 
-
-I missed all goals that I originally intended to achieve.
+Yes. Everything starts falling into place and I have a clearer view on the literature and what I want to write about.
 
 ## Short-Term Tasks for The Coming Week
 
