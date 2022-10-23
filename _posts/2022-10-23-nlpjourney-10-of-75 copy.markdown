@@ -26,13 +26,13 @@ image: "/assets/images/2022-10-23.jpg"
     });
 </script>
 
-All signs indicate that we will create our own dataset. There is no dataset yet for our domain.
+All signs indicate that we will create our own dataset. There is no dataset yet for our domain. (I'm almost certain about that by now.)
 
-That's a good thing because building a dataset allows us to venture into unchartered territory and possibly leave a big scientific mark in our field.
+That's a good thing because building a dataset allows us to venture into uncharted territory and possibly leave a big scientific mark in our field.
 
-The decision "dataset - make or take," which was originally planned to be taken this week, will hopefully be finalized in the coming week... As mentioned, I am now even more certain than last week that we will "make" and not "take."
+I hope to finalize the "dataset - make or take" question, which I originally planned to take this week, in the coming week... As mentioned, I am now even more certain than last week that we will "make" and not "take."
 
-We just want to be certain before we go into this direction. Building a dataset would involve significant commitment of our resources.
+We want to be sure before we go into this direction. Building a dataset would involve a significant commitment of our resources.
 
 You can follow these updates: [Substack](https://nlpjourney.substack.com/) [Blog](https://janspoerer.github.io/phdstudies/) [Telegram](https://t.me/+gmkAaVlKPh4xZTky) [WhatsApp](https://chat.whatsapp.com/F6901LMMJWIGlxrahkgBcq) [LinkedIn](https://www.linkedin.com/in/janspoerer/) [Medium](https://medium.com/@janspoerer/about) [Twitter](https://twitter.com/JanSpoerer) [Calendly](https://calendly.com/janspoerer/60m-private)
 
@@ -41,11 +41,11 @@ You can follow these updates: [Substack](https://nlpjourney.substack.com/) [Blog
 
 ## What Happened Since Last Week?
 
-I re-read a [paper (FinBERT, by Yang, Uy, Huang from 2020)](https://arxiv.org/abs/2006.08097) that I may cite in our research. To my delight, I noticed that since I last read this paper, I understand **much** more.
+I re-read a [paper (FinBERT, by Yang, Uy, Huang from 2020)](https://arxiv.org/abs/2006.08097) that I may cite in our research. To my delight, I noticed that since I last read this paper, I have understood **much** more.
 
 It's always good to see that one is making progress.
 
-Apart from that, I set up everything to start a website that can serve us to advertise and inform about our planned new dataset. These benchmarking/dataset websites usually contain a leaderboard (with the scores that each research team has received on the dataset with their algorithms) and instructions for downloading, using, and evaluating the dataset.
+Apart from that, I set up everything to start a website that can serve us to advertise and inform about our planned new dataset. These benchmarking/dataset websites usually contain a leaderboard (with the scores each research team has received on the dataset with their algorithms) and instructions for downloading, using, and evaluating the dataset.
 
 ## What Were the Biggest Obstacles?
 
@@ -54,9 +54,9 @@ All good. Great week!
 ## Which Goals Did I Meet?
 
 <ol>
-  <li>Align the outlet (conference) with my supervisor. (I.e., ask him if he likes the conference and thinks that it fits my research question.</li>
-  <li>Prepare a website for advertising out dataset. (This goal was not in the last update, it came up spontaneously.)</li>
-  <li>Write instructions for using our dataset in the format of a mini-paper. (This goal was not in the last update, it came up spontaneously.)</li>
+  <li>Align the outlet (conference) with my supervisor. (I.e., ask him if he likes the conference and thinks it fits my research question.</li>
+  <li>Prepare a website for advertising our dataset. (This goal was not in the previous update, it came up spontaneously.)</li>
+  <li>Write instructions for using our dataset in the format of a mini-paper. (This goal was not in the previous update, it came up spontaneously.)</li>
 </ol>
 
 ## Which Goals Did I Miss?
@@ -69,12 +69,13 @@ All good. Great week!
 
 Yes.
 
-I re-activated my YouTube Premium subscriptions, and I noticed that listening to music without interruptions is a big productivity boost for me.
+I re-activated my YouTube Premium subscriptions and noticed that listening to music without interruptions is a significant productivity boost for me.
 
 ## Short-Term Tasks for The Coming Week
 
 <ol>
-  <li>None. I'll wait and see what comes up in the meeting with my supervisor on Tuesday. Now that I have meetings with my supervisor on Tuesdays, I have less certainty about my weekly to-dos on Sundays.</li>
+  <li>None. I'll wait and see what comes up in Tuesday's meeting with my supervisor. Now that I have meetings with my supervisor on Tuesdays, I have less certainty about my weekly to-dos on Sundays.
+  </li>
 </ol>
 
 ____________________________________
