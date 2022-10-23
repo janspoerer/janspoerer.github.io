@@ -28,9 +28,11 @@ image: "/assets/images/2022-10-23.jpg"
 
 All signs indicate that we will create our own dataset. There is no dataset yet for our domain.
 
-That's a good thing because it allows us to venture into unchartered territory and possibly leave a big scientific mark in our field.
+That's a good thing because building a dataset allows us to venture into unchartered territory and possibly leave a big scientific mark in our field.
 
 The decision "dataset - make or take," which was originally planned to be taken this week, will hopefully be finalized in the coming week... As mentioned, I am now even more certain than last week that we will "make" and not "take."
+
+We just want to be certain before we go into this direction. Building a dataset would involve significant commitment of our resources.
 
 You can follow these updates: [Substack](https://nlpjourney.substack.com/) [Blog](https://janspoerer.github.io/phdstudies/) [Telegram](https://t.me/+gmkAaVlKPh4xZTky) [WhatsApp](https://chat.whatsapp.com/F6901LMMJWIGlxrahkgBcq) [LinkedIn](https://www.linkedin.com/in/janspoerer/) [Medium](https://medium.com/@janspoerer/about) [Twitter](https://twitter.com/JanSpoerer) [Calendly](https://calendly.com/janspoerer/60m-private)
 
@@ -43,7 +45,7 @@ I re-read a [paper (FinBERT, by Yang, Uy, Huang from 2020)](https://arxiv.org/ab
 
 It's always good to see that one is making progress.
 
-Apart from that, I set up everything to start a website that can serve us to advertise and inform about our planned new dataset. These websites usually contain a leaderboard (with the scores that each research team has received on the dataset with their algorithms) and instructions for downloading, using, and evaluating the dataset.
+Apart from that, I set up everything to start a website that can serve us to advertise and inform about our planned new dataset. These benchmarking/dataset websites usually contain a leaderboard (with the scores that each research team has received on the dataset with their algorithms) and instructions for downloading, using, and evaluating the dataset.
 
 ## What Were the Biggest Obstacles?
 
@@ -72,7 +74,7 @@ I re-activated my YouTube Premium subscriptions, and I noticed that listening to
 ## Short-Term Tasks for The Coming Week
 
 <ol>
-  <li>None. I'll what comes up in the meeting with my supervisor on Tuesday.</li>
+  <li>None. I'll wait and see what comes up in the meeting with my supervisor on Tuesday. Now that I have meetings with my supervisor on Tuesdays, I have less certainty about my weekly to-dos on Sundays.</li>
 </ol>
 
 ____________________________________
