@@ -26,13 +26,13 @@ image: "/assets/images/2022-10-23.jpg"
     });
 </script>
 
-All signs indicate that we will create our own dataset. There is no dataset yet for our domain. (I'm almost certain about that by now.)
+All signs indicate that we will create our own dataset. There is no dataset yet for our domain-task combination. (I'm almost certain about that by now.)
 
 That's a good thing because building a dataset allows us to venture into uncharted territory and possibly leave a big scientific mark in our field.
 
 I hope to finalize the "dataset - make or take" question, which I originally planned to take this week, in the coming week... As mentioned, I am now even more certain than last week that we will "make" and not "take."
 
-We want to be sure before we go into this direction. Building a dataset would involve a significant commitment of our resources.
+We want to be sure before we go in this direction. Building a dataset would involve a significant commitment of our resources.
 
 You can follow these updates: [Substack](https://nlpjourney.substack.com/) [Blog](https://janspoerer.github.io/phdstudies/) [Telegram](https://t.me/+gmkAaVlKPh4xZTky) [WhatsApp](https://chat.whatsapp.com/F6901LMMJWIGlxrahkgBcq) [LinkedIn](https://www.linkedin.com/in/janspoerer/) [Medium](https://medium.com/@janspoerer/about) [Twitter](https://twitter.com/JanSpoerer) [Calendly](https://calendly.com/janspoerer/60m-private)
 
