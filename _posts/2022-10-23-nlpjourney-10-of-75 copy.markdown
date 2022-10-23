@@ -26,7 +26,7 @@ image: "/assets/images/2022-10-23.jpg"
     });
 </script>
 
-All signs indicate that we will create our own dataset. There has not been a dataset for our domain.
+All signs indicate that we will create our own dataset. There is no dataset yet for our domain.
 
 That's a good thing because it allows us to venture into unchartered territory and possibly leave a big scientific mark in our field.
 
@@ -39,7 +39,7 @@ You can follow these updates: [Substack](https://nlpjourney.substack.com/) [Blog
 
 ## What Happened Since Last Week?
 
-I re-read a [paper (FinBERT, by Yang, Uy, Huang from 2020)](https://arxiv.org/abs/2006.08097) that I may cite in research. To my delight, I noticed that since I last read this paper, I understood **much** more.
+I re-read a [paper (FinBERT, by Yang, Uy, Huang from 2020)](https://arxiv.org/abs/2006.08097) that I may cite in our research. To my delight, I noticed that since I last read this paper, I understand **much** more.
 
 It's always good to see that one is making progress.
 
