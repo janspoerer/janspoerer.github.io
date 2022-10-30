@@ -26,11 +26,11 @@ image: "/assets/images/2022-10-30.jpg"
     });
 </script>
 
-Such a cheesy title! The reason for the title is: The thermal discharge of our chair's DGX-2 (explanation below) helps heat a Swiss cheese factory (no joke).
+Such a cheesy title! The reason for the title is: The thermal discharge of our chair’s DGX-2 (explanation below) helps heat a Swiss cheese factory (no joke).
 
 I can thus proudly proclaim to be a contributor to Swiss cheesemaking. This week, parts of my code ran on our DGX-2 for the first time.
 
-We had a spontaneous idea for a paper and ran experiments for this idea on the DGX-2. As mentioned in earlier updates, we are planning to create a dataset. The experiments we ran last week examine how existing AI benchmarks perform with less training data. By doing these experiments, we want to determine which minimum training size we need when creating our own dataset.
+We had a spontaneous idea for a paper and ran experiments for this idea on the DGX-2. As mentioned in earlier updates, we are planning to create a dataset. The experiments we ran last week examine how existing AI benchmarks perform with less training data. With these experiments, we want to determine which minimum training size we need when creating our own dataset.
 
 Here is the explanation of what a DGX-2 is: A DGX-2 is a hardware system by graphics processing unit (GPU) manufacturer NVIDIA. It contains 16 NVIDIA V100 GPUs, which are individually already strong GPUs. DGX-2 is specifically designed for artificial intelligence research.
 
