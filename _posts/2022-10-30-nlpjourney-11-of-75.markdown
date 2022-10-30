@@ -30,7 +30,7 @@ Such a cheesy title! The reason for the title is: The thermal discharge of our c
 
 I can thus proudly proclaim to be a contributor to Swiss cheesemaking. This week, parts of my code ran on our DGX-2 for the first time.
 
-We had a spontaneous idea for a paper and ran experiments for this idea on the DGX-2. As mentioned in earlier updates, we are planning to create a dataset. The experiments that we ran last week examine how existing AI benchmarks perform with less training data. By making these experiments, we want to find out which minimum training size we need when we create our own dataset.
+We had a spontaneous idea for a paper and ran experiments for this idea on the DGX-2. As mentioned in earlier updates, we are planning to create a dataset. The experiments we ran last week examine how existing AI benchmarks perform with less training data. By doing these experiments, we want to determine which minimum training size we need when creating our own dataset.
 
 Here is the explanation of what a DGX-2 is: A DGX-2 is a hardware system by graphics processing unit (GPU) manufacturer NVIDIA. It contains 16 NVIDIA V100 GPUs, which are individually already strong GPUs. DGX-2 is specifically designed for artificial intelligence research.
 
@@ -41,11 +41,11 @@ You can follow these updates: [Substack](https://nlpjourney.substack.com/) [Blog
 
 ## What Happened Since Last Week?
 
-We ran scaling experiments to see how question answering systems perform with different training data sizes. We have set up our experimental structure and the code, and now just need to expand the experiments to addtional datasets and models.
+We ran scaling experiments to see how question answering systems perform with different training data sizes. We have set up our experimental structure and the code, and now we need to expand the experiments to additional datasets and models.
 
 ## What Were the Biggest Obstacles?
 
-We pivoted a big. I started the week without a clear goal in mind, and us now running experiments on dataset scaling was a shot in the dark. We will see if this turns out to be a useful path.
+We changed path into an unforeseen direction. I started the week without a clear goal in mind, and us now running experiments on dataset scaling was a shot in the dark. We will see if this turns out to be a good path.
 
 ## Which Goals Did I Meet?
 
@@ -61,7 +61,7 @@ We pivoted a big. I started the week without a clear goal in mind, and us now ru
 
 ## Was It a Good Week?
 
-Yes, at least I was productive. The chosen path was spontaneous, and the work might turn out to have been wasted. Let's see what our experiments will yield.
+Yes, at least I was productive. The chosen path was spontaneous, and the work might have been wasted. Let's see what our experiments will yield.
 
 ## Short-Term Tasks for The Coming Week
 
