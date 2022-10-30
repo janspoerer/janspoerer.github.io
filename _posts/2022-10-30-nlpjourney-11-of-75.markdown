@@ -26,7 +26,7 @@ image: "/assets/images/2022-10-30.jpg"
     });
 </script>
 
-Such a cheesy title! The reason for the title is: The thermal discharge of our chair's DGX-2 (explanation below) helps to heat a Swiss cheese factory (no joke).
+Such a cheesy title! The reason for the title is: The thermal discharge of our chair's DGX-2 (explanation below) helps heat a Swiss cheese factory (no joke).
 
 I can thus proudly proclaim to be a contributor to Swiss cheesemaking. This week, parts of my code ran on our DGX-2 for the first time.
 
@@ -45,7 +45,7 @@ We ran scaling experiments to see how question answering systems perform with di
 
 ## What Were the Biggest Obstacles?
 
-We changed path into an unforeseen direction. I started the week without a clear goal in mind, and us now running experiments on dataset scaling was a shot in the dark. We will see if this turns out to be a good path.
+We changed the path in an unforeseen direction. I started the week without a clear goal in mind, and is now running experiments on dataset scaling was a shot in the dark. We will see if this turns out to be a good path.
 
 ## Which Goals Did I Meet?
 
