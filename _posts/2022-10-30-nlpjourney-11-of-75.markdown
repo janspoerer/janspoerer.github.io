@@ -55,6 +55,8 @@ We changed path into an unforeseen direction. I started the week without a clear
 
 ## Which Goals Did I Miss?
 
+I leave this goal here as we are still not 100% sure:
+
 <ol>
   <li>Decide on whether to prepare a dataset ourselves or take an existing dataset.</li>
 </ol>
