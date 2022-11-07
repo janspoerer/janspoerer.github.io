@@ -1,0 +1,100 @@
+---
+layout: post
+title: "2022-11-07: Update 12/75 - Three Days of Conference via Zoom"
+date: 2022-11-07
+categories: post
+tags: phd
+is_series: true
+series_title: "75 Steps Toward a Ph.D. in NLP"
+image: "/assets/images/2022-10-30.jpg"
+# https://shantoroy.com/jekyll/add-latex-math-to-jekyll-blog-minimal-mistakes/
+---
+<script type="text/javascript" async
+    src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.6/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
+
+<script type="text/x-mathjax-config">
+    MathJax.Hub.Config({
+        extensions: ["tex2jax.js"],
+        jax: ["input/TeX", "output/HTML-CSS"],
+        tex2jax: {
+        inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+        displayMath: [ ['$$','$$'], ["\\[","\\]"] ],
+        processEscapes: true
+        },
+        "HTML-CSS": { availableFonts: ["TeX"] }
+    });
+</script>
+
+
+
+You can follow these updates: [Substack](https://nlpjourney.substack.com/) [Blog](https://janspoerer.github.io/phdstudies/) [Telegram](https://t.me/+gmkAaVlKPh4xZTky) [WhatsApp](https://chat.whatsapp.com/F6901LMMJWIGlxrahkgBcq) [LinkedIn](https://www.linkedin.com/in/janspoerer/) [Medium](https://medium.com/@janspoerer/about) [Twitter](https://twitter.com/JanSpoerer) [Calendly](https://calendly.com/janspoerer/60m-private)
+
+![Say cheese!]({{ page.image }})
+<sup>Say cheese!</sup>
+
+## What Happened Since Last Week?
+
+We ran scaling experiments to see how question answering systems perform with different training data sizes. We have set up our experimental structure and the code, and now we need to expand the experiments to additional datasets and models.
+
+## What Were the Biggest Obstacles?
+
+We changed the path in an unforeseen direction. I started the week without a clear goal in mind, and is now running experiments on dataset scaling was a shot in the dark. We will see if this turns out to be a good path.
+
+## Which Goals Did I Meet?
+
+<ol>
+  <li>No goals were set, so no goals can be met.</li>
+</ol>
+
+## Which Goals Did I Miss?
+
+I leave this goal here as we are still not 100% sure:
+
+<ol>
+  <li>Decide on whether to prepare a dataset ourselves or take an existing dataset.</li>
+</ol>
+
+## Was It a Good Week?
+
+Yes, at least I was productive. The chosen path was spontaneous, and the work might have been wasted. Let's see what our experiments will yield.
+
+## Short-Term Tasks for The Coming Week
+
+<ol>
+  <li>Expanding the experiments to additional models.
+  </li>
+  <li>Optional: Expanding the experiments to additional question answering datasets.
+  </li>
+</ol>
+
+____________________________________
+
+## About "75-Step Journey Toward a Ph.D. in Natural Language Processing"
+
+You will, from now on, witness my grind. Feel my blood, sweat, and tears.
+
+With this series of articles, you become a real-life weekly witness of my dissertation progress, all in 75 steps. This has multiple purposes:
+
+1) Forcing myself to keep moving through the power of public shame!
+
+2) Helping other (prospective) Ph.D. students to stay motivated and to show that hard times are normal when going through this process.
+
+3) Getting support from the community when I go through hard times.
+
+Share this with your Ph.D. student friends: [Substack](https://nlpjourney.substack.com/) [Blog](https://janspoerer.github.io/phdstudies/) [Telegram](https://t.me/+gmkAaVlKPh4xZTky) [WhatsApp](https://chat.whatsapp.com/F6901LMMJWIGlxrahkgBcq) [LinkedIn](https://www.linkedin.com/in/janspoerer/) [Medium](https://medium.com/@janspoerer/about) [Twitter](https://twitter.com/JanSpoerer) [Calendly](https://calendly.com/janspoerer/60m-private).
+
+{% if page.is_series == true %}
+    {% assign posts = site.posts | where: "is_series", true | where: "series_title", page.series_title | sort: 'date' %}
+    {% if posts.size > 1 %}
+
+<h3 class="text-success p-3 pb-0">Read More From the {{ page.series_title }} Series</h3>
+        {% for post in posts %}
+                {% if post.title == page.title %}
+<p class="nav-link bullet-pointer mb-0">{{ post.title }}</p>
+                {% else %}
+<a class="nav-link bullet-hash" href="{{ post.url }}">{{ post.title }}</a>
+                {% endif %}
+        {% endfor %}
+    {% endif %}
+{% endif %}
