@@ -12,17 +12,17 @@ series_title: "Spoerico"
 ## CV
 My first freelance project started in August 2017, right after my undergrad in International Management from WHU. Back then, I helped a startup to raise money and professionalize their accounting and controlling. The full-time project lasted for about four months.
 
-From early 2018, a year of working on a software startup followed. We developed a tool for improving Know Your Customer (KYC) processes for banks.
+From early 2018, a year of working on a software startup followed. We developed a tool to improve banks' Know Your Customer (KYC) processes.
 
 In the summer of 2018, I did a web development bootcamp at Le Wagon in Berlin to deepen my coding skills. Shortly after that, a year after undergrad, I enrolled in the first intake of the newly-created Applied Data Science program at Frankfurt School of Finance & Management.
 
-In 2019, I got excited about crypto while attending a blockchain elective at Frankfurt School, held by [Prof. Dr. Philipp Sandner](https://www.linkedin.com/in/philippsandner/) and [Christoph Kreiterling](https://www.linkedin.com/in/christoph-kreiterling/). I started to freelance for multiple companies and implemented backtesting solutions for them, and these were my first highly technical freelancing projects.
+In 2019, I got excited about crypto while attending a blockchain elective at Frankfurt School, held by [Prof. Dr. Philipp Sandner](https://www.linkedin.com/in/philippsandner/) and [Christoph Kreiterling](https://www.linkedin.com/in/christoph-kreiterling/). I freelanced for multiple companies and implemented backtesting solutions for them, and these were my first highly technical freelancing projects.
 
 In 2020, I graduated from [Frankfurt School](https://www.frankfurt-school.de/en/home/programmes/master/data-science) and started to work at Commerzbank AG as a software engineer. Today, I am working as a software engineer in Commerzbank's DLT/Blockchain Lab.
 
 In the same year, I enrolled in a Ph.D. program in computer science at the [University of St. Gallen](https://ics.unisg.ch/chair-ds-nlp-handschuh/). Find more about it [here](/phdstudies).
 
-Furthermore, I co-founded [21e6 Capital AG](https://assets.21e6.io/), a startup that provides investment advice to professional investors seeking to invest in crypto markets. I am still involved here, and the business is developing beyond my expectations. We have a first-class team of quant portfolio analysts and crypto experts. We have three business areas: 1) consulting, 2) fund of funds, and 3) other fiancial products; 2) is currently our main business.
+Furthermore, I co-founded [21e6 Capital AG](https://assets.21e6.io/), a startup that provides investment advice to professional investors seeking to invest in crypto markets. I am still involved here, and the business is developing beyond my expectations. We have a first-class team of quant portfolio analysts and crypto experts. We have three business areas: 1) consulting, 2) fund of funds, and 3) other financial products; 2) is our primary business.
 
 ## Projects
 
@@ -31,12 +31,15 @@ Furthermore, I co-founded [21e6 Capital AG](https://assets.21e6.io/), a startup 
 * DLT Lab Commerzbank
     * Worked on a self-sovereign identity application based on Java Spring Boot and Angular.
     * Organized monthly "DLT Affiliate Call" to align interested employees on DLT-related activities within the bank.
+    * Held numerous knowledge sharing presentations for colleagues interested in crypto/DLT.
+    * Supervised junior software development colleagues.
 * University of St. Gallen
     * Completed the proposal for my dissertation.
     * Outlined a software infrastructure for processing financial texts.
+    * [Please refer to my Ph.D. blog posts to see the most recent progress.](https://janspoerer.github.io/post/2022/08/20/nlpjourney-1-of-75.html)
 * 21e6 Capital AG
-    * Launch of the fund of funds, our flagship product, in April 2022.
-    * Exceptional performance of the fund of funds throughout the Q2 crypto meltdown.
+    * Launched the fund of funds, our flagship product, in April 2022.
+    * We achieved exceptional performance of the fund of funds throughout the Q2 crypto meltdown.
 
 ### 2021
 
@@ -53,10 +56,10 @@ Furthermore, I co-founded [21e6 Capital AG](https://assets.21e6.io/), a startup 
 * University of St. Gallen
     * Completed Ph.D. courses in econometrics, natural language processing, and software for AI (S4AI). 
 * Spoerico GmbH
-    * Incorporated a GmbH to bundle my business activities in a more professional corporate structure/legal entity. I previously settled all business-related activities via myself as a natural person.
+    * Incorporated a GmbH to bundle my business activities into a more professional corporate structure/legal entity to reduce personal liability and to reduce my tax burden.
     * Developed a massive scraper-based product for a large HR/recruitment agency (Personalvermittlung/Headhunter).
     * Failed to get a permanent software-as-a-service contract.
-    * Put the scraper in my shelf, maybe it becomes useful later. (A partner and I own all rights.)
+    * Put the scraper on my shelf; maybe it becomes useful later. (A partner and I own all rights.)
 
 ### 2020
 
