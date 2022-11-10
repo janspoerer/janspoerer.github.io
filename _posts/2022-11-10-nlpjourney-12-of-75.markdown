@@ -36,8 +36,8 @@ This week, I (remotely) visited the [3rd ACM International Conference on AI in F
 
 You can follow these updates: [Substack](https://nlpjourney.substack.com/) [Blog](https://janspoerer.github.io/phdstudies/) [Telegram](https://t.me/+gmkAaVlKPh4xZTky) [WhatsApp](https://chat.whatsapp.com/F6901LMMJWIGlxrahkgBcq) [LinkedIn](https://www.linkedin.com/in/janspoerer/) [Medium](https://medium.com/@janspoerer/about) [Twitter](https://twitter.com/JanSpoerer) [Calendly](https://calendly.com/janspoerer/60m-private)
 
-![Say cheese!]({{ page.image }})
-<sup>Say cheese!</sup>
+![Yay, me listening to conference and workshop proceedings for three days from my small apartment in Frankfurt.]({{ page.image }})
+<sup>Yay, me listening to conference and workshop proceedings for three days from my small apartment in Frankfurt.</sup>
 
 ## What Happened Since Last Week?
 
