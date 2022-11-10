@@ -28,11 +28,11 @@ image: "/assets/images/2022-11-10.jpg"
 
 Next week will be all about scale! I will take our base code and make it work with many different models and datasets. More on that next week.
 
-Thanks for clicking through despite this week's delay! The schedule of these updates will now shift slightly backward. 
+Thanks for clicking through despite this week's delay! The weekly publishing schedule of these updates will now shift slightly backward.
 
-I do this becaus the alignment with my supervisor and co-author is usually on Tuesdays, so I will publish these updates after the alignment meeting.
+I do this because the alignment with my supervisor and co-author is usually on Tuesdays, so I will publish these updates after the alignment meeting, and not anymore around Sundays.
 
-This week, I (remotely) visited the [3rd ACM International Conference on AI in Finance](https://ai-finance.org/). The conference fits my research area well, and it gave me a sense of the type of articles that are in demand and how these papers are presented vocally.
+This week, I (remotely) visited the [3rd ACM International Conference on AI in Finance](https://ai-finance.org/). The conference fits my research area well, and it gave me a sense of the type of articles that are in demand and how these papers are presented.
 
 You can follow these updates: [Substack](https://nlpjourney.substack.com/) [Blog](https://janspoerer.github.io/phdstudies/) [Telegram](https://t.me/+gmkAaVlKPh4xZTky) [WhatsApp](https://chat.whatsapp.com/F6901LMMJWIGlxrahkgBcq) [LinkedIn](https://www.linkedin.com/in/janspoerer/) [Medium](https://medium.com/@janspoerer/about) [Twitter](https://twitter.com/JanSpoerer) [Calendly](https://calendly.com/janspoerer/60m-private)
 
@@ -41,7 +41,7 @@ You can follow these updates: [Substack](https://nlpjourney.substack.com/) [Blog
 
 ## What Happened Since Last Week?
 
-We set up [Weights & Biases](https://www.linkedin.com/company/weights-biases/) to track our model during training, and we created a standardized spreadsheet output for our model results. This spreadsheet will likely become the basis of our first article.
+We set up [Weights & Biases](https://wandb.ai/) to track our model during training, and we created a standardized, automated spreadsheet output for our model results. This spreadsheet will likely become the basis of our first article.
 
 While I was listening to conference presentations for three days straight, my co-author did further testing of our code on the DGX-2.
 
@@ -52,18 +52,14 @@ I enjoyed listening into the conference, but of course it reduced the time I cou
 ## Which Goals Did I Meet?
 
 <ol>
-  <li>I participated in the ICAIF '22 conference!</li>
-  <li>Expand the experiments to additional models. (Although credit for this goes to my co-author.)</li>
+  <li>Participate in the 3rd ACM ICAIF '22 conference!</li>
   <li>Decide on whether to prepare a dataset ourselves or take an existing dataset. <b>We will prepare our own dataset! Decision was made!</b></li>
 </ol>
 
 ## Which Goals Did I Miss?
 
-I leave this goal here as we are still not 100% sure:
-
 <ol>
-  <li>Decide on whether to prepare a dataset ourselves or take an existing dataset.</li>
-  <li>Expand the experiments to additional datasets.<li>
+  <li>Expand the experiments to additional models. (Although credit for this goes to my co-author for already adding one more model. We currently have two working models.)</li>
 </ol>
 
 ## Was It a Good Week?
@@ -77,8 +73,10 @@ Next week will be all about scale, because I will take the existing code and mak
 <ol>
   <li>Expand the experiments to additional models. (Even more models. We currently only have two. I will scale this to 10 models.)
   </li>
-  <li>Expand the experiments to additional datasets.<li>
+  <li>Expand the experiments to additional datasets.</li>
 </ol>
+
+<br>
 
 ____________________________________
 
