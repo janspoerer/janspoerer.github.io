@@ -10,6 +10,8 @@ series_title: "Spoerico"
 <sub>This article is updated on an ongoing basis. Latest change: 2022-07-26. See the [version history of this repository](https://github.com/janspoerer/janspoerer.github.io/blob/main/_posts/2022-07-24-project-portfolio.markdown) for exact versioning.</sub>
 
 ## CV
+[Find a downloadable .docx tabular CV here.](https://docs.google.com/document/d/1-okDZ_N9h40xi7LAKBkw9jGzCNa6EaQK/edit?usp=sharing&ouid=114686182467069464741&rtpof=true&sd=true)
+
 My first freelance project started in August 2017, right after my undergrad in International Management from WHU. Back then, I helped a startup to raise money and professionalize their accounting and controlling. The full-time project lasted for about four months.
 
 From early 2018, a year of working on a software startup followed. We developed a tool for improving Know Your Customer (KYC) processes for banks.
@@ -51,7 +53,7 @@ Furthermore, I co-founded [21e6 Capital AG](https://assets.21e6.io/), a startup 
     * High-touch outreach to crypto funds; due diligence. Talked to many crypto fund managers to assess their suitability for the 21e6 Crypto Fund of Funds (21e6 Crypto FoF).
     * We hired seasoned professionals and received funding commitments to scale the business. The Swiss 21e6 Capital AG (stock-based corporation, Aktiengesellschaft) was incorporated.
 * University of St. Gallen
-    * Completed Ph.D. courses in econometrics, natural language processing, and software for AI (S4AI). 
+    * Completed Ph.D. courses in econometrics, natural language processing, and software for AI (S4AI).
 * Spoerico GmbH
     * Incorporated a GmbH to bundle my business activities in a more professional corporate structure/legal entity. I previously settled all business-related activities via myself as a natural person.
     * Developed a massive scraper-based product for a large HR/recruitment agency (Personalvermittlung/Headhunter).
@@ -86,7 +88,7 @@ Specific areas of competence included: Cost center accounting, management accoun
 {% if page.is_series == true %}
     {% assign posts = site.posts | where: "is_series", true | where: "series_title", page.series_title | sort: 'date' %}
     {% if posts.size > 1 %}
-        
+
 <h3 class="text-success p-3 pb-0">Read More From the {{ page.series_title }} Series</h3>
         {% for post in posts %}
                 {% if post.title == page.title %}
