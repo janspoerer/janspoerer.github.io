@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "2022-11-07: Update 12/75 - Three Days of Conference via Zoom"
-date: 2022-11-07
+title: "2022-11-10: Update 12/75 - Three Days of Conference via Zoom"
+date: 2022-11-10
 categories: post
 tags: phd
 is_series: true
 series_title: "75 Steps Toward a Ph.D. in NLP"
-image: "/assets/images/2022-10-30.jpg"
+image: "/assets/images/2022-11-10.jpg"
 # https://shantoroy.com/jekyll/add-latex-math-to-jekyll-blog-minimal-mistakes/
 ---
 <script type="text/javascript" async
@@ -26,7 +26,13 @@ image: "/assets/images/2022-10-30.jpg"
     });
 </script>
 
+Next week will be all about scale! I will take our base code and make it work with many different models and datasets. More on that next week.
 
+Thanks for clicking through despite this week's delay! The schedule of these updates will now shift slightly backward. 
+
+I do this becaus the alignment with my supervisor and co-author is usually on Tuesdays, so I will publish these updates after the alignment meeting.
+
+This week, I (remotely) visited the [3rd ACM International Conference on AI in Finance](https://ai-finance.org/). The conference fits my research area well, and it gave me a sense of the type of articles that are in demand and how these papers are presented vocally.
 
 You can follow these updates: [Substack](https://nlpjourney.substack.com/) [Blog](https://janspoerer.github.io/phdstudies/) [Telegram](https://t.me/+gmkAaVlKPh4xZTky) [WhatsApp](https://chat.whatsapp.com/F6901LMMJWIGlxrahkgBcq) [LinkedIn](https://www.linkedin.com/in/janspoerer/) [Medium](https://medium.com/@janspoerer/about) [Twitter](https://twitter.com/JanSpoerer) [Calendly](https://calendly.com/janspoerer/60m-private)
 
@@ -35,16 +41,20 @@ You can follow these updates: [Substack](https://nlpjourney.substack.com/) [Blog
 
 ## What Happened Since Last Week?
 
-We ran scaling experiments to see how question answering systems perform with different training data sizes. We have set up our experimental structure and the code, and now we need to expand the experiments to additional datasets and models.
+We set up [Weights & Biases](https://www.linkedin.com/company/weights-biases/) to track our model during training, and we created a standardized spreadsheet output for our model results. This spreadsheet will likely become the basis of our first article.
+
+While I was listening to conference presentations for three days straight, my co-author did further testing of our code on the DGX-2.
 
 ## What Were the Biggest Obstacles?
 
-We changed the path in an unforeseen direction. I started the week without a clear goal in mind, and is now running experiments on dataset scaling was a shot in the dark. We will see if this turns out to be a good path.
+I enjoyed listening into the conference, but of course it reduced the time I could work on coding and writing.
 
 ## Which Goals Did I Meet?
 
 <ol>
-  <li>No goals were set, so no goals can be met.</li>
+  <li>I participated in the ICAIF '22 conference!</li>
+  <li>Expand the experiments to additional models. (Although credit for this goes to my co-author.)</li>
+  <li>Decide on whether to prepare a dataset ourselves or take an existing dataset. <b>We will prepare our own dataset! Decision was made!</b></li>
 </ol>
 
 ## Which Goals Did I Miss?
@@ -53,19 +63,21 @@ I leave this goal here as we are still not 100% sure:
 
 <ol>
   <li>Decide on whether to prepare a dataset ourselves or take an existing dataset.</li>
+  <li>Expand the experiments to additional datasets.<li>
 </ol>
 
 ## Was It a Good Week?
 
-Yes, at least I was productive. The chosen path was spontaneous, and the work might have been wasted. Let's see what our experiments will yield.
+Yes. As mentioned last week, we had a very abrupt change in plans and spontaneously planned another article. Until yesterday, I have not had the chance to align on that with my supervisor. But he confirmed yesterday that this is a good path and I'm now very excited about it. <b>I think there might be a chance that we can have an article about our new small idea ready by the end of the year, which would be a great achievement.</b>
 
 ## Short-Term Tasks for The Coming Week
 
+Next week will be all about scale, because I will take the existing code and make it work with arbitrary question answering models and arbitrary question answering datasets:
+
 <ol>
-  <li>Expanding the experiments to additional models.
+  <li>Expand the experiments to additional models. (Even more models. We currently only have two. I will scale this to 10 models.)
   </li>
-  <li>Optional: Expanding the experiments to additional question answering datasets.
-  </li>
+  <li>Expand the experiments to additional datasets.<li>
 </ol>
 
 ____________________________________
