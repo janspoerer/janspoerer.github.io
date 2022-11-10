@@ -32,7 +32,7 @@ Thanks for clicking through despite this week's delay! The weekly publishing sch
 
 I do this because the alignment with my supervisor and co-author is usually on Tuesdays, so I will publish these updates after the alignment meeting, and not anymore around Sundays.
 
-This week, I (remotely) visited the [3rd ACM International Conference on AI in Finance](https://ai-finance.org/). The conference fits my research area well, and it gave me a sense of the type of articles that are in demand and how these papers are presented.
+This week, I (remotely) visited the [3rd ACM International Conference on AI in Finance](https://ai-finance.org/). The conference fits my research area, and it gave me a sense of the type of articles that are in demand and how these papers are presented.
 
 You can follow these updates: [Substack](https://nlpjourney.substack.com/) [Blog](https://janspoerer.github.io/phdstudies/) [Telegram](https://t.me/+gmkAaVlKPh4xZTky) [WhatsApp](https://chat.whatsapp.com/F6901LMMJWIGlxrahkgBcq) [LinkedIn](https://www.linkedin.com/in/janspoerer/) [Medium](https://medium.com/@janspoerer/about) [Twitter](https://twitter.com/JanSpoerer) [Calendly](https://calendly.com/janspoerer/60m-private)
 
@@ -47,28 +47,28 @@ While I was listening to conference presentations for three days straight, my co
 
 ## What Were the Biggest Obstacles?
 
-I enjoyed listening into the conference, but of course it reduced the time I could work on coding and writing.
+I enjoyed listening to the conference, but of course, it reduced the time I could work on coding and writing.
 
 ## Which Goals Did I Meet?
 
 <ol>
-  <li>Participate in the 3rd ACM ICAIF '22 conference!</li>
-  <li>Decide on whether to prepare a dataset ourselves or take an existing dataset. <b>We will prepare our own dataset! Decision was made!</b></li>
+  <li>Participate in the 3rd ACM ICAIF '22 conference.</li>
+  <li>Decide on whether to prepare a dataset ourselves or take an existing dataset. <b>We will prepare our dataset! The decision was made.</b></li>
 </ol>
 
 ## Which Goals Did I Miss?
 
 <ol>
-  <li>Expand the experiments to additional models. (Although credit for this goes to my co-author for already adding one more model. We currently have two working models.)</li>
+  <li>Expand the experiments to additional models. (Although credit goes to my co-author for already adding one more model. We currently have two working models.)</li>
 </ol>
 
 ## Was It a Good Week?
 
-Yes. As mentioned last week, we had a very abrupt change in plans and spontaneously planned another article. Until yesterday, I have not had the chance to align on that with my supervisor. But he confirmed yesterday that this is a good path and I'm now very excited about it. <b>I think there might be a chance that we can have an article about our new small idea ready by the end of the year, which would be a great achievement.</b>
+Yes. As mentioned last week, we had a very abrupt change in plans and spontaneously planned another article. Until yesterday, I have not had the chance to align on that with my supervisor. But he confirmed yesterday that this is a good path, and I'm now very excited about it. <b>I think there might be a chance that we can have an article about our small new idea ready by the end of the year, which would be a great achievement.</b>
 
 ## Short-Term Tasks for The Coming Week
 
-Next week will be all about scale, because I will take the existing code and make it work with arbitrary question answering models and arbitrary question answering datasets:
+Next week will be all about scale because I will take the existing code and make it work with arbitrary question answering models and arbitrary question answering datasets:
 
 <ol>
   <li>Expand the experiments to additional models. (Even more models. We currently only have two. I will scale this to 10 models.)
