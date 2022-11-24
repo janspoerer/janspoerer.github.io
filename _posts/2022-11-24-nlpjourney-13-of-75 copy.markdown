@@ -53,6 +53,7 @@ Well, the internet connection in Egypt was much worse than expected. I was plann
   <li>Expand the experiments to additional models. (Even more models. We currently only have two. I will scale this to 10 models.)
   </li>
   <li>Created a precise submission timeline and publication plan. (Spontaneously added goal; this was not in upadate #12/75.)
+  </li>
   <li>Formatted the article in the required LaTeX submission format of our target conference. (Spontaneously added goal; this was not in upadate #12/75.)
   </li>
 </ol>
