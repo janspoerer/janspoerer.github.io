@@ -30,7 +30,7 @@ We now have the following timeline for the intended publication of our first art
 
 We have already put our article draft in our preferred conference's format, and the main missing piece is the results section. Some experiments are still running. We are exploring the scaling behavior of NLP models with different training dataset sizes.
 
-I took vacation and the internet connection at the hotel was slow and instable. So I decided to skip one week of updates. This update, #13/75, is therefore two weeks after the last one.
+I took a vacation and the internet connection at the hotel was slow and unstable. So I decided to skip one week of updates. This update, #13/75, is, therefore, two weeks after the last one (instead of one week).
 
 You can follow these updates: [Substack](https://nlpjourney.substack.com/) [Blog](https://janspoerer.github.io/phdstudies/) [Telegram](https://t.me/+gmkAaVlKPh4xZTky) [WhatsApp](https://chat.whatsapp.com/F6901LMMJWIGlxrahkgBcq) [LinkedIn](https://www.linkedin.com/in/janspoerer/) [Medium](https://medium.com/@janspoerer/about) [Twitter](https://twitter.com/JanSpoerer) [Calendly](https://calendly.com/janspoerer/60m-private)
 
@@ -39,13 +39,13 @@ You can follow these updates: [Substack](https://nlpjourney.substack.com/) [Blog
 
 ## What Happened Since Last Week?
 
-We ran more experiments and we added literature to our Related Work section in the article. Also, the article now complies with the LaTeX submission and publication format of a conference that we are aiming to publish at.
+We ran more experiments and added literature to the article's Related Work section. Also, the article now complies with the LaTeX submission and publication format of a conference we aim to publish at.
 
-A word about LaTeX: LaTeX is an alternative to what-you-see-is-what-you-get (WYSIWYG) textprocessors such as Microsoft Word. In LaTeX, one writes markup code similar to HTML and has to compile it to see a PDF output. The advantages of LaTeX are
+**A word about LaTeX:** LaTeX is an alternative to what-you-see-is-what-you-get (WYSIWYG) text processors such as Microsoft Word. In LaTeX, one writes markup code similar to HTML and has to compile it to see a PDF output. The advantages of LaTeX are
 
 <ol>
   <li>that it can be used for writing projects of any scale (entire books are written in LaTeX),</li>
-  <li>it's format can be configured quickly (global format settings can be adjusted easily and are immediately reflected in the whole document),</li>
+  <li>its format can be configured quickly (global format settings can be adjusted easily and are immediately reflected in the whole document),</li>
   <li>it offers convenient literature management,</li>
   <li>it is powerful for typesetting equations,</li>
   <li>and more sophisticated typesetting features lead to nicer formatted text compared to more crudely looking Word documents.</li>
@@ -55,12 +55,12 @@ But LaTeX has a tough learning curve for beginners, especially for non-technical
 
 ## What Were the Biggest Obstacles?
 
-Well, the internet connection in Egypt was much worse than expected. I was planning to do research in Egypt. Now at least I had an even more relaxing eight days of vacation (due to the bad internet connection)!
+Well, the internet connection in Egypt was much worse than expected. I was planning to do research in Egypt. At least, I had an even more relaxing eight days of vacation (due to the bad internet connection)!
 
 ## Which Goals Did I Meet?
 
 <ol>
-  <li>Expand the experiments to additional models. We now have about 10 models.
+  <li>Expand the experiments to additional models. We now have about ten models.
   </li>
   <li>Created a precise submission timeline and publication plan. (Spontaneously added goal; this was not in update #12/75.)
   </li>
@@ -78,7 +78,7 @@ Well, the internet connection in Egypt was much worse than expected. I was plann
 
 Considering that I was on vacation, these were two productive weeks.
 
-I feel very relaxed and can already notice that I'm more productive after coming back from vaction.
+I feel very relaxed and can already notice that I'm more productive after returning from vacation.
 
 ## Short-Term Tasks for The Coming Week
 
