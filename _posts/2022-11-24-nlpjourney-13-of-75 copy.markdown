@@ -26,54 +26,55 @@ image: "/assets/images/2022-11-24.jpg"
     });
 </script>
 
-Next week will be all about scale! I will take our base code and make it work with many different models and datasets. More on that next week.
+We now have the following timeline for the intended publication of our first article: submit in January '23, have a decision in March '23, and have the article published between May--June '23.
 
-Thanks for clicking through despite this week's delay! The weekly publishing schedule of these updates will now shift slightly backward.
+We have already put our article draft in our top conference's format and the main missing piece is the results section. Some experiments are still running. We are exploring the scaling behavior of NLP models with different training dataset sizes.
 
-I do this because the alignment with my supervisor and co-author is usually on Tuesdays, so I will publish these updates after the alignment meeting, and not anymore around Sundays.
-
-This week, I (remotely) visited the [3rd ACM International Conference on AI in Finance](https://ai-finance.org/). The conference fits my research area, and it gave me a sense of the type of articles that are in demand and how these papers are presented.
+I took vacation and the internet connection at the hotel was slow and instable. So I decided to skip one week of updates. This update, #13/75, is therefore two weeks after the last one.
 
 You can follow these updates: [Substack](https://nlpjourney.substack.com/) [Blog](https://janspoerer.github.io/phdstudies/) [Telegram](https://t.me/+gmkAaVlKPh4xZTky) [WhatsApp](https://chat.whatsapp.com/F6901LMMJWIGlxrahkgBcq) [LinkedIn](https://www.linkedin.com/in/janspoerer/) [Medium](https://medium.com/@janspoerer/about) [Twitter](https://twitter.com/JanSpoerer) [Calendly](https://calendly.com/janspoerer/60m-private)
 
-![Yay, me listening to conference and workshop proceedings for three days from my small apartment in Frankfurt.]({{ page.image }})
-<sup>Yay, me listening to conference and workshop proceedings for three days from my small apartment in Frankfurt.</sup>
+![The Egypt vacation was great. The internet there was not so great.]({{ page.image }})
+<sup>The Egypt vacation was great. The internet there was not so great.</sup>
 
 ## What Happened Since Last Week?
 
-We set up [Weights & Biases](https://wandb.ai/) to track our model during training, and we created a standardized, automated spreadsheet output for our model results. This spreadsheet will likely become the basis of our first article.
+We ran more experiments and we added literature to our Related Work section in the article. Also, the article now complies with the LaTeX submission and publication format for our top conference that we are aiming at.
 
-While I was listening to conference presentations for three days straight, my co-author did further testing of our code on the DGX-2.
+A word about LaTeX: LaTeX is an alternative to what-you-see-is-what-you-get textprocessors such as Microsoft Word. In LaTeX, one writes markup code similar to HTML and has to compile it to see a PDF output. The advantages of LaTeX are that it can be used for writing projects of any scale (entire books are written in LaTeX), it's format can be configured quickly (global format settings can be adjusted easily), it offers convenient literature management, it is powerful for typesetting equations, and texts tend to just look nicer typeset when written in LaTeX. But LaTeX has a tough learning curve for beginners, especially for non-technical people. I recommend using Overleaf, an online LaTeX editor, for beginners.
 
 ## What Were the Biggest Obstacles?
 
-I enjoyed listening to the conference, but of course, it reduced the time I could work on coding and writing.
+Well, the internet connection in Egypt was much worse than expected. I was planning to do research in Egypt. Now at least I had an even more relaxing eight days of vacation (due to the bad internet connection)!
 
 ## Which Goals Did I Meet?
 
 <ol>
-  <li>Participate in the 3rd ACM ICAIF '22 conference.</li>
-  <li>Decide on whether to prepare a dataset ourselves or take an existing dataset. <b>We will prepare our dataset! The decision was made.</b></li>
+  <li>Expand the experiments to additional models. (Even more models. We currently only have two. I will scale this to 10 models.)
+  </li>
+  <li>Created a precise submission timeline and publication plan. (Spontaneously added goal; this was not in upadate #12/75.)
+  <li>Formatted the article in the required LaTeX submission format of our target conference. (Spontaneously added goal; this was not in upadate #12/75.)
+  </li>
 </ol>
 
 ## Which Goals Did I Miss?
 
 <ol>
-  <li>Expand the experiments to additional models. (Although credit goes to my co-author for already adding one more model. We currently have two working models.)</li>
+  <li>Expand the experiments to additional datasets.</li>
 </ol>
 
 ## Was It a Good Week?
 
-Yes. As mentioned last week, we had a very abrupt change in plans and spontaneously planned another article. Until yesterday, I have not had the chance to align on that with my supervisor. But he confirmed yesterday that this is a good path, and I'm now very excited about it. <b>I think there might be a chance that we can have an article about our small new idea ready by the end of the year, which would be a great achievement.</b>
+Considering that I was on vacation, it were two productive weeks.
+
+I feel very relaxed and can already notice that I'm more productive after coming back from vaction.
 
 ## Short-Term Tasks for The Coming Week
 
-Next week will be all about scale because I will take the existing code and make it work with arbitrary question answering models and arbitrary question answering datasets:
-
 <ol>
-  <li>Expand the experiments to additional models. (Even more models. We currently only have two. I will scale this to 10 models.)
-  </li>
   <li>Expand the experiments to additional datasets.</li>
+  <li>Make diagrams based on the preliminary experiments.</li>
+  <li>Finish the literature review for the article.</li>
 </ol>
 
 <br>
