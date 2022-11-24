@@ -28,7 +28,7 @@ image: "/assets/images/2022-11-24.jpg"
 
 We now have the following timeline for the intended publication of our first article: submit in January '23, have a decision in March '23, and have the article published between May--June '23.
 
-We have already put our article draft in our top conference's format and the main missing piece is the results section. Some experiments are still running. We are exploring the scaling behavior of NLP models with different training dataset sizes.
+We have already put our article draft in our preferred conference's format, and the main missing piece is the results section. Some experiments are still running. We are exploring the scaling behavior of NLP models with different training dataset sizes.
 
 I took vacation and the internet connection at the hotel was slow and instable. So I decided to skip one week of updates. This update, #13/75, is therefore two weeks after the last one.
 
@@ -39,9 +39,19 @@ You can follow these updates: [Substack](https://nlpjourney.substack.com/) [Blog
 
 ## What Happened Since Last Week?
 
-We ran more experiments and we added literature to our Related Work section in the article. Also, the article now complies with the LaTeX submission and publication format for our top conference that we are aiming at.
+We ran more experiments and we added literature to our Related Work section in the article. Also, the article now complies with the LaTeX submission and publication format of a conference that we are aiming to publish at.
 
-A word about LaTeX: LaTeX is an alternative to what-you-see-is-what-you-get textprocessors such as Microsoft Word. In LaTeX, one writes markup code similar to HTML and has to compile it to see a PDF output. The advantages of LaTeX are that it can be used for writing projects of any scale (entire books are written in LaTeX), it's format can be configured quickly (global format settings can be adjusted easily), it offers convenient literature management, it is powerful for typesetting equations, and texts tend to just look nicer typeset when written in LaTeX. But LaTeX has a tough learning curve for beginners, especially for non-technical people. I recommend using Overleaf, an online LaTeX editor, for beginners.
+A word about LaTeX: LaTeX is an alternative to what-you-see-is-what-you-get (WYSIWYG) textprocessors such as Microsoft Word. In LaTeX, one writes markup code similar to HTML and has to compile it to see a PDF output. The advantages of LaTeX are
+
+<ol>
+  <li>that it can be used for writing projects of any scale (entire books are written in LaTeX),</li>
+  <li>it's format can be configured quickly (global format settings can be adjusted easily and are immediately reflected in the whole document),</li>
+  <li>it offers convenient literature management,</li>
+  <li>it is powerful for typesetting equations,</li>
+  <li>and more sophisticated typesetting features lead to nicer formatted text compared to more crudely looking Word documents.</li>
+</ol>
+
+But LaTeX has a tough learning curve for beginners, especially for non-technical people. For people new to LaTeX, I recommend using Overleaf, an online LaTeX editor.
 
 ## What Were the Biggest Obstacles?
 
@@ -50,30 +60,30 @@ Well, the internet connection in Egypt was much worse than expected. I was plann
 ## Which Goals Did I Meet?
 
 <ol>
-  <li>Expand the experiments to additional models. (Even more models. We currently only have two. I will scale this to 10 models.)
+  <li>Expand the experiments to additional models. We now have about 10 models.
   </li>
-  <li>Created a precise submission timeline and publication plan. (Spontaneously added goal; this was not in upadate #12/75.)
+  <li>Created a precise submission timeline and publication plan. (Spontaneously added goal; this was not in update #12/75.)
   </li>
-  <li>Formatted the article in the required LaTeX submission format of our target conference. (Spontaneously added goal; this was not in upadate #12/75.)
+  <li>Formatted the article in the required LaTeX submission format of our target conference. (Spontaneously added goal; this was not in update #12/75.)
   </li>
 </ol>
 
 ## Which Goals Did I Miss?
 
 <ol>
-  <li>Expand the experiments to additional datasets.</li>
+  <li>Expand the experiments to additional datasets/benchmarks.</li>
 </ol>
 
 ## Was It a Good Week?
 
-Considering that I was on vacation, it were two productive weeks.
+Considering that I was on vacation, these were two productive weeks.
 
 I feel very relaxed and can already notice that I'm more productive after coming back from vaction.
 
 ## Short-Term Tasks for The Coming Week
 
 <ol>
-  <li>Expand the experiments to additional datasets.</li>
+  <li>Expand the experiments to additional datasets/benchmarks.</li>
   <li>Make diagrams based on the preliminary experiments.</li>
   <li>Finish the literature review for the article.</li>
 </ol>
