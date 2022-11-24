@@ -1,0 +1,110 @@
+---
+layout: post
+title: "2022-11-24: Update 13/75 - Vacation and Roadmap for 2023"
+date: 2022-11-24
+categories: post
+tags: phd
+is_series: true
+series_title: "75 Steps Toward a Ph.D. in NLP"
+image: "/assets/images/2022-11-24.jpg"
+# https://shantoroy.com/jekyll/add-latex-math-to-jekyll-blog-minimal-mistakes/
+---
+<script type="text/javascript" async
+    src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.6/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
+
+<script type="text/x-mathjax-config">
+    MathJax.Hub.Config({
+        extensions: ["tex2jax.js"],
+        jax: ["input/TeX", "output/HTML-CSS"],
+        tex2jax: {
+        inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+        displayMath: [ ['$$','$$'], ["\\[","\\]"] ],
+        processEscapes: true
+        },
+        "HTML-CSS": { availableFonts: ["TeX"] }
+    });
+</script>
+
+Next week will be all about scale! I will take our base code and make it work with many different models and datasets. More on that next week.
+
+Thanks for clicking through despite this week's delay! The weekly publishing schedule of these updates will now shift slightly backward.
+
+I do this because the alignment with my supervisor and co-author is usually on Tuesdays, so I will publish these updates after the alignment meeting, and not anymore around Sundays.
+
+This week, I (remotely) visited the [3rd ACM International Conference on AI in Finance](https://ai-finance.org/). The conference fits my research area, and it gave me a sense of the type of articles that are in demand and how these papers are presented.
+
+You can follow these updates: [Substack](https://nlpjourney.substack.com/) [Blog](https://janspoerer.github.io/phdstudies/) [Telegram](https://t.me/+gmkAaVlKPh4xZTky) [WhatsApp](https://chat.whatsapp.com/F6901LMMJWIGlxrahkgBcq) [LinkedIn](https://www.linkedin.com/in/janspoerer/) [Medium](https://medium.com/@janspoerer/about) [Twitter](https://twitter.com/JanSpoerer) [Calendly](https://calendly.com/janspoerer/60m-private)
+
+![Yay, me listening to conference and workshop proceedings for three days from my small apartment in Frankfurt.]({{ page.image }})
+<sup>Yay, me listening to conference and workshop proceedings for three days from my small apartment in Frankfurt.</sup>
+
+## What Happened Since Last Week?
+
+We set up [Weights & Biases](https://wandb.ai/) to track our model during training, and we created a standardized, automated spreadsheet output for our model results. This spreadsheet will likely become the basis of our first article.
+
+While I was listening to conference presentations for three days straight, my co-author did further testing of our code on the DGX-2.
+
+## What Were the Biggest Obstacles?
+
+I enjoyed listening to the conference, but of course, it reduced the time I could work on coding and writing.
+
+## Which Goals Did I Meet?
+
+<ol>
+  <li>Participate in the 3rd ACM ICAIF '22 conference.</li>
+  <li>Decide on whether to prepare a dataset ourselves or take an existing dataset. <b>We will prepare our dataset! The decision was made.</b></li>
+</ol>
+
+## Which Goals Did I Miss?
+
+<ol>
+  <li>Expand the experiments to additional models. (Although credit goes to my co-author for already adding one more model. We currently have two working models.)</li>
+</ol>
+
+## Was It a Good Week?
+
+Yes. As mentioned last week, we had a very abrupt change in plans and spontaneously planned another article. Until yesterday, I have not had the chance to align on that with my supervisor. But he confirmed yesterday that this is a good path, and I'm now very excited about it. <b>I think there might be a chance that we can have an article about our small new idea ready by the end of the year, which would be a great achievement.</b>
+
+## Short-Term Tasks for The Coming Week
+
+Next week will be all about scale because I will take the existing code and make it work with arbitrary question answering models and arbitrary question answering datasets:
+
+<ol>
+  <li>Expand the experiments to additional models. (Even more models. We currently only have two. I will scale this to 10 models.)
+  </li>
+  <li>Expand the experiments to additional datasets.</li>
+</ol>
+
+<br>
+
+____________________________________
+
+## About "75-Step Journey Toward a Ph.D. in Natural Language Processing"
+
+You will, from now on, witness my grind. Feel my blood, sweat, and tears.
+
+With this series of articles, you become a real-life weekly witness of my dissertation progress, all in 75 steps. This has multiple purposes:
+
+1) Forcing myself to keep moving through the power of public shame!
+
+2) Helping other (prospective) Ph.D. students to stay motivated and to show that hard times are normal when going through this process.
+
+3) Getting support from the community when I go through hard times.
+
+Share this with your Ph.D. student friends: [Substack](https://nlpjourney.substack.com/) [Blog](https://janspoerer.github.io/phdstudies/) [Telegram](https://t.me/+gmkAaVlKPh4xZTky) [WhatsApp](https://chat.whatsapp.com/F6901LMMJWIGlxrahkgBcq) [LinkedIn](https://www.linkedin.com/in/janspoerer/) [Medium](https://medium.com/@janspoerer/about) [Twitter](https://twitter.com/JanSpoerer) [Calendly](https://calendly.com/janspoerer/60m-private).
+
+{% if page.is_series == true %}
+    {% assign posts = site.posts | where: "is_series", true | where: "series_title", page.series_title | sort: 'date' %}
+    {% if posts.size > 1 %}
+
+<h3 class="text-success p-3 pb-0">Read More From the {{ page.series_title }} Series</h3>
+        {% for post in posts %}
+                {% if post.title == page.title %}
+<p class="nav-link bullet-pointer mb-0">{{ post.title }}</p>
+                {% else %}
+<a class="nav-link bullet-hash" href="{{ post.url }}">{{ post.title }}</a>
+                {% endif %}
+        {% endfor %}
+    {% endif %}
+{% endif %}
