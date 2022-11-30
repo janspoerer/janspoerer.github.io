@@ -26,11 +26,13 @@ image: "/assets/images/2022-11-30.jpg"
     });
 </script>
 
-We now have the following timeline for the intended publication of our first article: submit in January '23, have a decision in March '23, and have the article published between May--June '23.
+Many Ph.D. candidates are unhappy about supervising B.Sc. (and B.A.) and M.Sc. (and M.A.) theses. I think this does not need to be the case for the following reasons:
 
-We have already put our article draft in our preferred conference's format, and the main missing piece is the results section. Some experiments are still running. We are exploring the scaling behavior of NLP models with different training dataset sizes.
-
-I took a vacation and the internet connection at the hotel was slow and unstable. So I decided to skip one week of updates. This update, #13/75, is, therefore, two weeks after the last one (instead of one week).
+<ol>
+  <li>You can aim to publish together with the student. This is a huge win for the student and can also help bring your research forward.</li>
+  <li>B.Sc. and M.Sc. students can be pieces of the puzzle to your dissertation. They can aid in exploring sub-areas of your primary research area. A student involved in a large research project will be motivated to perform better, making this another win-win situation.</li>
+  <li>Ph.D. supervisors and your senior research fellows will appreciate your effort in supervising junior students. Professors often need to supervise a certain number of theses per year or get some form of bonus for supervising theses.</li>
+</ol>
 
 You can follow these updates: [Substack](https://nlpjourney.substack.com/) [Blog](https://janspoerer.github.io/phdstudies/) [Telegram](https://t.me/+gmkAaVlKPh4xZTky) [WhatsApp](https://chat.whatsapp.com/F6901LMMJWIGlxrahkgBcq) [LinkedIn](https://www.linkedin.com/in/janspoerer/) [Medium](https://medium.com/@janspoerer/about) [Twitter](https://twitter.com/JanSpoerer) [Calendly](https://calendly.com/janspoerer/60m-private)
 
@@ -39,53 +41,35 @@ You can follow these updates: [Substack](https://nlpjourney.substack.com/) [Blog
 
 ## What Happened Since Last Week?
 
-We ran more experiments and added literature to the article's Related Work section. Also, the article now complies with the LaTeX submission and publication format of a conference we aim to publish at.
-
-**A word about LaTeX:** LaTeX is an alternative to what-you-see-is-what-you-get (WYSIWYG) text processors such as Microsoft Word. In LaTeX, one writes markup code similar to HTML and has to compile it to see a PDF output. The advantages of LaTeX are
-
-<ol>
-  <li>that it can be used for writing projects of any scale (entire books are written in LaTeX),</li>
-  <li>its format can be configured quickly (global format settings can be adjusted easily and are immediately reflected in the whole document),</li>
-  <li>it offers convenient literature management,</li>
-  <li>it is powerful for typesetting equations,</li>
-  <li>and more sophisticated typesetting features lead to nicer formatted text compared to more crudely looking Word documents.</li>
-</ol>
-
-But LaTeX has a tough learning curve for beginners, especially for non-technical people. For people new to LaTeX, I recommend using Overleaf, an online LaTeX editor.
+We added some meat to the bones of our article. The literature review is now in a good state.
 
 ## What Were the Biggest Obstacles?
 
-Well, the internet connection in Egypt was much worse than expected. I was planning to do research in Egypt. At least, I had an even more relaxing eight days of vacation (due to the bad internet connection)!
+Productivity was a bit low, and that was mainly because I had to catch up on some work-related issues after returning from holidays. My inbox is now clean, and things should normalize this week.
 
 ## Which Goals Did I Meet?
 
 <ol>
-  <li>Expand the experiments to additional models. We now have about ten models.
-  </li>
-  <li>Created a precise submission timeline and publication plan. (Spontaneously added goal; this was not in update #12/75.)
-  </li>
-  <li>Formatted the article in the required LaTeX submission format of our target conference. (Spontaneously added goal; this was not in update #12/75.)
-  </li>
+  <li>Finish the literature review for the article.</li>
 </ol>
 
 ## Which Goals Did I Miss?
 
 <ol>
   <li>Expand the experiments to additional datasets/benchmarks.</li>
+  <li>Make diagrams based on the preliminary experiments.</li>
 </ol>
 
 ## Was It a Good Week?
 
-Considering that I was on vacation, these were two productive weeks.
-
-I feel very relaxed and can already notice that I'm more productive after returning from vacation.
+The week could have been better. Albeit not being the most productive week for the Ph.D., I at least had some good office days and team events with my Commerzbank colleagues.
 
 ## Short-Term Tasks for The Coming Week
 
 <ol>
   <li>Expand the experiments to additional datasets/benchmarks.</li>
   <li>Make diagrams based on the preliminary experiments.</li>
-  <li>Finish the literature review for the article.</li>
+  <li>Align with the prospective B.Sc. student on research questions and the methodology.</li>
 </ol>
 
 <br>
