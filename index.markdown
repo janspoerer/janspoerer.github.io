@@ -89,6 +89,7 @@ Send me an invite on [LinkedIn](https://www.linkedin.com/in/janspoerer/) with a 
 * [Appearance in the Handelsblatt (German Economic Newspaper)](https://www.handelsblatt.com/finanzen/maerkte/devisen-rohstoffe/bitcoin-und-co-wie-fondsprofis-mit-kryptowaehrungen-experimentieren/27805202.html)
 * [Join this free WhatsApp job group to find junior Data Science talent in Germany or to find a job!](https://chat.whatsapp.com/JdDgM4yIexODMe4FkGJuLE)
 * [21e6](https://assets.21e6.io/)
+    * [21e6 Crypto Indices & Prof. Philipp Sandner, interview by the German finance magazine "Der Aktionär"](https://youtu.be/lwIYYiQQFLQ?t=348)
 	* [Check out this English podcast about crypto funds (YouTube)](https://www.youtube.com/watch?v=nl3XdpC4_fo)
 	* German podcast about professional crypto investing
 		* [Apple Podcasts](https://podcasts.apple.com/de/podcast/krypto-im-portfolio/id1638093768)
