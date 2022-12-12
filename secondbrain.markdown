@@ -19,7 +19,9 @@ secondbrain_inprogress: "/assets/images/Writing the Post on Second Brain.png"
 
 ## Basic Idea
 
-The second brain concept was first brought to my attention by [productivity book](https://www.ultraproductive.net){:target="_blank"} author [[Dr. Christian Poensgen]]. 
+The second brain concept was first brought to my attention by [productivity book](https://www.ultraproductive.net){:target="_blank"} author [[Dr. Christian Poensgen]].
+
+The first widely-used and documented second brain was [[Niklas Luhmann]]'s "Zettelkasten." The English name "Second Brain" has since mostly taken over.
 
 While there are different flavors to using a second brain, the basic idea is to have interconnected atomic notes.
 
@@ -40,18 +42,22 @@ Implementation options include:
 * [Roam Research](https://roamresearch.com/) -> Paid subscription, **browser-based**. Check this [NESSLABS guide to Roam Research](https://nesslabs.com/roam-research-beginner-guide).
 * [Athens](https://www.athensresearch.org/) -> Free local version. Specialized on being a wiki for startup **teams**. Thus emphasizes the idea of shared access. (This would also be possible using multiple `git`-tracked repositories with Obsidian, each with different access permissions.)
 * [RemNote](https://www.remnote.com/notes) -> Paid subscription. Ability to create flashcards. The flashcard feature is insanely good. One can create text flash cards and also image flashcards using image masking. Available on **mobile devices**!
-* [[The Archive]] -> Out of completeness, I also wanted to mention The Archive here.
-* [Logseg](https://logseq.com/)
+* Other options:
+  * [[The Archive]]
+  * [Logseg](https://logseq.com/)
+  * [Org-roam](https://www.orgroam.com/)
+  * [[Dendron]]
+  * [[Anytype Labs]]
 
 ## More Advanced Concepts and Recommendations for More Advanced Structures
 
-### Do Not Over-engineer Your Second Brain 
+### Do Not Over-engineer Your Second Brain
 
 While no second brain requires a classical folder structure, it still might be useful to at least give your second brain a minimal bit of rigid structure. **Links between notes** will still always be the most important structuring mechanism.
 
 So first of all: **do not over-engineer this!** You will probably notice that links between notes already provide 10x better structure than any note-taking approach that you have used so far, even without any additional structure.
 
-If you do would like to get a little bit more advanced, I recommend the PARA method by [[Tiago Forte]]. Check [this link](https://fortelabs.co/blog/para/). PARA will, at the very minimum, require you to drag and drop each new note into one of four different folders. That's an acceptable effort.
+If you do would like to get a bit more advanced, I recommend the PARA method by [[Tiago Forte]]. Check [this link](https://fortelabs.co/blog/para/). PARA will, at the very minimum, require you to drag and drop each new note into one of four different folders. That's an acceptable effort.
 
 PARA divides your notes into `1_PROJECTS`, `2_AREAS`, `3_RESOURCES`, and `4_ARCHIVE`. Check the link mentioned in the previous paragraph, and here comes my own interpretation.
 
@@ -59,7 +65,7 @@ PARA divides your notes into `1_PROJECTS`, `2_AREAS`, `3_RESOURCES`, and `4_ARCH
 
 `1_PROJECTS`: Short-term, completable to-dos. A completable to-do would be "finish this homework." I tend not to use this folder much as it is too much overhead compared to using physical to-do lists.
 
-> If you already have an acceptable to-do tracker (digital or analogoue), I think it is not necessary to maintain this folder too stricly.
+> If you already have an acceptable to-do tracker (digital or analogue), I think it is not necessary to maintain this folder too strictly.
 
 `2_AREAS`: Long-term, **non-completable** to-dos. These are areas of life that require a certain balance to be maintained. My `2_AREAS` folder contains the following sub-folders and one file:
 
@@ -78,13 +84,13 @@ PARA divides your notes into `1_PROJECTS`, `2_AREAS`, `3_RESOURCES`, and `4_ARCH
 ||-Ziele, Goals (file)
 ```
 
-As you can see, these are crucial, high-level, long-term, never-ending areas in life that require constant attention.
+> As you can see, these are crucial, high-level, long-term, never-ending areas in life that require constant attention.
 
 If you are on Windows, you might run into problems with such **long file and folder names**. But not with Linux, which is the OS I am using. Long, expressive folder and file names help to find notes quicker using the ‘ctrl+o’ shortcut.
 
 > Track your long-term goals here. In my second brain, this is where notes go that are very specific to myself (unlike many notes in `3_RESOURCES`).
 
-`3_RESOURCES` is the most significant chunk in my second brain. For each concept I find interesting, I create a note and put it there. I also manage all static real-world concepts and objects there such as `Countries & Cities`, and `People`. I have hundreds of people notes in there and thousands of notes on tech-related concepts. (There are 22 sub-folders in my `3_RESOURCES`.) There is also a note called `Russian Invasion Into Ukraine 2022` with embedded videos about political and military analysis.
+`3_RESOURCES` is the most significant chunk in my second brain. For each concept I find interesting, I create a note and put it there. I also manage all static real-world concepts and objects there such as `Countries & Cities`, and `People`. I have hundreds of people notes in there and thousands of notes on tech-related concepts. (There are 22 sub-folders in my `3_RESOURCES`.) There is also a note called `Russian Invasion Into Ukraine 2022` with embedded videos about political and military analyses.
 
 ```
 |-3_RESOURCES
@@ -126,7 +132,7 @@ Also check the [NESSLABS newsletter](https://bit.ly/368Dr5y).
 	* "Now, imagine the psychological effect of waking up to the list on the left day after day, week after week, month after month, even year after year. Areas of Responsibility rarely if ever change, remember? No matter how hard you work, how many years of service you put in, the list of never-changing obligations only gets heavier and longer."
 	* "I couldn't design a better method of killing personal motivation if I tried."
 
-A note on labels: **Do not use labels.** They are not necessary. If, after using a second brain for a year, you feel the need for labels, go ahead. 
+A note on labels: **Do not use labels.** They are not necessary. If, after using a second brain for a year, you feel the need for labels, go ahead.
 
 ## Resources for Beginners
 
