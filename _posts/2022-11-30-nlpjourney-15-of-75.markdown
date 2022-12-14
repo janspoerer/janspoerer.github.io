@@ -26,11 +26,11 @@ image: "/assets/images/2022-12-14.jpg"
     });
 </script>
 
-This week, not much happened. I got a bit frustrated with bugs in our code and am still working on resolving these. It feels like working from a cave deep in a rock without seeing any daylight.
+This week, not much happened. It felt like working from a cave deep in a rock without seeing any daylight.
 
-I am also reaching out to potential data providers for the B.Sc. thesis of our student. She will need many equity research reports for her study. *So if you know somebody who works at a broker with sell-side equity research reports, please connect me!*
+I am also reaching out to potential data providers for the B.Sc. thesis of our student. She will need equity research reports for her study. *So if you know somebody who works at a broker with sell-side equity research reports, please connect me!*
 
-By the way: Can there be a less clickbaity title than this week's title?
+By the way: Can there be a less clickbaity title than this week's headline?
 
 You can follow these updates: [Substack](https://nlpjourney.substack.com/) [Blog](https://janspoerer.github.io/phdstudies/) [Telegram](https://t.me/+gmkAaVlKPh4xZTky) [WhatsApp](https://chat.whatsapp.com/F6901LMMJWIGlxrahkgBcq) [LinkedIn](https://www.linkedin.com/in/janspoerer/) [Medium](https://medium.com/@janspoerer/about) [Twitter](https://twitter.com/JanSpoerer) [Calendly](https://calendly.com/janspoerer/60m-private)
 
