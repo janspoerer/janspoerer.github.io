@@ -30,6 +30,8 @@ Literature management was not a topic that I considered worth revisiting. Then, 
 
 In this post, I will thus share my experience with switching from a spreadsheet-based system to Zotero, including how many hours I spent on this task.
 
+Oh, and Happy Christmas!
+
 You can follow these updates: [Substack](https://nlpjourney.substack.com/) [Blog](https://janspoerer.github.io/phdstudies/) [Telegram](https://t.me/+gmkAaVlKPh4xZTky) [WhatsApp](https://chat.whatsapp.com/F6901LMMJWIGlxrahkgBcq) [LinkedIn](https://www.linkedin.com/in/janspoerer/) [Medium](https://medium.com/@janspoerer/about) [Twitter](https://twitter.com/JanSpoerer) [Calendly](https://calendly.com/janspoerer/60m-private)
 
 ![Managing all this, and much more, in software, is quite easy.]({{ page.image }})
