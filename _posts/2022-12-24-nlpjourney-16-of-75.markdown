@@ -76,7 +76,7 @@ You may know that I am a big fan of the [Second Brain/Zettelkasten](https://jans
 
 With label-enabled systems such as Zotero, however, one can add labels to a piece of literature. **Such systems are multi-dimensional by default.** Filtering labels is easy. The view of the reader is not cluttered with many tables. Adding labels as they emerge does not come with the downside of having to re-work old entries to the literature database.
 
-**What was the cost of the switch?** It took me about five hours to transfer about 70% of my literature database to Zotero. My literature database has 300 entries, and I left out some entries that I found to be no longer useful. So you can expect one or two full days of work for a database with a couple hundred entries.
+**What was the cost of the switch?** It took me about five hours to transfer about 70% of my literature database to Zotero. My literature database has 300 entries, and I left out some entries that I found to be no longer useful. So you can expect one or two full days of work for a database with a couple of hundred entries.
 
 ## What Were the Biggest Obstacles?
 
