@@ -26,7 +26,7 @@ image: "/assets/images/2022-12-24.jpg"
     });
 </script>
 
-Literature management was not a topic that I considered worth revisiting. Then, my supervisor proposed to standardize our literature management approach at the chair this week, so I had to make a switch.
+Literature management was not a topic that I considered worth revisiting. Then, my supervisor proposed standardizing our literature management approach at the chair this week, so I had to switch.
 
 In this post, I will thus share my experience with switching from a spreadsheet-based system to Zotero, including how many hours I spent on this task.
 
@@ -34,14 +34,14 @@ Oh, and Happy Christmas!
 
 You can follow these updates: [Substack](https://nlpjourney.substack.com/) [Blog](https://janspoerer.github.io/phdstudies/) [Telegram](https://t.me/+gmkAaVlKPh4xZTky) [WhatsApp](https://chat.whatsapp.com/F6901LMMJWIGlxrahkgBcq) [LinkedIn](https://www.linkedin.com/in/janspoerer/) [Medium](https://medium.com/@janspoerer/about) [Twitter](https://twitter.com/JanSpoerer) [Calendly](https://calendly.com/janspoerer/60m-private)
 
-![Managing all this, and much more, in software, is quite easy.]({{ page.image }})
-<sup>Managing all this, and much more, in software, is quite easy.</sup>
+![Managing all this, and much more, in software is quite easy.]({{ page.image }})
+<sup>Managing all this, and much more, in software is quite easy.</sup>
 
 ## What Happened Since Last Week?
 
 I looked up databases with equity research reports. There was also a helpful hint from one of the readers. Thank you.
 
-I will probably stick with one of the many databases that the University of St. Gallen provides.
+I will stick with one of the many databases that the University of St. Gallen provides.
 
 **Regarding Zotero and reference management in general:** I have previously used a spreadsheet with the following columns:
 
@@ -60,27 +60,27 @@ I will probably stick with one of the many databases that the University of St. 
 
 As you can see, the spreadsheet contained a column with a Bibtex entry. I could simply copy-paste this entry into my paper to use an article in my own writing. 
 
-The system was working very well, especially becaus I kept all data in the spreadsheet as clean as possible.
+The system was working very well, especially because I kept all data in the spreadsheet as clean as possible.
 
-But now with Zotero, there are some additional advantages:
+But now, with Zotero, there are some additional advantages:
 
 <ul>
   <li>Zotero allows users to tag papers with custom keywords.</li>
-  <li>Zotero allows users to connect papers with each other. This creates a paper knowledge graph.</li>
+  <li>Zotero allows users to connect papers. This creates a paper knowledge graph.</li>
   <li>Zotero allows for shared folders. We have a shared folder at our research chair.</li>
 </ul>
 
-You may know that I am a big fan of the [Second Brain/Zettelkasten](https://janspoerer.github.io/secondbrain/) method of organizing notes. Zotero comes much closer to this interconnected style of note taking than my previous spreadsheet-based approach. In short, the ability to add well-structured notes and to organize literature in multi-dimensional way is an advantage over the one-dimensional spreadsheet approach.
+You may know that I am a big fan of the [Second Brain/Zettelkasten](https://janspoerer.github.io/secondbrain/) method of organizing notes. Zotero comes much closer to this interconnected note-taking style than my previous spreadsheet-based approach. In short, the ability to add well-structured notes and to organize literature multi-dimensional is an advantage over the one-dimensional spreadsheet approach.
 
-**A word on multi-dimensional vs. one-dimensional structure:** Why would a spreadsheet only be one-dimensional? A single spreadsheet, can only have as many dimensions as you add columns to it. But adding columns to a spreadsheet often comes at the expense of convenience for data entry and data retrieval. In other words: Highly-dimensional data gets messy in simple spreadsheets.
+**A word on multi-dimensional vs. one-dimensional structure:** Why would a spreadsheet only be one-dimensional? A single spreadsheet can only have as many dimensions as you add columns. But adding columns to a spreadsheet often comes at the expense of convenience for data entry and data retrieval. In other words: Highly-dimensional data gets messy in simple spreadsheets.
 
-With label-enabled systems such as Zotero, however, one can add labels to a piece of literature with ease. **Such systems are multi-dimensional by default.** Filtering for labels is easy. The view of the reader is not cluttered with many tables. Adding labels as they emerge does not come with the downside of having to re-work old entries to the literature database.
+With label-enabled systems such as Zotero, however, one can add labels to a piece of literature. **Such systems are multi-dimensional by default.** Filtering labels is easy. The view of the reader is not cluttered with many tables. Adding labels as they emerge does not come with the downside of having to re-work old entries to the literature database.
 
-**What were the cost of the switch?** It took me about five hours to transfer about 70% of my literature database to Zotero. My literature database has 300 entries, and I left out some entries that I found to be no longer useful. So you can expect one or two full days of work for a database with a couple hundred entries.
+**What was the cost of the switch?** It took me about five hours to transfer about 70% of my literature database to Zotero. My literature database has 300 entries, and I left out some entries that I found to be no longer useful. So you can expect one or two full days of work for a database with a couple hundred entries.
 
 ## What Were the Biggest Obstacles?
 
-No obstacles. Things were quiet around the Christmas season and there was not much to get distracted with.
+No obstacles. Things were quiet around the Christmas season, and there was not much to get distracted with.
 
 ## Which Goals Did I Meet?
 
