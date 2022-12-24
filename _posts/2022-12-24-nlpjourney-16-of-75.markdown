@@ -1,0 +1,134 @@
+---
+layout: post
+title: "2022-12-24: Update 16/75 - Year-End Cleanup Sprint"
+date: 2022-12-24
+categories: post
+tags: phd
+is_series: true
+series_title: "75 Steps Toward a Ph.D. in NLP"
+image: "/assets/images/2022-12-24.jpg"
+# https://shantoroy.com/jekyll/add-latex-math-to-jekyll-blog-minimal-mistakes/
+---
+<script type="text/javascript" async
+    src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.6/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
+
+<script type="text/x-mathjax-config">
+    MathJax.Hub.Config({
+        extensions: ["tex2jax.js"],
+        jax: ["input/TeX", "output/HTML-CSS"],
+        tex2jax: {
+        inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+        displayMath: [ ['$$','$$'], ["\\[","\\]"] ],
+        processEscapes: true
+        },
+        "HTML-CSS": { availableFonts: ["TeX"] }
+    });
+</script>
+
+Literature management was not a topic that I considered worth changing. Then, my supervisor proposed to standardize our literature management approach at the chair this week, so I had to make a switch.
+
+In this post, I will thus share my experience with switching from a spreadsheet-based system to Zotero.
+
+You can follow these updates: [Substack](https://nlpjourney.substack.com/) [Blog](https://janspoerer.github.io/phdstudies/) [Telegram](https://t.me/+gmkAaVlKPh4xZTky) [WhatsApp](https://chat.whatsapp.com/F6901LMMJWIGlxrahkgBcq) [LinkedIn](https://www.linkedin.com/in/janspoerer/) [Medium](https://medium.com/@janspoerer/about) [Twitter](https://twitter.com/JanSpoerer) [Calendly](https://calendly.com/janspoerer/60m-private)
+
+![Managing all this, and much much more, in software, is quite easy.]({{ page.image }})
+<sup>Managing all this, and much much more, in software, is quite easy.</sup>
+
+## What Happened Since Last Week?
+
+I looked up databases with equity research reports. There was also a helpful hint from one of the readers. Thank you.
+
+I will probably stick with one of the many databases that the University of St. Gallen provides.
+
+**Regarding Zotero and reference management in general:** I have previously used a spreadsheet with the following columns:
+
+<ol>
+  <li>Name of paper</li>
+  <li>Author</li>
+  <li>Year</li>
+  <li>Published in</li>
+  <li>Quality category</li>
+  <li>Domain category</li>
+  <li>Link to PDF</li>
+  <li>Original source of full text</li>
+  <li>Bibtex</li>	
+  <li>Notes</li>
+</ol>
+
+As you can see, the spreadsheet contained a column with a Bibtex entry. I could simply copy-paste this entry into my paper to use an article in my own writing. 
+
+The system was working very well, especially becaus I kept all data in the spreadsheet as clean as possible.
+
+But now with Zotero, I also notice some advantages:
+
+<ul>
+  <li>Zotero allows users to tag papers with custom keywords.</li>
+  <li>Zotero allows users to connect papers with each other. This creates a paper knowledge graph.</li>
+  <li>Zotero allows for shared folders. We have a shared folder at our research chair.</li>
+</ul>
+
+You may know that I am a big fan of the [Second Brain/Zettelkasten](https://janspoerer.github.io/secondbrain/) method of organizing notes. Zotero comes much closer to this interconnected style of note taking than my previous spreadsheet-based approach.
+
+## What Were the Biggest Obstacles?
+
+No obstacles. Things were quiet around the Christmas season and there was not much to get distracted with.
+
+## Which Goals Did I Meet?
+
+<ol>
+  <li>Fix the tokenizer bug in the code. (Credit goes to my co-author.)</li>
+  <li>Get familiar with Zotero.</li>
+  <li>Switch literature management to Zotero.</li>
+</ol>
+
+## Which Goals Did I Miss?
+
+<ol>
+  <li>Get equity research reports for the B.Sc. student.</li>
+  <li>Make diagrams based on the preliminary experiments.</li>
+</ol>
+
+## Was It a Good Week?
+
+Yes, all good! I recovered from a flu-like infection and got a lot of work done.
+
+## Short-Term Tasks for The Coming Week
+
+<ol>
+  <li>Get equity research reports for the B.Sc. student.</li>
+  <li>Make diagrams based on the preliminary experiments.</li>
+</ol>
+
+<br>
+
+____________________________________
+
+## About "75-Step Journey Toward a Ph.D. in Natural Language Processing"
+
+You will, from now on, witness my grind. Feel my blood, sweat, and tears.
+
+With this series of articles, you become a real-life weekly witness of my dissertation progress, all in 75 steps. This has multiple purposes:
+
+1) Forcing myself to keep moving through the power of public shame!
+
+2) Helping other (prospective) Ph.D. students to stay motivated and to show that hard times are normal when going through this process.
+
+3) Getting support from the community when I go through hard times.
+
+Share this with your Ph.D. student friends: [Substack](https://nlpjourney.substack.com/) [Blog](https://janspoerer.github.io/phdstudies/) [Telegram](https://t.me/+gmkAaVlKPh4xZTky) [WhatsApp](https://chat.whatsapp.com/F6901LMMJWIGlxrahkgBcq) [LinkedIn](https://www.linkedin.com/in/janspoerer/) [Medium](https://medium.com/@janspoerer/about) [Twitter](https://twitter.com/JanSpoerer) [Calendly](https://calendly.com/janspoerer/60m-private).
+
+{% if page.is_series == true %}
+    {% assign posts = site.posts | where: "is_series", true | where: "series_title", page.series_title | sort: 'date' %}
+    {% if posts.size > 1 %}
+
+<h3 class="text-success p-3 pb-0">Read More From the {{ page.series_title }} Series</h3>
+        {% for post in posts %}
+                {% if post.title == page.title %}
+<p class="nav-link bullet-pointer mb-0">{{ post.title }}</p>
+                {% else %}
+<a class="nav-link bullet-hash" href="{{ post.url }}">{{ post.title }}</a>
+                {% endif %}
+        {% endfor %}
+    {% endif %}
+{% endif %}
