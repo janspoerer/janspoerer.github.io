@@ -32,8 +32,8 @@ Also, Happy New Year!
 
 You can follow these updates: [Substack](https://nlpjourney.substack.com/) [Blog](https://janspoerer.github.io/phdstudies/) [Telegram](https://t.me/+gmkAaVlKPh4xZTky) [WhatsApp](https://chat.whatsapp.com/F6901LMMJWIGlxrahkgBcq) [LinkedIn](https://www.linkedin.com/in/janspoerer/) [Medium](https://medium.com/@janspoerer/about) [Twitter](https://twitter.com/JanSpoerer) [Calendly](https://calendly.com/janspoerer/60m-private)
 
-![It feels good to be the only one on the parking lot in front of the library on 1st January!]({{ page.image }})
-<sup>It feels good to be the only one on the parking lot in front of the library on 1st January!</sup>
+![It feels good to be the only one in the parking lot in front of the library on 1st January!]({{ page.image }})
+<sup>It feels good to be the only one in the parking lot in front of the library on 1st January!</sup>
 
 ## What Happened Since Last Week?
 
