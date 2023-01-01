@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2023-01-01: Update 17/75 - Year-End Cleanup Sprint"
+title: "2023-01-01: Update 17/75 - New "
 date: 2023-01-01
 categories: post
 tags: phd
@@ -26,7 +26,7 @@ image: "/assets/images/2023-01-01.jpg"
     });
 </script>
 
-Yay, it's 2023. This week, I'm presenting your my timeline for finishing all articles in 2023 and how ChatGPT may play a role in that.
+Yay, it's 2023. This week, I'm presenting my timeline for finishing all research articles in 2023 and how ChatGPT may play a role in that.
 
 Also, Happy New Year!
 
@@ -37,13 +37,15 @@ You can follow these updates: [Substack](https://nlpjourney.substack.com/) [Blog
 
 ## What Happened Since Last Week?
 
-Well, instead let's start how last *year* went. I'm pretty satisfied with the year. Academics, job(s), and personal life went well and were in balance. While making steady progress in my professional life, I was also able to find time for regular exercise and for family and friends. 
+Well, instead, let's start with how last *year* went. I'm pretty satisfied with the year. Academics, job(s), and personal life went well and were in balance. While making steady progress in my professional life, I was also able to find time for regular exercise and family and friends. 
 
-The only regret is that I often did not sleep enough.
+I was able to hit my dream weight (which for me means gaining weight, not losing weight), finish the Ph.D. proposal and the Ph.D. course phase, and to perform well professionally.
+
+My only regret is that I often did not sleep enough.
 
 **Now, how did last week go?** I read more about ChatGPT and thought about how this may impact my research.
 
-My supervisor suggested that I may be able to do information retrieval, which is my focus in the Ph.D., using ChatGPT.
+My supervisor suggested that I could do information retrieval, which is my focus in the Ph.D., *using ChatGPT*.
 
 So, ChatGPT may influence the research going forward.
 
@@ -52,12 +54,12 @@ So, ChatGPT may influence the research going forward.
   <li>Hand in paper no. 1 in January 2023.</li>
   <li>Hand in paper no. 2 by the end of June 2023 (Q2).</li>
   <li>Hand in paper no. 3 by the end of Q3.</li>
-  <li>Hand in paper no. 4 by the end of Q4/by year end.</li>
+  <li>Hand in paper no. 4 by the end of Q4/by year-end.</li>
 </ol>
 
 ## What Were the Biggest Obstacles?
 
-A bit too much Christmas and too much eating. Could be worse.
+A bit too much Christmas and too much eating. It could be worse.
 
 ## Which Goals Did I Meet?
 
