@@ -32,22 +32,28 @@ Also, Happy New Year!
 
 You can follow these updates: [Substack](https://nlpjourney.substack.com/) [Blog](https://janspoerer.github.io/phdstudies/) [Telegram](https://t.me/+gmkAaVlKPh4xZTky) [WhatsApp](https://chat.whatsapp.com/F6901LMMJWIGlxrahkgBcq) [LinkedIn](https://www.linkedin.com/in/janspoerer/) [Medium](https://medium.com/@janspoerer/about) [Twitter](https://twitter.com/JanSpoerer) [Calendly](https://calendly.com/janspoerer/60m-private)
 
-![Quite possibly the most boring title picture so far in this series: Me showing off that this post was the first useful thing to do in 2023.]({{ page.image }})
-<sup>Quite possibly the most boring title picture so far in this series: Me showing off that this post was the first useful thing to do in 2023.</sup>
+![It feels good to be the only one on the parking lot in front of the library on 1st January!]({{ page.image }})
+<sup>It feels good to be the only one on the parking lot in front of the library on 1st January!</sup>
 
 ## What Happened Since Last Week?
 
-I read more about ChatGPT and thought about how this may impact my research.
+Well, instead let's start how last *year* went. I'm pretty satisfied with the year. Academics, job(s), and personal life went well and were in balance. While making steady progress in my professional life, I was also able to find time for regular exercise and for family and friends. 
+
+The only regret is that I often did not sleep enough.
+
+**Now, how did last week go?** I read more about ChatGPT and thought about how this may impact my research.
 
 My supervisor suggested that I may be able to do information retrieval, which is my focus in the Ph.D., using ChatGPT.
 
-So ChatGPT may influence the research going forward.
+So, ChatGPT may influence the research going forward.
 
-**The plan is a follows:**
-1) Hand in paper no. 1 in January 2023.
-2) Hand in paper no. 2 by the end of June 2023 (Q2).
-3) Hand in paper no. 3 by the end of Q3.
-4) Hand in paper no. 4 by the end of Q4/by yer end.
+**The plan is as follows:**
+<ol>
+  <li>Hand in paper no. 1 in January 2023.</li>
+  <li>Hand in paper no. 2 by the end of June 2023 (Q2).</li>
+  <li>Hand in paper no. 3 by the end of Q3.</li>
+  <li>Hand in paper no. 4 by the end of Q4/by year end.</li>
+</ol>
 
 ## What Were the Biggest Obstacles?
 
@@ -69,7 +75,7 @@ A bit too much Christmas and too much eating. Could be worse.
 ## Was It a Good Week?
 
 It was not so productive due to Christmas.
- 
+
 ## Short-Term Tasks for The Coming Week
 
 <ol>
