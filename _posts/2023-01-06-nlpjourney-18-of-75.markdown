@@ -26,14 +26,12 @@ image: "/assets/images/2023-01-06.jpg"
     });
 </script>
 
-Yay, it's 2023. This week, I'm presenting my timeline for finishing all research articles in 2023 and how ChatGPT may play a role in that.
-
-Also, Happy New Year!
+How was the first week of 2023?
 
 You can follow these updates: [Substack](https://nlpjourney.substack.com/) [Blog](https://janspoerer.github.io/phdstudies/) [Telegram](https://t.me/+gmkAaVlKPh4xZTky) [WhatsApp](https://chat.whatsapp.com/F6901LMMJWIGlxrahkgBcq) [LinkedIn](https://www.linkedin.com/in/janspoerer/) [Medium](https://medium.com/@janspoerer/about) [Twitter](https://twitter.com/JanSpoerer) [Calendly](https://calendly.com/janspoerer/60m-private)
 
-![It feels good to be the only one on the parking lot in front of the library on 1st January!]({{ page.image }})
-<sup>It feels good to be the only one on the parking lot in front of the library on 1st January!</sup>
+![Being an ACM member comes with the benefit of discounted conference ticket prices. The ACM magazine is sometimes also interesting.]({{ page.image }})
+<sup>Being an ACM member comes with the benefit of discounted conference ticket prices. The ACM magazine is sometimes also interesting.</sup>
 
 ## What Happened Since Last Week?
 
