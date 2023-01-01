@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "2023-01-01: Update 17/75 - New Year's Resolutions"
-date: 2023-01-01
+title: "2023-01-06: Update 18/75 - Execution on Good Resolutions?"
+date: 2023-01-06
 categories: post
 tags: phd
 is_series: true
 series_title: "75 Steps Toward a Ph.D. in NLP"
-image: "/assets/images/2023-01-01.jpg"
+image: "/assets/images/2023-01-06.jpg"
 # https://shantoroy.com/jekyll/add-latex-math-to-jekyll-blog-minimal-mistakes/
 ---
 <script type="text/javascript" async
