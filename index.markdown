@@ -32,7 +32,7 @@ I code with `Java`, `Kotlin`, `JavaScript`/`TypeScript`, and `Python`. After str
 
 Sometime in the future, I would like to get into `Rust` and `Go`. I tried `Julia` and `R` but I have yet to like either of those languages.
 
-For software projects, `Java` and `JavaScript` are currently my main languages. My natural language processing (NLP) research happens exclusively in `Python` (supported by `Huggingface` libraries).
+For software projects, `Java`, `Kotlin` and `JavaScript` are currently my main languages. My natural language processing (NLP) research happens exclusively in `Python` (supported by `Huggingface` and `PyTorch` libraries).
 
 I recommend using a "second brain/Zettelkasten" software to just about anybody and wrote a [post about it](/secondbrain).
 
