@@ -28,7 +28,7 @@ Please find my project portfolio in this [post](post/2022/07/24/project-portfoli
 
 I am a big fan of **engineering** challenges.
 
-I code with `Java`, `JavaScript`/`TypeScript`, and `Python`. After struggling with `Visual Basic`, `Fortran`, and `Turbo Pascal` in middle school, the first language that I learned to do well in was `Ruby`. This was then followed by getting deep into `Python`.
+I code with `Java`, `Kotlin`, `JavaScript`/`TypeScript`, and `Python`. After struggling with `Visual Basic`, `Fortran`, and `Turbo Pascal` in middle school, the first language that I learned to do well in was `Ruby`. This was then followed by getting deep into `Python`.
 
 Sometime in the future, I would like to get into `Rust` and `Go`. I tried `Julia` and `R` but I have yet to like either of those languages.
 
