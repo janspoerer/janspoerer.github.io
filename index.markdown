@@ -10,11 +10,11 @@ Finance guy turned software engineer.
 
 My three "professional passions" are: 1) finance, 2) data, and 3) software.
 
-I write code, I but also like to talk. So at my main job at **Commerzbank**, I do just that: being a software engineer and doing internal communication for the blockchain/DLT team.
+I write code, but I also like to talk. So at my main job at **Commerzbank**, I do just that: being a software engineer and doing internal communication for the blockchain/DLT team.
 
 Besides that, I am a **Ph.D. student** in [natural language processing (NLP)](https://ics.unisg.ch/chair-ds-nlp-handschuh/) at the University of St. Gallen (HSG). My focus is question answering for financial texts.
 
-And last, I am involed with **[21e6 Capital AG](https://21e6.io/)**, an investment company for sophisticated, professional crypto investors.
+And last, I am involved with **[21e6 Capital AG](https://21e6.io/)**, an investment company for sophisticated, professional crypto investors.
 
 ## Get in Touch
 
@@ -28,13 +28,13 @@ Please find my project portfolio in this [post](post/2022/07/24/project-portfoli
 
 I am a big fan of **engineering** challenges.
 
-I code with `Java`, `JavaScript`/`TypeScript`, and `Python`. After struggling with `Visual Basic`, `Fortran`, and `Turbo Pascal` in middle school, the first language that I learned to do well in was `Ruby`. This was then followed by getting deep into `Python`.
+I code with `Java`, `Kotlin`, `JavaScript`/`TypeScript`, and `Python`. After struggling with `Visual Basic`, `Fortran`, and `Turbo Pascal` in middle school, the first language that I learned to do well in was `Ruby`. This was then followed by getting deep into `Python`.
 
-Sometime in the future, I would like to get into `Rust` and `Go`. I tried `Julia` and `R`, but have not liked either of those languages.
+Sometime in the future, I would like to get into `Rust` and `Go`. I tried `Julia` and `R` but I have yet to like either of those languages.
 
-For software projects, `Java` and `JavaScript` are currently my main languages. My natural language processing (NLP) research happens exclusively in `Python` (supported by `Huggingface` libraries).
+For software projects, `Java`, `Kotlin` and `JavaScript` are currently my main languages. My natural language processing (NLP) research happens exclusively in `Python` (supported by `Huggingface` and `PyTorch` libraries).
 
-I recommend using a "second brain/Zettelkasten" software to just about anybody, and wrote a [post about it](/secondbrain).
+I recommend using a "second brain/Zettelkasten" software to just about anybody and wrote a [post about it](/secondbrain).
 
 ## Links to Social Accounts
 
