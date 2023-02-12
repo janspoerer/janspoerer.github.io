@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "2023-01-14: Update 18/75 - Last Edits to Paper 1"
-date: 2023-01-14
+date: 2023-10-14
 categories: post
 tags: phd
 is_series: true
@@ -35,7 +35,7 @@ You can follow these updates: [Substack](https://nlpjourney.substack.com/) [Blog
 
 ## What Happened Since Last Week?
 
-Well, instead, let's start with how last *year* went. I'm pretty satisfied with the year. Academics, job(s), and personal life went well and were in balance. While making steady progress in my professional life, I was also able to find time for regular exercise and family and friends. 
+Well, instead, let's start with how last *year* went. I'm pretty satisfied with the year. Academics, job(s), and personal life went well and were in balance. While making steady progress in my professional life, I was also able to find time for regular exercise and family and friends.
 
 I hit my dream weight (which for me means gaining weight, not losing weight), finished the Ph.D. proposal and the Ph.D. course phase, and performed well professionally.
 

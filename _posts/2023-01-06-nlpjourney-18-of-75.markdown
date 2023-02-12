@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "2023-01-06: Update 18/75 - Execution on Good Resolutions?"
-date: 2023-01-06
+title: "2023-02-12: Update 18-22/75 - First Paper Handed In!"
+date: 2023-02-12
 categories: post
 tags: phd
 is_series: true
 series_title: "75 Steps Toward a Ph.D. in NLP"
-image: "/assets/images/2023-01-06.jpg"
+image: "/assets/images/2023-02-12.jpg"
 # https://shantoroy.com/jekyll/add-latex-math-to-jekyll-blog-minimal-mistakes/
 ---
 <script type="text/javascript" async
@@ -26,28 +26,26 @@ image: "/assets/images/2023-01-06.jpg"
     });
 </script>
 
-How was the first week of 2023?
+Long time no see! I am back with the updates and used the last weeks to hand in the first paper of my dissertation (I did not write it alone).
+
+We did not yet publish the draft, but I will keep you posted and put a link one of the next posts if the article draft gets uploaded to a preprint archive.
 
 You can follow these updates: [Substack](https://nlpjourney.substack.com/) [Blog](https://janspoerer.github.io/phdstudies/) [Telegram](https://t.me/+gmkAaVlKPh4xZTky) [WhatsApp](https://chat.whatsapp.com/F6901LMMJWIGlxrahkgBcq) [LinkedIn](https://www.linkedin.com/in/janspoerer/) [Medium](https://medium.com/@janspoerer/about) [Twitter](https://twitter.com/JanSpoerer) [Calendly](https://calendly.com/janspoerer/60m-private)
 
-![Being an ACM member comes with the benefit of discounted conference ticket prices. The ACM magazine is sometimes also interesting.]({{ page.image }})
-<sup>Being an ACM member comes with the benefit of discounted conference ticket prices. The ACM magazine is sometimes also interesting.</sup>
+![Over the course of a day, I like to switch work locations to refresh my mind. The library is one of favorite places.]({{ page.image }})
+<sup>Over the course of a day, I like to switch work locations to refresh my mind. The library is one of favorite places.</sup>
 
 ## What Happened Since Last Week?
 
-Well, instead, let's start with how last *year* went. I'm pretty satisfied with the year. Academics, job(s), and personal life went well and were in balance. While making steady progress in my professional life, I was also able to find time for regular exercise and family and friends. 
+We handed in the first draft of an article that will likely be part of my dissertation.
 
-I hit my dream weight (which for me means gaining weight, not losing weight), finished the Ph.D. proposal and the Ph.D. course phase, and performed well professionally.
+We are already working on follow-up papers that build on the new paper.
 
-My only regret is that I often did not sleep enough.
+Also, the B.Sc. student from our chair seems to make good progress and seems happy with our supervision.
 
-**Now, how did last week go?** I read more about ChatGPT and thought about how this may impact my research.
+And last, we had to switch the second supervisor for my dissertation due to a professional change on my initial second supervisor's end. And it turns out that he is very interested in my topic and I think we can collaborate on joint articles.
 
-My supervisor suggested that I could do information retrieval, which is my focus in the Ph.D., *using ChatGPT*.
-
-So, ChatGPT may influence the research going forward.
-
-**The plan is as follows:**
+**The plan is still as follows:**
 <ol>
   <li>Hand in paper no. 1 in January 2023.</li>
   <li>Hand in paper no. 2 by the end of June 2023 (Q2).</li>
@@ -57,30 +55,32 @@ So, ChatGPT may influence the research going forward.
 
 ## What Were the Biggest Obstacles?
 
-A bit too much Christmas and too much eating. It could be worse.
+As is always the case with these deadlines, it became a bit stressful towards the end. But I am happy with how everything went. We may or may not get into the conference of our choice, but the article should have a good chance of being accepted somewhere.
 
 ## Which Goals Did I Meet?
 
 <ol>
-  <li>Found a new second supervisor. My initial second supervisor had a cancel his supervision for my thesis due to things out of my control.</li>
+  <li>Get equity research reports for the B.Sc. student.</li>
+  <li>Make diagrams based on the preliminary experiments.</li>
+  <li>Outline ideas to accommodate additional B.Sc. student topics.</li>
 </ol>
 
 ## Which Goals Did I Miss?
 
 <ol>
-  <li>Get equity research reports for the B.Sc. student.</li>
-  <li>Make diagrams based on the preliminary experiments.</li>
+  <li>None! Well, I have to admit that I am cheating this time as these are five updates in one post.</li>
 </ol>
 
 ## Was It a Good Week?
 
-It was not so productive due to Christmas.
+Yes. Other than the "first hand-in excitement," I am happy about having found a great replacement for my second supervisor (who unfortunately had to stop supervising my thesis due to a professional change on his end). It seems like there will be room for joint articles with my second supervisor as well.
 
 ## Short-Term Tasks for The Coming Week
 
 <ol>
-  <li>Get equity research reports for the B.Sc. student.</li>
-  <li>Make diagrams based on the preliminary experiments.</li>
+  <li>Get more equity research reports for the B.Sc. student.</li>
+  <li>Continue to supervise B.Sc. student; be available for guidance and questions.</li>
+  <li>Make an initial outline for the second paper.</li>
 </ol>
 
 <br>
@@ -100,6 +100,10 @@ With this series of articles, you become a real-life weekly witness of my disser
 3) Getting support from the community when I go through hard times.
 
 Share this with your Ph.D. student friends: [Substack](https://nlpjourney.substack.com/) [Blog](https://janspoerer.github.io/phdstudies/) [Telegram](https://t.me/+gmkAaVlKPh4xZTky) [WhatsApp](https://chat.whatsapp.com/F6901LMMJWIGlxrahkgBcq) [LinkedIn](https://www.linkedin.com/in/janspoerer/) [Medium](https://medium.com/@janspoerer/about) [Twitter](https://twitter.com/JanSpoerer) [Calendly](https://calendly.com/janspoerer/60m-private).
+
+## AI Tool Disclosure
+
+With the release of ChatGPT, some authors started to disclose an AI declaration. Given that there is not yet common ground what constitutes ethical use of generative language models for writing, I think that transparency is the least authors can do: This post was aided by Grammarly and by LanguageTool. No ChatGPT or another generative language model was used as aid for writing this post.
 
 {% if page.is_series == true %}
     {% assign posts = site.posts | where: "is_series", true | where: "series_title", page.series_title | sort: 'date' %}
