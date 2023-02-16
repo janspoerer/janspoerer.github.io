@@ -42,12 +42,12 @@ I recommend using a "second brain/Zettelkasten" software to just about anybody a
 
 * [Stackoverflow](https://stackoverflow.com/users/6057510/jan-sp%c3%b6rer)
 * [GitHub](https://github.com/janspoerer)
-* [Gitlab (I'm more active there than on GitHub, but most repositories there are private)](https://gitlab.com/janspoerer1) 
+* [Gitlab (I'm more active there than on GitHub, but most repositories there are private)](https://gitlab.com/janspoerer1)
 * [Twitter](https://twitter.com/JanSpoerer)
 
 ### Entrepreneurship-Related
 
-* [21e6 (a company I am involved with)](https://assets.21e6.io/)
+* [21e6 (a company I am involved with)](https://assets.21e6.io/), [@21e6_Digital on Twitter](https://twitter.com/21e6_Digital)
 * [Spoerico (another company I am involved with)](https://spoerico.com/)
 * [LinkedIn](https://www.linkedin.com/in/janspoerer/)
 
@@ -71,13 +71,13 @@ Send me an invite on [LinkedIn](https://www.linkedin.com/in/janspoerer/) with a 
 ## Writing
 
 * Ph.D. in NLP Journey in 75 Weekly Steps
-    * [Substack](https://nlpjourney.substack.com/) 
-    * [Blog](https://janspoerer.github.io/phdstudies/) 
-    * [Telegram](https://t.me/+gmkAaVlKPh4xZTky) 
-    * [WhatsApp](https://chat.whatsapp.com/F6901LMMJWIGlxrahkgBcq) 
-    * [Signal](https://signal.group/#CjQKIBRVuHKD-b_yhfeB3gnPU0G4HSA3tv1WmaA2PO___abEEhDqLwQXJZWJuwYamodAUqjN) 
-    * [LinkedIn](https://www.linkedin.com/in/janspoerer/) 
-    * [Medium](https://medium.com/@janspoerer/about) 
+    * [Substack](https://nlpjourney.substack.com/)
+    * [Blog](https://janspoerer.github.io/phdstudies/)
+    * [Telegram](https://t.me/+gmkAaVlKPh4xZTky)
+    * [WhatsApp](https://chat.whatsapp.com/F6901LMMJWIGlxrahkgBcq)
+    * [Signal](https://signal.group/#CjQKIBRVuHKD-b_yhfeB3gnPU0G4HSA3tv1WmaA2PO___abEEhDqLwQXJZWJuwYamodAUqjN)
+    * [LinkedIn](https://www.linkedin.com/in/janspoerer/)
+    * [Medium](https://medium.com/@janspoerer/about)
     * [Twitter](https://twitter.com/JanSpoerer)
     * [Calendly](https://calendly.com/janspoerer/60m-private)
 * [Master's Thesis on Backtesting of Cryptocurrency Trading Strategies](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3620154)
