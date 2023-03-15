@@ -88,6 +88,7 @@ Send me an invite on [LinkedIn](https://www.linkedin.com/in/janspoerer/) with a 
 * [Medium](https://medium.com/@janspoerer/about), [ITSA](https://medium.com/@mk.marcel.kaiser/top-10-ledger-native-tokens-by-market-capitalization-21f40bae6257)
 * [Appearance in the Handelsblatt (German Economic Newspaper)](https://www.handelsblatt.com/finanzen/maerkte/devisen-rohstoffe/bitcoin-und-co-wie-fondsprofis-mit-kryptowaehrungen-experimentieren/27805202.html)
 * [Join this free WhatsApp job group to find junior Data Science talent in Germany or to find a job!](https://chat.whatsapp.com/JdDgM4yIexODMe4FkGJuLE)
+* [Web3Stories podcast appearance talking about my mindsets for success](https://www.linkedin.com/posts/%F0%9F%91%A8%E2%80%8D%F0%9F%9A%80marcel-grimm-843b68201_%3F%3F%3F%3F-%3F%3F%3F%3F-%3F%3F%3F%3F%3F-%3F%3F%3F%3F-activity-7041674001810653185-OEiZ/)
 * [21e6](https://assets.21e6.io/)
     * [21e6 Crypto Indices & Prof. Philipp Sandner, interview by the German finance magazine "Der Aktionär"](https://youtu.be/lwIYYiQQFLQ?t=348)
 	* [Check out this English podcast about crypto funds (YouTube)](https://www.youtube.com/watch?v=nl3XdpC4_fo)
