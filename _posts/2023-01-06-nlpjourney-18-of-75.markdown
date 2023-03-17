@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "2023-02-12: Update 18-22/75 - First Paper Handed In!"
-date: 2023-02-12
+title: "2023-03-17: Update 18-27/75 - First Paper Handed In!"
+date: 2023-03-17
 categories: post
 tags: phd
 is_series: true
@@ -41,7 +41,7 @@ We handed in the first draft of an article that will likely be part of my disser
 
 We are already working on follow-up papers that build on the new paper.
 
-Also, the B.Sc. student from our chair seems to make good progress and seems happy with our supervision.
+Also, the B.Sc. student from our chair makes excellent progress and seems happy with our supervision.
 
 And last, we had to switch the second supervisor for my dissertation due to a professional change on my initial second supervisor's end. And it turns out that he is very interested in my topic and I think we can collaborate on joint articles.
 
