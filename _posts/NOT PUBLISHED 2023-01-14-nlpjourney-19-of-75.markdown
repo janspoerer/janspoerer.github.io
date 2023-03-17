@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "2023-01-14: Update 18/75 - Last Edits to Paper 1"
-date: 2023-10-14
+title: "2023-12-14: Update 28/75 - GPT-4 API & Web3Stories Podcast"
+date: 2023-12-14
 categories: post
 tags: phd
 is_series: true
@@ -40,6 +40,8 @@ Well, instead, let's start with how last *year* went. I'm pretty satisfied with 
 I hit my dream weight (which for me means gaining weight, not losing weight), finished the Ph.D. proposal and the Ph.D. course phase, and performed well professionally.
 
 My only regret is that I often did not sleep enough.
+
+My professor is hiring a new Ph.D. student. Feel free to forward his [LinkedIn post](https://www.linkedin.com/feed/update/urn:li:activity:7042130272921772033?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7042130272921772033%29) or the [link to the application portal](https://jobs.unisg.ch/offene-stellen/phd-in-conversational-ai-m-f-d/f0f2e46e-b390-4676-baa6-8a9390b2e8b6) to friends or to refer them to me.
 
 **Now, how did last week go?** I read more about ChatGPT and thought about how this may impact my research.
 
