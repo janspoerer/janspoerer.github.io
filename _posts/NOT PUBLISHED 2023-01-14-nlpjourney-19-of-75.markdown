@@ -6,7 +6,7 @@ categories: post
 tags: phd
 is_series: true
 series_title: "75 Steps Toward a Ph.D. in NLP"
-image: "/assets/images/2023-01-14.jpg"
+image: "/assets/images/2023-.jpg"
 # https://shantoroy.com/jekyll/add-latex-math-to-jekyll-blog-minimal-mistakes/
 ---
 <script type="text/javascript" async
