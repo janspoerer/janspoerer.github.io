@@ -63,6 +63,7 @@ I recommend using a "second brain/Zettelkasten" software to just about anybody a
 
 * [Goodreads](https://www.goodreads.com/user/show/64425508-jan-sp-rer)
 * [Influencer by DNA](https://philippsandner.medium.com/call-for-applications-for-influencer-by-dna-a-6-week-mentoring-program-to-become-influencer-and-11af32faaccc)
+* [How I like to work; how-to-read.me](https://app.how-to-read.me/public/4ce1a4e0-0754-4658-aa11-11d5e83020c3)
 
 ## How to Get in Touch
 
