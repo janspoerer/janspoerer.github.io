@@ -35,18 +35,18 @@ Sleep, nutrition, and exercise are probably the most relevant determinants of th
 
 # Why This is Relevant for Business
 
-This brings me to why I think companies can utilize biomarkers into their employee retention efforts. Most large companies advertise themselves to employees as caring and generally "employee-friendly."
+This brings me to why companies can utilize biomarkers in their employee retention efforts. Most large companies advertise themselves to employees as caring and generally "employee-friendly."
 
 We all know these claims, but how can companies systematically measure and track employees' health to
 <ol>
-  <li>**proof** that they are good employers,</li>
-  <li>and how can they track whether their employee **wellbeing programs are successful**?</li>
+  <li><b>prove</b> that they are good employers,</li>
+  <li>and how can they track whether their employee <b>wellbeing programs are successful</b>?</li>
 </ol>
-The answer is: health tracking.
+The answer is health tracking.
 
-So that's what I recently did. I bought a smart watch with HRV and heart rate functionality to track how stressed I am during the day.
+So that's what I recently did. I bought a smartwatch with HRV and heart rate functionality to track how stressed I am during the day.
 
-As soon as I understand whether these measurements are meaningful, I will gradually expand the use of smart watches and smart rings to my colleagues as well.
+As soon as I understand whether these measurements are meaningful, I will gradually expand the use of smartwatches and smart rings to my colleagues as well.
 
 I envision that one day, one could
 
