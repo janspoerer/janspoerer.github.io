@@ -25,8 +25,6 @@ series_title: "Finance"
     });
 </script>
 
-# Log Returns in Financial Economics
-
 Today, I added a note about the usage of log returns in finance to my [second brain](/secondbrain), and thought it might be interesting to some people. The most valuable videos on the topic are referenced below. I suggest watching all three videos as each gives a different angle to the subject. If you prefer a written article over videos, you can check out this [article about the usefulness of log returns](https://investmentcache.com/magic-of-log-returns-concept-part-1/) and the [second part of the article with an Excel implementation](https://investmentcache.com/magic-of-log-returns-practical-part-2/).
 
 A log return is calculated by dividing the current price of an asset by the past price of an asset and taking the natural logarithm: $ln(price_{t}/price_{t-1})$.
