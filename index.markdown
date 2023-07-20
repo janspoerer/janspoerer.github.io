@@ -89,7 +89,10 @@ Send me an invite on [LinkedIn](https://www.linkedin.com/in/janspoerer/) with a 
 * [Medium](https://medium.com/@janspoerer/about), [ITSA](https://medium.com/@mk.marcel.kaiser/top-10-ledger-native-tokens-by-market-capitalization-21f40bae6257)
 * [Appearance in the Handelsblatt (German Economic Newspaper)](https://www.handelsblatt.com/finanzen/maerkte/devisen-rohstoffe/bitcoin-und-co-wie-fondsprofis-mit-kryptowaehrungen-experimentieren/27805202.html)
 * [Join this free WhatsApp job group to find junior Data Science talent in Germany or to find a job!](https://chat.whatsapp.com/JdDgM4yIexODMe4FkGJuLE)
-* [Web3Stories podcast appearance talking about my mindsets for success](https://www.linkedin.com/posts/%F0%9F%91%A8%E2%80%8D%F0%9F%9A%80marcel-grimm-843b68201_%3F%3F%3F%3F-%3F%3F%3F%3F-%3F%3F%3F%3F%3F-%3F%3F%3F%3F-activity-7041674001810653185-OEiZ/)
+* Web3Stories podcast appearance talking about my mindsets for success
+    * [LinkedIn]](https://www.linkedin.com/posts/%F0%9F%91%A8%E2%80%8D%F0%9F%9A%80marcel-grimm-843b68201_%3F%3F%3F%3F-%3F%3F%3F%3F-%3F%3F%3F%3F%3F-%3F%3F%3F%3F-activity-7041674001810653185-OEiZ/) or [here](https://www.linkedin.com/posts/21e6-dlt_8-jan-sp%C3%B6rer-blockchain-life-story-commerzbank-activity-7044293139217473536-V13u)
+    * [YouTube](https://www.youtube.com/watch?v=x5qkNojbZV4)
+    * [Amazon Music](https://music.amazon.com/podcasts/ec613a79-9118-4759-a840-c5dcbca7ee8f/episodes/dc3a052a-e509-41d4-9222-927fc02d186f/web3stories---empower-and-inspire-beyond-the-block-8-jan-sp%C3%B6rer-blockchain-life-story-commerzbank-21e6-phd)
 * [21e6](https://assets.21e6.io/)
     * [21e6 Crypto Indices & Prof. Philipp Sandner, interview by the German finance magazine "Der Aktionär"](https://youtu.be/lwIYYiQQFLQ?t=348)
 	* [Check out this English podcast about crypto funds (YouTube)](https://www.youtube.com/watch?v=nl3XdpC4_fo)
@@ -97,6 +100,22 @@ Send me an invite on [LinkedIn](https://www.linkedin.com/in/janspoerer/) with a 
 		* [Apple Podcasts](https://podcasts.apple.com/de/podcast/krypto-im-portfolio/id1638093768)
 		* [Audible](https://www.audible.de/pd/Krypto-im-Portfolio-Podcast/B0B9GCK4GX)
         * [Amazon Music](https://music.amazon.com/podcasts/4f0d7798-7fc3-44fc-888f-62dc2ee904aa/episodes/2d4a00eb-1efa-42d9-8c84-275c3943faca/krypto-im-portfolio-krypto-fonds-mit-jan-sp%C3%B6rer-due-diligence-und-data-manager-bei-21e6-capital)
+        * Content:
+            * 0:00 Intro
+            * 00:55 Catch phrase
+            * 01:50 Childhood, School & Study Time
+            * 12:30 First Experience with Bitcoin, Ethereum & Crypto
+            * 16:00 Blockchain at Commerzbank
+            * 18:05 Terra Luna & FTX Crash
+            * 20:40 PhD
+            * 27:20 21e6
+            * 31:30 DeFi, NFTs & Metaverse
+            * 38:45 Development of DeFi in the future
+            * 41:20 Biggest Obstacle & Success
+            * 42:40 Advice for your Younger-Self
+            * 47:30 Crypto Outlook for 2023
+            * 49:20 Personal Outlook for 2023
+            * 50:30 Outro
 	* [German short video on the impact of crypto investments on the Sharpe ratio (by 21e6 CEO Felix Fernandez)](https://www.youtube.com/watch?v=euyf8CKHEeg)
 	* [English crypto deep-dive by 21e6 CEO Felix Fernandez](https://www.youtube.com/watch?v=BPT3FuO9VnQ)
 	* [ifb Workshops for Executives](https://assets.21e6.io/blog/jan-sp%C3%B6rer-at-ifb-workshop-about-distributed-ledger-technologies)
