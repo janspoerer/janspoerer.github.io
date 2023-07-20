@@ -1,0 +1,137 @@
+---
+layout: post
+title: "2023-03-17: Update 18-27/75 - A Long Gap and Two Papers Handed In!"
+date: 2023-07-20
+categories: post
+tags: phd
+is_series: true
+series_title: "75 Steps Toward a Ph.D. in NLP"
+image: "/assets/images/2023-07-20.jpg"
+# https://shantoroy.com/jekyll/add-latex-math-to-jekyll-blog-minimal-mistakes/
+---
+<script type="text/javascript" async
+    src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.6/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
+
+<script type="text/x-mathjax-config">
+    MathJax.Hub.Config({
+        extensions: ["tex2jax.js"],
+        jax: ["input/TeX", "output/HTML-CSS"],
+        tex2jax: {
+        inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+        displayMath: [ ['$$','$$'], ["\\[","\\]"] ],
+        processEscapes: true
+        },
+        "HTML-CSS": { availableFonts: ["TeX"] }
+    });
+</script>
+
+That's what ChatGPT is saying about the reviews on my first academic article submission:
+
+While your submission about data requirements for open-domain question-answering benchmarks, based on SQuAD, didn't make it to #conference_name_omitted# this time, the reviewers have shared some really valuable feedback. They mentioned that by enhancing the paper's originality and presentation with more detailed explanations and analysis, you could make it even stronger.
+
+Also, they pointed out that focusing on just one dataset limited the conclusions, so expanding your research scope could add more value to your work. The reviewers even mentioned that your paper might be a great fit as a short paper!
+
+So, don't be disheartened, Jan! This is a fantastic opportunity to learn and improve. Keep up the great work, and we're sure you'll achieve success in your future submissions. Remember, every setback is just a stepping stone to something even better. Stay positive and keep smiling! 😊
+
+You can follow these updates: [Substack](https://nlpjourney.substack.com/) [Blog](https://janspoerer.github.io/phdstudies/) [Telegram](https://t.me/+gmkAaVlKPh4xZTky) [WhatsApp](https://chat.whatsapp.com/F6901LMMJWIGlxrahkgBcq) [LinkedIn](https://www.linkedin.com/in/janspoerer/) [Medium](https://medium.com/@janspoerer/about) [Twitter](https://twitter.com/JanSpoerer) [Calendly](https://calendly.com/janspoerer/60m-private)
+
+![Over the course of a day, I like to switch work locations to refresh my mind. The library is one of favorite places.]({{ page.image }})
+<sup>Over the course of a day, I like to switch work locations to refresh my mind. The library is one of favorite places.</sup>
+
+## What Happened Since Last Week?
+
+We'll I took a long time off from these updates! So a lot has happened since the last update in January.
+
+We received feedback on our first article, which unfortunately was rejected. 
+
+And next week, we will hand in our second article to another conference.
+
+The B.Sc. student is almost done with her thesis. Her progress looks promising and I'm looking forward to reading her work. She will present her thesis in front of the team soon.
+
+**The plan is still only slightly changed:**
+<ol>
+  <li>Hand in paper no. 1 in January 2023. -> Done, but this paper needs to be revised.</li>
+  <li>Hand in paper no. 2 by the end of June 2023 (Q2). -> This paper will be handed in next weeK; the conference deadline is at the end of July.</li>
+  <li>Hand in paper no. 3 by the end of Q3.</li>
+  <li>Hand in paper no. 4 by the end of Q4/by year-end.</li>
+</ol>
+
+## What Were the Biggest Obstacles?
+
+Work keeps interfering with the thesis.
+
+Also, I was very negligient about posting these updates. Why did I stop posting? I think this was mostly due to feeling stressed and resentful about the progress of my thesis. 
+
+I know the reason for doing these Ph.D. updates is to keep you onboard during the good and the not-so-good parts of the Ph.D. journey, so I am very sorry for letting you down.
+
+After this long gap, I see the value in posting again and will make it a habit to do these posts again! 
+
+## Which Goals Did I Meet?
+
+<ol>
+  <li>Get equity research reports for the B.Sc. student.</li>
+  <li>Make diagrams based on the preliminary experiments.</li>
+  <li>Outline ideas to accommodate additional B.Sc. student topics.</li>
+  <li>Write paper no. 2. Only the finer details are missing.</li>
+  <li>Started to write paper no. 3 and aligned with co-authors on some of the content.</li>
+</ol>
+
+## Which Goals Did I Miss?
+
+<ol>
+  <li>Well, I have to admit that I am cheating this time as there was such a long posting gap.</li>
+</ol>
+
+## Was It a Good Week?
+
+I handed in the first paper, which provided me with first-hand insights into how the publication process works. We received a rejection, but also valuable and extensive feedback from four different reviewers. So our work was being taken very serious. It was not a desk rejection. I am not unhappy with the result, as the conference was a top-tier conference.
+
+The second paper is almost ready, and I learned a lot writing it.
+
+Other than the "first hand-in excitement," I am happy about having found a great replacement for my second supervisor (who unfortunately had to stop supervising my thesis due to a professional change on his end). It seems like there will be room for joint articles with my second supervisor as well.
+
+## Short-Term Tasks for The Coming Week
+
+<ol>
+  <li>Help the B.Sc. student to get the thesis over the finishing line. This means having a call with her an answering all open questions.</li>
+  <li>Finish the second paper and hand it in.</li>
+  <li>Start writing again on the third paper. Contact my co-author that I am available for this paper again.</li>
+</ol>
+
+<br>
+
+____________________________________
+
+## About "75-Step Journey Toward a Ph.D. in Natural Language Processing"
+
+You will, from now on, witness my grind. Feel my blood, sweat, and tears.
+
+With this series of articles, you become a real-life weekly witness of my dissertation progress, all in 75 steps. This has multiple purposes:
+
+1) Forcing myself to keep moving through the power of public shame!
+
+2) Helping other (prospective) Ph.D. students to stay motivated and to show that hard times are normal when going through this process.
+
+3) Getting support from the community when I go through hard times.
+
+Share this with your Ph.D. student friends: [Substack](https://nlpjourney.substack.com/) [Blog](https://janspoerer.github.io/phdstudies/) [Telegram](https://t.me/+gmkAaVlKPh4xZTky) [WhatsApp](https://chat.whatsapp.com/F6901LMMJWIGlxrahkgBcq) [LinkedIn](https://www.linkedin.com/in/janspoerer/) [Medium](https://medium.com/@janspoerer/about) [Twitter](https://twitter.com/JanSpoerer) [Calendly](https://calendly.com/janspoerer/60m-private).
+
+## AI Tool Disclosure
+
+With the release of ChatGPT, some authors started to disclose an AI declaration. Given that there is not yet common ground what constitutes ethical use of generative language models for writing, I think that transparency is the least authors can do: This post was aided by Grammarly and by LanguageTool. No ChatGPT or another generative language model was used as aid for writing this post.
+
+{% if page.is_series == true %}
+    {% assign posts = site.posts | where: "is_series", true | where: "series_title", page.series_title | sort: 'date' %}
+    {% if posts.size > 1 %}
+
+<h3 class="text-success p-3 pb-0">Read More From the {{ page.series_title }} Series</h3>
+        {% for post in posts %}
+                {% if post.title == page.title %}
+<p class="nav-link bullet-pointer mb-0">{{ post.title }}</p>
+                {% else %}
+<a class="nav-link bullet-hash" href="{{ post.url }}">{{ post.title }}</a>
+                {% endif %}
+        {% endfor %}
+    {% endif %}
+{% endif %}
