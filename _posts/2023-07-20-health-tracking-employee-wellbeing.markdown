@@ -27,24 +27,28 @@ series_title: "Business"
 
 # Some Background
 
-Some years ago, I became interested in the longevity movement. You may have heard about David Sinclair, Rhoanda Patrick, Valter Longo, and Bryan Johnson, who are thought leaders in the field.
+Some years ago, I became interested in the longevity movement. You may have heard about David Sinclair, Rhonda Patrick, Valter Longo, and Bryan Johnson, who are thought leaders in the field.
 
-One of the means of achieving a long life is tracking one's biomarkers. Biomarkers tell us how healthy we are. We all know blood pressure and blood sugar as important health metrics; but there are many more biomarkers that are [well-summarized](https://blueprint.bryanjohnson.co/#routine-measurement) by Bryan Johnson's Blueprint.
+One of the means of achieving a long life is tracking one's biomarkers. Biomarkers tell us how healthy we are. We all know blood pressure and blood sugar as important health metrics, but there are many more biomarkers that are [well-summarized](https://blueprint.bryanjohnson.co/#routine-measurement) by Bryan Johnson's Blueprint.
 
-Sleep, nutrition, and exercise are probably the most relevant determinants of these biomarkers, and, consequently, health. But stress is also a relevant one. *Heart rate variability* (HRV) and *heart rate* can be used as measures of stress that a simple smartwatch can provide *in real time*.
+Sleep, nutrition, and exercise are probably the most relevant determinants of these biomarkers, and, consequently, health. But stress is also a relevant one. **Heart rate variability** (HRV) and **heart rate** can be used as measures of stress that a simple smartwatch can provide **in real-time**.
 
 # Why This is Relevant for Business
 
 This brings me to why I think companies can utilize biomarkers into their employee retention efforts. Most large companies advertise themselves to employees as caring and generally "employee-friendly."
 
-We all know these claims, but how can companies systematically measure, track, and proof that
-1) they are good employers,
-2) and how can they track whether their employee wellbeing programs are successful?
+We all know these claims, but how can companies systematically measure and track employees' health to
+<ol>
+  <li>**proof** that they are good employers,</li>
+  <li>and how can they track whether their employee **wellbeing programs are successful**?</li>
+</ol>
 The answer is: health tracking.
 
-So that's what I recently did. I bought a smart watch with HRV and heart rate functionality and track how stressful I feel during the day. The watch tracks my stress level in real time.
+So that's what I recently did. I bought a smart watch with HRV and heart rate functionality to track how stressed I am during the day.
 
 As soon as I understand whether these measurements are meaningful, I will gradually expand the use of smart watches and smart rings to my colleagues as well.
+
+I envision that one day, one could
 
 # How to Get Into the Health Tracking Rabbit Hole
 
@@ -58,7 +62,7 @@ In general, I cannot recommend these books highly enough:
 
 And these are my top thought leaders in the longevity space (as alluded to before):
 * David Sinclair
-* Rhoanda Patrick
+* Rhonda Patrick
 * Bryan Johnson
 
 {% if page.is_series == true %}
