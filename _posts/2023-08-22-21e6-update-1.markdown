@@ -1,0 +1,88 @@
+---
+layout: post
+title: "2023-08-22: 21e6's Crypto Investment Dataset Covered by Bloomberg"
+date: 2023-08-22
+categories: post
+tags: 21e6
+is_series: true
+series_title: "21e6"
+image: "/assets/images/Half-Year-Report-21e6-Crypto-Investments.png"
+# https://shantoroy.com/jekyll/add-latex-math-to-jekyll-blog-minimal-mistakes/
+---
+<script type="text/javascript" async
+    src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.6/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
+
+<script type="text/x-mathjax-config">
+    MathJax.Hub.Config({
+        extensions: ["tex2jax.js"],
+        jax: ["input/TeX", "output/HTML-CSS"],
+        tex2jax: {
+        inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+        displayMath: [ ['$$','$$'], ["\\[","\\]"] ],
+        processEscapes: true
+        },
+        "HTML-CSS": { availableFonts: ["TeX"] }
+    });
+</script>
+
+## A Small Update About 21e6
+
+I am taking the recently published [half-year report on the state of crypto funds](https://www.linkedin.com/search/results/content/?keywords=half%20year%20report&sid=fK5&update=urn%3Ali%3Afs_updateV2%3A(urn%3Ali%3Aactivity%3A7098211948802007041%2CBLENDED_SEARCH_FEED%2CEMPTY%2CDEFAULT%2Cfalse)) of 21e6 as an opportunity to give a small update about the current focus of 21e6 Capital.
+
+21e6 has developed well since its launch in 2021. We have since built a brand recognized across Europe and beyond in the crypto fund realm. We have some of the best data in the industry and a wide network to fund managers and investors.
+
+Given that our company is little more than two years old, I am proud and thankful of our achievements so far.
+
+Next, we will expand our data-related offering by improving existing offerings, especially UI-wise, and broadening the scope of our data to new domains. The goal is to be even more useful to investors as a resource for sophisticated crypto know-how.
+
+![Comparing performance of directional fund strategies in 1H2023.]({{ page.image }})
+<sup>Comparing performance of directional fund strategies in 1H2023.</sup>
+
+## Where You Can Find Us
+
+21e6's Crypto Fund Database was recently used as the basis for a [Bloomberg.com article](https://www.bloomberg.com/news/articles/2023-08-04/crypto-hedge-funds-are-being-hit-by-shutdowns-lagging-returns-in-2023?sref=X2PkL1Vc#xj4y7vzkg). 
+
+We are publishing articles about crypto funds almost every week, and you can follow us on the [21e6 blog](https://assets.21e6.io/blog/tag/crypto-funds).
+
+Also, we have a [LinkedIn page](https://www.linkedin.com/company/67922644/admin/feed/posts/) and a [newsletter (scroll down and fill out the form)](https://assets.21e6.io/blog/tag/crypto-funds).
+
+
+<br>
+
+____________________________________
+
+## About 21e6 Capital AG and About the 21e6 Crypto Fund Database"
+
+21e6 Capital is a Swiss investment advisor, connecting professional investors with optimal crypto investment products.
+
+Please find more information about our authors on our homepage: [21e6.io](https://assets.21e6.io/).
+
+## Authors of the 21e6 Half-Year Report
+
+Jan Spörer is Due Diligence Manager at 21e6 and responsible for overseeing the content quality management of the 21e6 Crypto Fund Database.
+
+Maximilian Bruckner is Head of Marketing & Sales at 21e6 Capital AG. 
+
+## References:
+
+21e6 Crypto Fund Database, [cryptofunds.21e6.io](cryptofunds.21e6.io)
+
+## AI Tool Disclosure
+
+With the release of ChatGPT, some authors started to disclose an AI declaration. Given that there is not yet common ground what constitutes ethical use of generative language models for writing, I think that transparency is the least authors can do: This post was aided by Grammarly and by LanguageTool. No ChatGPT or another generative language model was used as aid for writing this post.
+
+{% if page.is_series == true %}
+    {% assign posts = site.posts | where: "is_series", true | where: "series_title", page.series_title | sort: 'date' %}
+    {% if posts.size > 1 %}
+
+<h3 class="text-success p-3 pb-0">Read More From the {{ page.series_title }} Series</h3>
+        {% for post in posts %}
+                {% if post.title == page.title %}
+<p class="nav-link bullet-pointer mb-0">{{ post.title }}</p>
+                {% else %}
+<a class="nav-link bullet-hash" href="{{ post.url }}">{{ post.title }}</a>
+                {% endif %}
+        {% endfor %}
+    {% endif %}
+{% endif %}
