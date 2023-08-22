@@ -31,11 +31,12 @@ This is the [chair's website](https://ics.unisg.ch/chair-ds-nlp-handschuh/).
 Course #1:          |##########| 100%
 Course #2:          |##########| 100%
 Course #3:          |##########| 100%
-Proposal:           |########--| 80% (discussion with supervisors outstanding)
-Research software:  |##--------| 20% (MVP is ready)
-Paper #1:           |#---------| 10% (will be focused on when proposal is finished)
-Paper #2:           |----------|  0%
-Paper #3:           |----------|  0%
+Proposal:           |##########| 100% Done and passed.
+Research software:  |##--------| 20% (MVP is ready) -> Decided not to write a big overarching software project; each individual paper is based on its own code.
+Paper #1:           |########--| 80% Needs to be published.
+Paper #2:           |########--| 80% Needs to be published.
+Paper #3:           |##--------| 20% Being written...
+Paper #4:           |##--------| 20% Being written...
 Defense:            |----------|  0%
 ```
 
