@@ -52,13 +52,13 @@ There are two major updates since the last post.
 </ol>
 
 
-I shifted away from the hybrid corporate + research model, and will take some focused months from now on to publish my research.
+I shifted away from the hybrid corporate + research model, and I am putting in some focused months to publish my research.
 
 ## What Were the Biggest Obstacles?
 
 One obstacle was the time commitment required for non-research work.
 
-This has been resolved by reducing corporate work.
+This issue was resolved by reducing the weekly time spent on corporate work.
 
 I am giving myself a couple of months to publish as many articles as are required to complete the Ph.D. This will be 3-4 articles, depending on the quality of the conferences and journals, and on my contribution to each article. If I write an article on my own, this will count more than an article where co-authors did the majority of the work.
 
@@ -82,16 +82,16 @@ While the year has not yet ended, I can already conclude that it was an eventful
 
 There were a number of professional challenges this year, dragging my Ph.D. progress down. On the private side, the year was great, and overall I am satisfied with the mix of professional, academic, and private outcomes.
 
-But the professional hurdles are no excuse for not delivering on my research goals and on having failed to regularly write updates here. I should have reduced professional commitments earlier to not endanger my Ph.D. work.
+But the professional hurdles are no excuse for not delivering on my research goals and for having failed to write updates here. I should have reduced professional commitments earlier to not endanger my Ph.D. work.
 
-By reducing non-research work for a few months, I hope that the year 2024 will be more productive for my research. I am excited to have you on board to witness the last sprint.
+By reducing non-research work for a few months, I hope that 2024 will be more productive for my research. I am excited to have you on board to witness the last sprint.
 
 ## Short-Term Tasks for The Coming Week
 
 <ol>
   <li>Batch strategy paper: Get the models to run for one of the papers.</li>
   <li>Batch strategy paper: Run all of the models on our NVIDIA DXG-2.</li>
-  <li>Financial text paper: Write and visualize the results that a co-author will provide to me shortly.</li>
+  <li>Financial text paper: Write and visualize my co-author's results.</li>
 </ol>
 
 <br>
