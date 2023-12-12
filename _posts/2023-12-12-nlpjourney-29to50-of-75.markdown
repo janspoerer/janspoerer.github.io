@@ -26,7 +26,7 @@ image: "/assets/images/2023-12-12.jpg"
     });
 </script>
 
-For the first time, I participated in a conference on-site. The ACM International Conference on AI in Finance ([link](https://ai-finance.org/)) is a relatively new conference sponsored by J.P. Morgan, US Bank, Capital One, and Bloomberg.
+For the first time, I participated in an on-site conference. The ACM International Conference on AI in Finance ([link](https://ai-finance.org/)) is a relatively new conference sponsored by J.P. Morgan, US Bank, Capital One, and Bloomberg.
 
 I was delighted to meet my co-author Wonseong Kim for the first time there. So far, we only communicated via videoconferences.
 
@@ -47,7 +47,7 @@ There are two major updates since the last post.
     As mentioned, I now have initial first-hand conference experience.
   </li>
   <li>
-    I significantly increased the time commitment for the Ph.D. work by reducing my time commitment for corporate work.
+    I significantly increased my time commitment to the Ph.D. work by reducing my time commitment to corporate work.
   </li>
 </ol>
 
@@ -60,14 +60,16 @@ One obstacle was the time commitment required for non-research work.
 
 This issue was resolved by reducing the weekly time spent on corporate work.
 
-I am giving myself a couple of months to publish as many articles as are required to complete the Ph.D. This will be 3-4 articles, depending on the quality of the conferences and journals, and on my contribution to each article. If I write an article on my own, this will count more than an article where co-authors did the majority of the work.
+I am giving myself a couple of months to publish as many articles as are required to complete the Ph.D. 
+
+The Ph.D. will comprise 3-4 articles, depending on the quality of the conferences and journals, and on my contribution to each article. If I write an article on my own, this will count more than an article where co-authors did the majority of the work.
 
 ## Which Goals Did I Meet?
 
 <ol>
   <li>Progress with all articles.</li>
   <li>Two articles are publication-ready.</li>
-  <li>One additional article is currently under way.</li>
+  <li>One additional article is currently underway.</li>
 </ol>
 
 ## Which Goals Did I Miss?
