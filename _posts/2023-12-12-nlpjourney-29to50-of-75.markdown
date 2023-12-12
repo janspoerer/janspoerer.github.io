@@ -1,0 +1,132 @@
+---
+layout: post
+title: "2023-12-12: Update 29-50/75 - First On-Site Conference Visit and Increased Focus"
+date: 2023-12-12
+categories: post
+tags: phd
+is_series: true
+series_title: "75 Steps Toward a Ph.D. in NLP"
+image: "/assets/images/2023-12-12.jpg"
+# https://shantoroy.com/jekyll/add-latex-math-to-jekyll-blog-minimal-mistakes/
+---
+<script type="text/javascript" async
+    src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.6/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
+
+<script type="text/x-mathjax-config">
+    MathJax.Hub.Config({
+        extensions: ["tex2jax.js"],
+        jax: ["input/TeX", "output/HTML-CSS"],
+        tex2jax: {
+        inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+        displayMath: [ ['$$','$$'], ["\\[","\\]"] ],
+        processEscapes: true
+        },
+        "HTML-CSS": { availableFonts: ["TeX"] }
+    });
+</script>
+
+For the first time, I participated in a conference on-site. The ACM International Conference on AI in Finance ([link](https://ai-finance.org/)) is a relatively new conference sponsored by J.P. Morgan, US Bank, Capital One, and Bloomberg.
+
+I was delighted to meet my co-author Wonseong Kim for the first time there. So far, we only communicated via videoconferences.
+
+We had a good time, I learned a lot, met interesting people, and got an idea of what research conferences are all about.
+
+You can follow these updates: [Substack](https://nlpjourney.substack.com/) [Blog](https://janspoerer.github.io/phdstudies/) [Telegram](https://t.me/+gmkAaVlKPh4xZTky) [WhatsApp](https://chat.whatsapp.com/F6901LMMJWIGlxrahkgBcq) [LinkedIn](https://www.linkedin.com/in/janspoerer/) [Medium](https://medium.com/@janspoerer/about) [Twitter](https://twitter.com/JanSpoerer) [Calendly](https://calendly.com/janspoerer/30m)
+
+![In NYC, I purposely followed the German time, waking up at 1am NYC time. NYC was still at sleep when I did my morning run from Brooklyn to Wall Street.]({{ page.image }})
+
+<sup>In NYC, I purposely followed the German time, waking up at 1am NYC time. NYC was still at sleep when I did my morning run from Brooklyn to Wall Street.</sup>
+
+## What Happened Since Last Week?
+
+There are two major updates since the last post.
+
+<ol>
+  <li>
+    As mentioned, I now have initial first-hand conference experience.
+  </li>
+  <li>
+    I significantly increased the time commitment for the Ph.D. work by reducing my time commitment for corporate work.
+  </li>
+</ol>
+
+
+I shifted away from the hybrid corporate + research model, and will take some focused months from now on to publish my research.
+
+## What Were the Biggest Obstacles?
+
+One obstacle was the time commitment required for non-research work.
+
+This has been resolved by reducing corporate work.
+
+I am giving myself a couple of months to publish as many articles as are required to complete the Ph.D. This will be 3-4 articles, depending on the quality of the conferences and journals, and on my contribution to each article. If I write an article on my own, this will count more than an article where co-authors did the majority of the work.
+
+## Which Goals Did I Meet?
+
+<ol>
+  <li>Progress with all articles.</li>
+  <li>Two articles are publication-ready.</li>
+  <li>One additional article is currently under way.</li>
+</ol>
+
+## Which Goals Did I Miss?
+
+<ol>
+  <li>I wanted to have publications by now, which did not happen yet.</li>
+</ol>
+
+## Was It a Good Week?
+
+While the year has not yet ended, I can already conclude that it was an eventful year. 
+
+There were a number of professional challenges this year, dragging my Ph.D. progress down. On the private side, the year was great, and overall I am satisfied with the mix of professional, academic, and private outcomes.
+
+But the professional hurdles are no excuse for not delivering on my research goals and on having failed to regularly write updates here. I should have reduced professional commitments earlier to not endanger my Ph.D. work.
+
+By reducing non-research work for a few months, I hope that the year 2024 will be more productive for my research. I am excited to have you on board to witness the last sprint.
+
+## Short-Term Tasks for The Coming Week
+
+<ol>
+  <li>Batch strategy paper: Get the models to run for one of the papers.</li>
+  <li>Batch strategy paper: Run all of the models on our NVIDIA DXG-2.</li>
+  <li>Financial text paper: Write and visualize the results that a co-author will provide to me shortly.</li>
+</ol>
+
+<br>
+
+____________________________________
+
+## About "75-Step Journey Toward a Ph.D. in Natural Language Processing"
+
+You will, from now on, witness my grind. Feel my blood, sweat, and tears.
+
+With this series of articles, you become a real-life weekly witness of my dissertation progress, all in 75 steps. This has multiple purposes:
+
+1) Forcing myself to keep moving through the power of public shame!
+
+2) Helping other (prospective) Ph.D. students to stay motivated and to show that hard times are normal when going through this process.
+
+3) Getting support from the community when I go through hard times.
+
+Share this with your Ph.D. student friends: [Substack](https://nlpjourney.substack.com/) [Blog](https://janspoerer.github.io/phdstudies/) [Telegram](https://t.me/+gmkAaVlKPh4xZTky) [WhatsApp](https://chat.whatsapp.com/F6901LMMJWIGlxrahkgBcq) [LinkedIn](https://www.linkedin.com/in/janspoerer/) [Medium](https://medium.com/@janspoerer/about) [Twitter](https://twitter.com/JanSpoerer) [Calendly](https://calendly.com/janspoerer/30m).
+
+## AI Tool Disclosure
+
+With the release of ChatGPT, some authors started to disclose an AI declaration. Given that there is not yet common ground what constitutes ethical use of generative language models for writing, I think that transparency is the least authors can do: This post was aided by Grammarly and by LanguageTool. No ChatGPT or another generative language model was used as aid for writing this post.
+
+{% if page.is_series == true %}
+    {% assign posts = site.posts | where: "is_series", true | where: "series_title", page.series_title | sort: 'date' %}
+    {% if posts.size > 1 %}
+
+<h3 class="text-success p-3 pb-0">Read More From the {{ page.series_title }} Series</h3>
+        {% for post in posts %}
+                {% if post.title == page.title %}
+<p class="nav-link bullet-pointer mb-0">{{ post.title }}</p>
+                {% else %}
+<a class="nav-link bullet-hash" href="{{ post.url }}">{{ post.title }}</a>
+                {% endif %}
+        {% endfor %}
+    {% endif %}
+{% endif %}

@@ -18,7 +18,7 @@ And last, I am involved with **[21e6 Capital AG](https://21e6.io/)**, an investm
 
 ## Get in Touch
 
-Book a Google Meet call with me [here on Calendly](https://calendly.com/janspoerer/60m-private).
+Book a Google Meet call with me [here on Calendly](https://calendly.com/janspoerer/30m).
 
 ## Project Portfolio
 
@@ -80,7 +80,7 @@ Send me an invite on [LinkedIn](https://www.linkedin.com/in/janspoerer/) with a 
     * [LinkedIn](https://www.linkedin.com/in/janspoerer/)
     * [Medium](https://medium.com/@janspoerer/about)
     * [Twitter](https://twitter.com/JanSpoerer)
-    * [Calendly](https://calendly.com/janspoerer/60m-private)
+    * [Calendly](https://calendly.com/janspoerer/30m)
 * [Master's Thesis on Backtesting of Cryptocurrency Trading Strategies](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3620154)
 * Crypto-related articles:
     * [Comparison of Relevance of Stablecoins](https://medium.com/@mk.marcel.kaiser/tether-is-the-dominant-stablecoin-with-an-87-share-of-total-stablecoin-market-capitalization-772dc78b32a1)
