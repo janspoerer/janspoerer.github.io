@@ -1,0 +1,113 @@
+---
+layout: post
+title: "2023-12-25: Update 51-52/75 - Merry Christmas!"
+date: 2023-12-25
+categories: post
+tags: phd
+is_series: true
+series_title: "75 Steps Toward a Ph.D. in NLP"
+image: "/assets/images/2023-12-25.jpg"
+# https://shantoroy.com/jekyll/add-latex-math-to-jekyll-blog-minimal-mistakes/
+---
+<script type="text/javascript" async
+    src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.6/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
+
+<script type="text/x-mathjax-config">
+    MathJax.Hub.Config({
+        extensions: ["tex2jax.js"],
+        jax: ["input/TeX", "output/HTML-CSS"],
+        tex2jax: {
+        inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+        displayMath: [ ['$$','$$'], ["\\[","\\]"] ],
+        processEscapes: true
+        },
+        "HTML-CSS": { availableFonts: ["TeX"] }
+    });
+</script>
+
+While the Christmas mood was already strong in me this week, the calm atmosphere helped me to do some deep work.
+
+The holidays will be spent with making and eating cookies, and with preparing for hand-in deadlines in January.
+
+I wish you a Merry Christmas with lots of family joy.
+
+You can follow these updates: [Substack](https://nlpjourney.substack.com/) [Blog](https://janspoerer.github.io/phdstudies/) [Telegram](https://t.me/+gmkAaVlKPh4xZTky) [WhatsApp](https://chat.whatsapp.com/F6901LMMJWIGlxrahkgBcq) [LinkedIn](https://www.linkedin.com/in/janspoerer/) [Medium](https://medium.com/@janspoerer/about) [Twitter](https://twitter.com/JanSpoerer) [Calendly](https://calendly.com/janspoerer/30m)
+
+![The most tangible results from this week are these cookie plates.]({{ page.image }})
+
+<sup>The most tangible results from this week are these cookie plates.</sup>
+
+## What Happened Since Last Week?
+
+I mostly sat in front of my screen with little outside distractions.
+
+I recently started looking for career opportunities for the **time after the Ph.D.** There were some calls with recruiters and potential employers, and I had to prepare some application documents.
+
+## What Were the Biggest Obstacles?
+
+The biggest obstacle were higher priority tasks coming in from all sides: making cookies, wrapping Christmas gifts.
+
+## Which Goals Did I Meet?
+
+<ol>
+  <li>Batch strategy paper: Get the models to run for one of the papers.</li>
+</ol>
+
+## Which Goals Did I Miss?
+
+<ol>
+  <li>Batch strategy paper: Run all of the models on our NVIDIA DXG-2.</li>
+  <li>Financial text paper: Write and visualize my co-author's results. (This task is partly done, and we assigned the other part to my co-author as it requries less communication if he does this task himself.)</li>
+</ol>
+
+## Was It a Good Week?
+
+I would say it was. I mainly worked on the batch strategy paper and on the financial text paper. Both papers made good progress, albeit neither is ready to publish yet.
+
+
+## Short-Term Tasks for The Coming Week
+
+<ol>
+  <li>Equity research report paper: Complete the remaining analyses.</li>
+  <li>Equity research report paper: Write the results section.</li>
+  <li>Financial text paper: Write and visualize my co-author's results. (Assigned to my co-author.)</li>
+  <li>Batch strategy paper: Run all of the models on our NVIDIA DXG-2. (This will be done when one of the co-authors is back from holidays in the second week of January 2024.</li>
+</ol>
+
+<br>
+
+____________________________________
+
+## About "75-Step Journey Toward a Ph.D. in Natural Language Processing"
+
+You will, from now on, witness my grind. Feel my blood, sweat, and tears.
+
+With this series of articles, you become a real-life weekly witness of my dissertation progress, all in 75 steps. This has multiple purposes:
+
+1) Forcing myself to keep moving through the power of public shame!
+
+2) Helping other (prospective) Ph.D. students to stay motivated and to show that hard times are normal when going through this process.
+
+3) Getting support from the community when I go through hard times.
+
+Share this with your Ph.D. student friends: [Substack](https://nlpjourney.substack.com/) [Blog](https://janspoerer.github.io/phdstudies/) [Telegram](https://t.me/+gmkAaVlKPh4xZTky) [WhatsApp](https://chat.whatsapp.com/F6901LMMJWIGlxrahkgBcq) [LinkedIn](https://www.linkedin.com/in/janspoerer/) [Medium](https://medium.com/@janspoerer/about) [Twitter](https://twitter.com/JanSpoerer) [Calendly](https://calendly.com/janspoerer/30m).
+
+## AI Tool Disclosure
+
+With the release of ChatGPT, some authors started to disclose an AI declaration. Given that there is not yet common ground what constitutes ethical use of generative language models for writing, I think that transparency is the least authors can do: This post was aided by Grammarly and by LanguageTool. I also put the post in ChatGPT to double check for any logical and grammatical inconsistencies.
+
+{% if page.is_series == true %}
+    {% assign posts = site.posts | where: "is_series", true | where: "series_title", page.series_title | sort: 'date' %}
+    {% if posts.size > 1 %}
+
+<h3 class="text-success p-3 pb-0">Read More From the {{ page.series_title }} Series</h3>
+        {% for post in posts %}
+                {% if post.title == page.title %}
+<p class="nav-link bullet-pointer mb-0">{{ post.title }}</p>
+                {% else %}
+<a class="nav-link bullet-hash" href="{{ post.url }}">{{ post.title }}</a>
+                {% endif %}
+        {% endfor %}
+    {% endif %}
+{% endif %}
