@@ -9,7 +9,7 @@ series_title: "Spoerico"
 ---
 This is my first post. I am looking forward to use posts like this one to share something about me in the future.
 
-In the meantime, check my [LinkedIn](https://www.linkedin.com/in/janspoerer/) for seeing what I am up to.
+In the meantime, check my [LinkedIn](https://www.linkedin.com/in/janspoerer/) to see what I am up to.
 
 {% if page.is_series == true %}
     {% assign posts = site.posts | where: "is_series", true | where: "series_title", page.series_title | sort: 'date' %}
