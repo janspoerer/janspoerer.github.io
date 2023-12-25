@@ -10,7 +10,6 @@ series_title: "Spoerico"
 <sub>This article is updated on an ongoing basis. Latest change: 2022-11-10. See the [version history of this repository](https://github.com/janspoerer/janspoerer.github.io/blob/main/_posts/2022-07-24-project-portfolio.markdown) for exact versioning.</sub>
 
 ## CV
-[Find a downloadable .docx tabular CV here.](https://docs.google.com/document/d/1-okDZ_N9h40xi7LAKBkw9jGzCNa6EaQK/edit?usp=sharing&ouid=114686182467069464741&rtpof=true&sd=true)
 
 My first freelance project started in August 2017, right after my undergrad in International Management from WHU. Back then, I helped a startup to raise money and professionalize their accounting and controlling. The full-time project lasted for about four months.
 
