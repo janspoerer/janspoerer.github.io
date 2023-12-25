@@ -27,6 +27,17 @@ Furthermore, I co-founded [21e6 Capital AG](https://assets.21e6.io/), a startup 
 
 ## Projects
 
+### 2023
+
+* University of St. Gallen
+    * Wrote several scientific articles about the scaling behavior of language and computer vision models.
+    * Developed prompt engineering strategies for financial text tasks.
+    * Participated in scientific conferences.
+* 21e6 Capital AG
+    * Ideated and created a new product: a database subscription (21e6 Crypto Fund Database).
+    * Wrote weekly articles to present and advertise the database.
+    * Contacted hundreds of leads for the database, converted many of the top world-wide crypto companies to buy the subscription.
+
 ### 2022
 
 * DLT Lab Commerzbank
