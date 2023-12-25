@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2023-03-20: Update 18-28/75 - A Long Gap and Two Papers Handed In!"
+title: "2023-07-20: Update 18-28/75 - A Long Gap and Two Papers Handed In!"
 date: 2023-07-20
 categories: post
 tags: phd
