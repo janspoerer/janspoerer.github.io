@@ -27,6 +27,12 @@ Furthermore, I co-founded [21e6 Capital AG](https://assets.21e6.io/), a startup 
 
 ## Projects
 
+### 2024
+
+* University of St. Gallen
+    * Wrote scientific articles about the generation of long, knowledge-intensive financial texts using artificial intelligence.
+    * Conducted research on central bank communication, and FOMC minutes in particular.
+
 ### 2023
 
 * University of St. Gallen

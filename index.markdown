@@ -10,11 +10,7 @@ Finance guy turned software engineer.
 
 My three "professional passions" are: 1) finance, 2) data, and 3) software.
 
-I write code, but I also like to talk. So at my main job at **Commerzbank**, I do just that: being a software engineer and doing internal communication for the blockchain/DLT team.
-
-Besides that, I am a **Ph.D. student** in [natural language processing (NLP)](https://ics.unisg.ch/chair-ds-nlp-handschuh/) at the University of St. Gallen (HSG). My focus is question answering for financial texts.
-
-And last, I am involved with **[21e6 Capital AG](https://21e6.io/)**, an investment company for sophisticated, professional crypto investors.
+I am a **Ph.D. candidate** in [natural language processing (NLP)](https://ics.unisg.ch/chair-ds-nlp-handschuh/) at the University of St. Gallen (HSG). My focus is question answering for financial texts.
 
 ## Get in Touch
 
@@ -47,9 +43,9 @@ I recommend using a "second brain/Zettelkasten" software to just about anybody a
 
 ### Entrepreneurship-Related
 
-* [21e6 (a company I am involved with)](https://assets.21e6.io/), [@21e6_Digital on Twitter](https://twitter.com/21e6_Digital)
 * [Spoerico (another company I am involved with)](https://spoerico.com/)
 * [LinkedIn](https://www.linkedin.com/in/janspoerer/)
+* [21e6 (a company I used to be involved with)](https://assets.21e6.io/), [@21e6_Digital on Twitter](https://twitter.com/21e6_Digital)
 
 ### Research-Related
 
