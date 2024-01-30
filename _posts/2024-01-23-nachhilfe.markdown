@@ -65,7 +65,7 @@ Wissenschaftliches Schreiben:
 
 # Wo man mich findet
 
-Hier kannst du Nachhilfetermine für 50€/h buchen: 
+Hier kannst du Nachhilfetermine buchen und direkt bezahlen: 
 
 > [https://calendar.app.google/EH6nSsTtL3oPmofUA](https://calendar.app.google/EH6nSsTtL3oPmofUA). 
 
