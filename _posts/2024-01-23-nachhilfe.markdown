@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2024-01-23: Nachhilfe für Studenten - Informatik, KI, Mathematik, Finanzmathematik (German only)"
+title: "2024-01-23: Nachhilfe für Studenten - Informatik, KI, Mathematik, Finanzmathematik"
 date: 2024-01-23
 categories: post
 tags: business
@@ -25,7 +25,7 @@ series_title: "Business"
     });
 </script>
 
-> Unlike the other posts, this one is in German only as it is targeted at German-speaking students seeking for tutoring.
+> Please find the English version below. 🇬🇧 
 
 Bereits seit der Schulzeit gebe ich gerne Nachhilfe. Mittlerweile sind es vor allem Studenten und Berufstätige, die meine Nachhilfe in Anspruch nehmen. Wenn du Hilfe braucht in den Fächern Informatik/Programmierung, KI, Mathematik oder Finanzmathematik, bin ich für dich da!
 
@@ -89,6 +89,64 @@ Du kannst alternativ auch über Superprof einen Termin buchen. Die Links zu mein
 Das Impressum für dieses Angebot befindet sich unter dem Buchungslink (in der Textbeschreibung unten):
 
 > [https://calendar.app.google/EH6nSsTtL3oPmofUA](https://calendar.app.google/EH6nSsTtL3oPmofUA).
+
+<br>
+<br>
+<br>
+<br>
+<br>
+
+---
+<br>
+
+# English Version 🇬🇧 
+
+
+
+
+I enjoyed being a tutor in middle school and continued tutoring throughout college and my master's. Nowadays, especially university students and professionals use my services. If you need help in computer science, coding, programming, artificial intelligence (AI), mathematics, or financial mathematics, I am here for you!
+
+# Competencies
+
+Business:
+
+<ul>
+  <li>Accounting.</li>
+  <li>Finance and financial markets.</li>
+  <li>Economics, microeconomics, and macroeconomics.</li>
+</ul>
+
+Computer science:
+
+<ul>
+  <li>Introduction to various programming languages and frameworks.</li>
+  <li>Python (incl. PyTorch and TensorFlow), Java, Angular, React, JavaScript, TypeScript, Git, GitHub, LaTeX.</li>
+  <li>Choice of the best tools for productive work.</li>
+</ul>
+
+Finance-specific:
+
+<ul>
+  <li>Options pricing and general derivatives pricing (futures, forwards).</li>
+  <li>Systematic trading strategies; portfolio backtesting; factor modeling.</li>
+  <li>Using databases such as Bloomberg and CUSIP.</li>
+</ul>
+
+Academic writing:
+
+<ul>
+  <li>LaTeX, formatting of theses.</li>
+  <li>Lectorate, editing.</li>
+  <li>Checking of scientific methods.</li>
+</ul>
+
+# Where you can find me
+
+Here you can book and pay for tutoring: 
+
+> [https://calendar.app.google/EH6nSsTtL3oPmofUA](https://calendar.app.google/EH6nSsTtL3oPmofUA). 
+
+Alternatively, you can do this via Superprof. The Superprof links are above in the German version under the section "Referenzen".
 
 {% if page.is_series == true %}
     {% assign posts = site.posts | where: "is_series", true | where: "series_title", page.series_title | sort: 'date' %}
