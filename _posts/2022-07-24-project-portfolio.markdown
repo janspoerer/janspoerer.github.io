@@ -117,6 +117,7 @@ I worked with Commerzbank AG and 21e6 AG until October 2023, and am currently (i
 
 ### 2017
 
+* Graduated from WHU - Otto Beisheim School of Management.
 * Deutsche Beteiligungs AG
     * DBAG is the largest private equity team in Germany.
     * Through my experience in valuation, I was able to secure an internship at this prestigious private equity company.
@@ -160,7 +161,7 @@ I worked with Commerzbank AG and 21e6 AG until October 2023, and am currently (i
     
 ### 2014
 
-* Starting to study at WHU - Otto Beisheim School of Management.
+* Started B.Sc. in International Management studies at WHU - Otto Beisheim School of Management.
 
 {% if page.is_series == true %}
     {% assign posts = site.posts | where: "is_series", true | where: "series_title", page.series_title | sort: 'date' %}
