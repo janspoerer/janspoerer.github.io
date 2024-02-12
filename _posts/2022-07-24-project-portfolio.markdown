@@ -7,7 +7,7 @@ tags: spoerico
 is_series: true
 series_title: "Spoerico"
 ---
-<sub>This article is updated on an ongoing basis. Latest change: 2022-11-10. See the [version history of this repository](https://github.com/janspoerer/janspoerer.github.io/blob/main/_posts/2022-07-24-project-portfolio.markdown) for exact versioning.</sub>
+<sub>This article is updated on an ongoing basis. Latest change: 2024-02-12. See the [version history of this repository](https://github.com/janspoerer/janspoerer.github.io/blob/main/_posts/2022-07-24-project-portfolio.markdown) for exact versioning.</sub>
 
 ## Verbal CV (Chronological)
 
