@@ -16,9 +16,9 @@ I am a **Ph.D. candidate** in [natural language processing (NLP)](https://ics.un
 
 Book a Google Meet call with me [here on Calendly](https://calendly.com/janspoerer/30m).
 
-## Project Portfolio
+## Project Portfolio & CV
 
-Please find my project portfolio in this [post](post/2022/07/24/project-portfolio.html).
+Please find my project portfolio in this [post about my projects & CV](post/2022/07/24/project-portfolio.html).
 
 ## Technical Interests
 
