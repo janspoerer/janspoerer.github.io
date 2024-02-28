@@ -25,6 +25,8 @@ series_title: "Business"
     });
 </script>
 
+[← Back to the index page.]({{ site.baseurl }}{% link index.markdown %})
+
 # Links to Social Accounts
 
 ## Tech-Related

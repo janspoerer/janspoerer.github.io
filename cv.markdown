@@ -2,7 +2,12 @@
 layout: default
 title: "Jan Spörer"
 date: 2024-02-27
+
 permalink: /cv/
+tags: spoerico
+is_series: true
+series_title: "Spoerico"
+
 image: "/assets/images/Jan Spörer Portrait.jpg"
 image_work: "/assets/icons/work.png"
 image_education: "/assets/icons/education.png"
@@ -66,7 +71,7 @@ meetings, structured guidelines, and regular feedback sessions. </li>
 <li style="list-style: none, position: relative; margin-left: -15px"> Developed a FIX converter in Java for new FIX connections. FIX converters are used to translate financial messages from other financial companies into one's own data infrastructure. Led to faster onboarding of a new financial counterparty.</li>
 <li style="list-style: none, position: relative; margin-left: -15px">Implemented D3-/React-based web UIs for transaction monitoring (network diagrams).</li>
 <li style="list-style: none, position: relative; margin-left: -15px">Coordinated a request for proposal (RfP): created proposal documents, managed bidder workshops, evaluated proposals, managed internal stakeholders from different divisions, and ensured compliance with internal guidelines.</li>
-<li style="list-style: none, position: relative; margin-left: -15px">Created a process and data landscape for enterprise-internal data flows. Communicated with various departments to collect recommendations on how to optimize the data landscape. Drawn insights about the improvement potential of current data processes.</li>
+<li style="list-style: none, position: relative; margin-left: -15px">Created a process and data landscape for enterprise-internal data flows. Communicated with various departments to collect recommendations on optimizing the data landscape. Drawn insights about the improvement potential of current data processes.</li>
 </ul>
 
 <p style="text-align:left;">
@@ -287,7 +292,9 @@ using natural language processing (NLP).
 <br>
 <br>
 
-## Sources
+## Related
 
-Icon Sources: 
+* Please find more details about my project portfolio on this [page about my projects]({{ site.baseurl }}{% link project-portfolio.markdown %}).
+* [← Back to the index page.]({{ site.baseurl }}{% link index.markdown %})
+* Icon Sources: 
 <a href="https://www.flaticon.com/free-icons/skill" title="skill icons">Skill Icon</a>, <a href="https://www.flaticon.com/free-icons/education" title="education icons">Education Icon</a>, <a href="https://www.flaticon.com/free-icons/work" title="work icons">Work Icon</a>, <a href="https://www.flaticon.com/free-icons/swimming" title="swimming icons">Swimming Icon</a>, <a href="https://www.flaticon.com/free-icons/contact" title="contact icons">Contact Icon</a>

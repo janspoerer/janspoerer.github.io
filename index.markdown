@@ -17,7 +17,7 @@ call with me [here on Calendly](https://calendly.com/janspoerer/30m).
 
 # Project Portfolio & CV
 
-Please find my project portfolio in this [post about my projects & CV](post/2022/07/24/project-portfolio.html).
+Please find my project portfolio in this [page about my projects & CV](/project-portfolio.html).
 
 # Technical Interests
 
@@ -37,4 +37,4 @@ Please send an email to jan.spoerer@whu.edu.
 
 # Social Media
 
-[See this blog article for a list of my social media links.](post/2024/02/12/links-to-social-media.html)
+[See this blog article for a list of my social media links.]({{ site.baseurl }}{% link links-to-social-media.markdown %})

@@ -1,13 +1,19 @@
 ---
-layout: post
-title: "2022-07-24: Project Portfolio"
+layout: default
+title: "Project Portfolio"
 date: 2022-07-24
-categories: post
+
+permalink: /project-portfolio/
 tags: spoerico
 is_series: true
 series_title: "Spoerico"
+
 ---
-<sub>This article is updated on an ongoing basis. Latest change: 2024-02-12. See the [version history of this repository](https://github.com/janspoerer/janspoerer.github.io/blob/main/_posts/2022-07-24-project-portfolio.markdown) for exact versioning.</sub>
+# Project Portfolio
+
+## Tabular CV
+
+[Click here for my CV.]({{ site.baseurl }}{% link cv.markdown %})
 
 ## Verbal CV (Chronological)
 
