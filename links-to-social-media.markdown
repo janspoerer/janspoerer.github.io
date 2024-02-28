@@ -29,6 +29,7 @@ series_title: "Business"
 
 # Links to Social Accounts
 
+
 ## Tech-Related
 
 * [Stackoverflow](https://stackoverflow.com/users/6057510/jan-sp%c3%b6rer)
