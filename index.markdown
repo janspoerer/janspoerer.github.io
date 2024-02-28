@@ -19,7 +19,7 @@ Find out more about my Ph.D. studies [here]({{ site.baseurl }}{% link phdstudies
 
 # Project Portfolio & CV
 
-Please find my project portfolio in this [page about my projects]({{ site.baseurl }}{% link project-portfolio.markdown %})..
+Please find my project portfolio in this [page about my projects]({{ site.baseurl }}{% link project-portfolio.markdown %}).
 
 # Technical Interests
 
