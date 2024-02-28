@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Jan Spörer"
+title: "CV"
 date: 2024-02-27
 
 permalink: /cv/
