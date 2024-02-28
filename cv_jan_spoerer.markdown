@@ -45,6 +45,7 @@ jan.spoerer@whu.edu &#124; +49 171 5395666
     </span>
 </p>
 
+
 <p style="text-align:left;">
     <b>Commerzbank AG (3 years)</b>
     <span style="float:right;">
