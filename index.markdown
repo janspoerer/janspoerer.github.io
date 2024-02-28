@@ -17,7 +17,7 @@ call with me [here on Calendly](https://calendly.com/janspoerer/30m).
 
 # Project Portfolio & CV
 
-Please find my project portfolio in this [page about my projects & CV](/project-portfolio.markdown).
+Please find my project portfolio in this [page about my projects]({{ site.baseurl }}{% link project-portfolio.markdown %})..
 
 # Technical Interests
 
