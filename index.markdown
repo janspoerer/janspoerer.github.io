@@ -23,7 +23,7 @@ Please find my project portfolio in this [page about my projects]({{ site.baseur
 
 # Technical Interests
 
-I am a big fan of **engineering** challenges.
+I am a big fan of engineering challenges.
 
 I code with `Java`, `Kotlin`, `JavaScript`/`TypeScript`, and `Python`. After struggling with `Visual Basic`, `Fortran`, and `Turbo Pascal` in middle school, the first language that I learned to do well in was `Ruby` in the summer of 2018. Since the fall of 2018, I prefer using `Python`.
 
