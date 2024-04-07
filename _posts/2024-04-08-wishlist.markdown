@@ -1,0 +1,43 @@
+---
+layout: post
+title: "Wunschliste/Wish List"
+date: 2024-04-08
+categories: post
+tags: private
+is_series: true
+series_title: "Private"
+# https://shantoroy.com/jekyll/add-latex-math-to-jekyll-blog-minimal-mistakes/
+---
+<script type="text/javascript" async
+    src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.6/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
+
+<script type="text/x-mathjax-config">
+    MathJax.Hub.Config({
+        extensions: ["tex2jax.js"],
+        jax: ["input/TeX", "output/HTML-CSS"],
+        tex2jax: {
+        inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+        displayMath: [ ['$$','$$'], ["\\[","\\]"] ],
+        processEscapes: true
+        },
+        "HTML-CSS": { availableFonts: ["TeX"] }
+    });
+</script>
+
+You probably got here because you asked me what I would like to get for a special occasion. Yay! So here is the list:
+
+* ct computer magazine subscription.
+* Biographies by Elon Musk and Steve Jobs.
+* Book Dali - Das malerisch Werk Taschen Robert Descharnes (in German).
+* Books by Anton Pavlovich Chechov.
+* Book "It" by Stephen King (in English!).
+* Water cattle.
+* https://prolon-fasten.com/products/prolon-5-days-fastenbox.
+* Glucometer, Glucose Monitor.
+* Room measurement device with CO2 reading for ventilation control (CO2-Messer für Räume).
+
+Expensive stuff:
+
+* Sports coat 4-ply (Sakko mit dickem Stoff) ~300€.
+* Micro-needling pen ~150€.
