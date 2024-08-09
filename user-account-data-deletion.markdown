@@ -10,6 +10,7 @@ permalink: /zenclass-delete-user-account-data/
 To delete your user data stored by the zenclass app, please perform the following steps:
 
 1) Send an email to jan@zenclass.de to request user data deletion. Send this email from the email account used to sign up, or provide your username to help us identify your account.
+
 2) You will receive a confirmation within two days about the final deletion of your user data.
 
 > No data except for bookkeeping records will be kept. Invoices to you will need be archived for ten years to comply with German tax law. These invoices include your name, address, email address, and the payment method used.
