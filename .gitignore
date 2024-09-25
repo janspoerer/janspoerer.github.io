@@ -6,3 +6,6 @@ vendor
 
 .DS_Store
 *.DS_Store
+
+*.ipynb
+summary.txt
