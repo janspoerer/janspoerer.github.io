@@ -30,13 +30,17 @@ I use NVIDIA GPUs directly and indirectly in my everyday work as an AI software 
 
 Naturally, I wonder: How long will NVIDIA be able to keep prices high, and continue to sell so many GPUs each year?
 
-My main thought about NVIDIA currently is that the market may get saturated with GPUs. Big Tech companies such as Meta (Llama), X/xAI (Grok), Tesla (self driving cars and autonomous robots), Google (Google Cloud), Amazon (AWS Cloud) Microsoft (Azure Cloud), ByteDance, and Tencent have spent billions on NVIDIA GPUs already. Based on the recently published Q4 2024 report, NVIDIA realized USD 62bn in revenue in 2024, and expects USD 130bn in 2025. These are sizable expenditures even for NVIDIA's main buyers.
+My main thought about NVIDIA currently is that the market may get saturated with GPUs. Big Tech companies such as Meta (Llama), X/xAI (Grok), Tesla (self driving cars and autonomous robots), Google (Google Cloud), Amazon (AWS Cloud) Microsoft (Azure Cloud), ByteDance, and Tencent have spent billions on NVIDIA GPUs already. Based on the recently published Q4 2024 report, NVIDIA realized USD 62bn in revenue in 2024, and expects USD 130bn in 2025. These are sizable expenditures even for NVIDIA's main buyers. 
+
+As GPUs are durable and expensive, do we maybe already have enough of them and can scale production down?
 
 ## TL:DR;
 
-It appears that we are still early.
+Probably not. It appears that we are still early.
 
-Across the world, we need 60tn daily inference tokens in the immediate future. We can only realistically produce 6tn daily inference tokens per day with the entire existing GPU stock.
+**There is a 10x inference gap between our demand (60tn daily usable tokens) and existing effective GPU supply (6tn daily usable tokens).**
+
+Across the world, we need 60tn daily inference tokens in the near-term future (1--2 years). We can only realistically produce 6tn daily inference tokens per day with the entire existing GPU stock.
 
 Taking NVIDIA's current GPU architecture Blackwell, we would need to add 12 million GPUs to our world-wide GPU stock to satisfy demand.
 
@@ -93,7 +97,7 @@ Given a price of USD 20'000 per Blackwell GPU, this would mean that NVIDIA can e
 
 This number matches with [USD 325bn of self-reported expected overall 2025 CapEx](https://finance.yahoo.com/news/big-tech-set-to-invest-325-billion-this-year-as-hefty-ai-bills-come-under-scrutiny-182329236.html) of Meta, Microsoft, Amazon, and Alphabet. This number includes non-NVIDIA expenditures.
 
-USD 230bn in *GPU gap demand* is a less than 2x of NVIDIA's expected 2025 revenue.
+USD 230bn in *GPU gap demand* is a less than 2x of NVIDIA's expected 2025 revenue. 
 
 It is now early 2025, thus NVIDIA's revenue runway with the immediate demand gap will last until the end of 2026. In 2026, new large-scale use cases would have to be exploited to keep pushing AI inference demand in 2027 and beyond.
 
