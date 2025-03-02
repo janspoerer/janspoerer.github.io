@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Automating the Sanity Checks for Your Academic Paper's Result Section"
+title: "2024-07-12: Automating the Sanity Checks for Your Academic Paper's Result Section"
 date: 2024-07-12
 categories: post
 tags: private
