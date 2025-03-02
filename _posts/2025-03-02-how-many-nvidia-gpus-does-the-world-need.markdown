@@ -66,14 +66,18 @@ Here is the back-of-the-envelope calculation:
 
 ### And Here are Some Equally Simplified Assumptions for Estimating GPU Supply:
 
-1) Llama-3.1 70B with 8-bit quantization is somewhat usable for most daily use cases. We thus use this model when calculating how many tokens a GPU can produce per second.
-2) A Hooper GPU can produce about 100 tokens per second. An Ada Lovelace 10 tokens per second. A Blackwell 200 tokens per second.
-3) There exist about:
-    * 1,000,000 Hoppers GPUs
-    * 5,000,000 Ada Lovelace GPUs
-    * 500,000 Blackwell GPUs
-4) Let us assume that only 90% of the GPUs can be utilized for inference. There will be downtime for maintenance and for other reasons.
-5) Let us also assume that we need to have a lot of average GPU capacity slack to deal with peak demand. Let us assume that the total daily token demand must not exceed 30% of installed GPU capacity to deal with demand fluctuations.
+Llama-3.1 70B with 8-bit quantization is somewhat usable for most daily use cases. We thus use this model when calculating how many tokens a GPU can produce per second.
+
+A Hooper GPU can produce about 100 tokens per second. An Ada Lovelace 10 tokens per second. A Blackwell 200 tokens per second.
+
+There exist about:
+* 1,000,000 Hoppers GPUs
+* 5,000,000 Ada Lovelace GPUs
+* 500,000 Blackwell GPUs
+
+Let us assume that only 90% of the GPUs can be utilized for inference. There will be downtime for maintenance and for other reasons.
+
+Let us also assume that we need to have a lot of average GPU capacity slack to deal with peak demand. Let us assume that the total daily token demand must not exceed 30% of installed GPU capacity to deal with demand fluctuations.
 
 > For all other assumptions and calculations, please review the small Google Sheet. Please provide feedback if any assumptions are way off or you would like to do some calculations differently: [https://docs.google.com/spreadsheets/d/1SkJ14IIECiMzNvivGMS4zPPOw96PN_OMUlJ90fqSQzg/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1SkJ14IIECiMzNvivGMS4zPPOw96PN_OMUlJ90fqSQzg/edit?usp=sharing)
 
@@ -109,4 +113,4 @@ Either competitors will eat NVIDIA's lunch, or NVIDIA will continue to keep its 
 
 ## Contact
 
-Contact me on X at @janspoerer or text me at jan.spoerer@whu.edu if you want to discuss your throughts about the topic.
+Contact me on X at [@janspoerer](https://x.com/JanSpoerer) or text me at jan.spoerer@whu.edu if you want to discuss your throughts about the topic.
