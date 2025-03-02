@@ -103,9 +103,9 @@ We cannot be sure how far software and hardware improvements will bring us. Mayb
 
 Furthermore, competitors may enter the field and direct demand away from NVIDIA. Apple, Google, and Groq are all producing alternative AI inference chips. While NVIDIA likely remains king in AI training, other providers may be commercially more attractive for the inference market.
 
-Check the Google Sheet and you will likely find many other assumptions that one can rightly criticize. If any calculations are too far off, please let me know via email or as a comment in the Google Sheet. I hope, and am somewhat confident, that the broader message still remains valid.
+Check the [Google Sheet](https://docs.google.com/spreadsheets/d/1SkJ14IIECiMzNvivGMS4zPPOw96PN_OMUlJ90fqSQzg/edit?usp=sharing) and you will likely find many other assumptions that one can rightly criticize. If any calculations are too far off, please let me know via email or as a comment in the Google Sheet. I hope, and am somewhat confident, that the broader message still remains valid.
 
-## Closing Thought
+## Closing Thoughts
 
 Will there ever be a limit to our appetite for intelligence? I think not. 
 
