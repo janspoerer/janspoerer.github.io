@@ -40,12 +40,12 @@ Across the world, we need 60tn daily inference tokens in the immediate future. W
 
 Taking NVIDIA's current GPU architecture Blackwell, we would need to add 12 million GPUs to our world-wide GPU stock to satisfy demand.
 
-12 million Blackwell GPUs correspond to more than USD 300bn in revenue for NVIDIA. This is 2--3 years of NVIDIA revenues.
+12 million Blackwell GPUs correspond to USD 23bn in revenue for NVIDIA. This is 2 years of NVIDIA revenues (at 2025 expected levels). The runway would be until the end of 2026. In 2026, new large-scale use cases would have to be exploited to keep pushing AI inference demand.
 
 Caveat: Many assumptions were simplified. No significant growth in AI use cases was assumed in this calculations. I would overall argue that my assumptions are conservative.
 
 Here is the back-of-the-envelope calculation:
-https://docs.google.com/spreadsheets/d/1SkJ14IIECiMzNvivGMS4zPPOw96PN_OMUlJ90fqSQzg/edit?usp=sharing
+[https://docs.google.com/spreadsheets/d/1SkJ14IIECiMzNvivGMS4zPPOw96PN_OMUlJ90fqSQzg/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1SkJ14IIECiMzNvivGMS4zPPOw96PN_OMUlJ90fqSQzg/edit?usp=sharing).
 
 ![Everything that happens in our cities will be in some way controlled by GPUs.]({{ page.image }})
 <sup>Everything that happens in our cities will be in some way controlled by GPUs.</sup>
@@ -75,7 +75,7 @@ https://docs.google.com/spreadsheets/d/1SkJ14IIECiMzNvivGMS4zPPOw96PN_OMUlJ90fqS
 4) Let us assume that only 90% of the GPUs can be utilized for inference. There will be downtime for maintenance and for other reasons.
 5) Let us also assume that we need to have a lot of average GPU capacity slack to deal with peak demand. Let us assume that the total daily token demand must not exceed 30% of installed GPU capacity to deal with demand fluctuations.
 
-> For all other assumptions and calculations, please review the small Google Sheet. Please provide feedback if any assumptions are way off or you would like to do some calculations differently: https://docs.google.com/spreadsheets/d/1SkJ14IIECiMzNvivGMS4zPPOw96PN_OMUlJ90fqSQzg/edit?usp=sharing
+> For all other assumptions and calculations, please review the small Google Sheet. Please provide feedback if any assumptions are way off or you would like to do some calculations differently: [https://docs.google.com/spreadsheets/d/1SkJ14IIECiMzNvivGMS4zPPOw96PN_OMUlJ90fqSQzg/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1SkJ14IIECiMzNvivGMS4zPPOw96PN_OMUlJ90fqSQzg/edit?usp=sharing)
 
 ## Results
 
@@ -83,13 +83,15 @@ We have 6.5 million AI-viable GPUs installed world-wide, but we need about 67 mi
 
 Given a price of USD 20'000 per Blackwell GPU, this would mean that NVIDIA can expect more than USD 230bn in revenue from the current demand gap.
 
-This is a less than 2x of NVIDIA's expected 2025 revenue.
+This is a less than 2x of NVIDIA's expected 2025 revenue. 
+
+It is now early 2025, thus NVIDIA's revenue runway is until the end of 2026. In 2026, new large-scale use cases would have to be exploited to keep pushing AI inference demand in 2027 and beyond.
 
 ## Caveats
 
 The assumptions are very vague. 
 
-One the one hand, I assumed that we need 15'000 tokens per person on average. Naturally, this is more than we currently consume, as we do not even have the global capacity to serve 15'000 tokens to 4bn people per day. But on the other hand, this does not factor in use cases such as 24/7 AI logging of our daily lives (automated journaling), self-driving car demand, massive automation in agriculture, administration, and manufacturing, and hundreds of other realistic use cases. One could easily argue that we need 100'000 tokens per person in the very near future -- which would only correspond to a bit more than one token per second throughout a 24h day.
+One the one hand, I assumed that we need 15'000 tokens per person on average. Naturally, this is more than we currently consume, as we do not even have the global capacity to serve 15'000 daily inference tokens to 4bn people. But on the other hand, this does not factor in use cases such as 24/7 AI logging of our daily lives (automated journaling), self-driving cars, massive automation in agriculture, administration, and manufacturing, and hundreds of other realistic near-term use cases. One could easily argue that we need 100'000 tokens per person in the very near future -- which would only correspond to a bit more than one token per second throughout a 24h day.
 
 Also, I simplify the calculation by only using tokens as a unit of demand and supply bridge. There are also AI uses that are not measured in tokens.
 
@@ -104,3 +106,7 @@ Check the Google Sheet and you will likely find many other assumptions that one 
 Will there ever be a limit to our appetite for intelligence? I think not. 
 
 Either competitors will eat NVIDIA's lunch, or NVIDIA will continue to keep its high-margin business. But I do not think GPU demand to be anywhere close to being satisfied with the existing GPU stock.
+
+## Contact
+
+Contact me on X at @janspoerer or text me at jan.spoerer@whu.edu if you want to discuss your throughts about the topic.
