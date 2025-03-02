@@ -54,15 +54,19 @@ Here is the back-of-the-envelope calculation:
 
 ### Some Relaxed Assumptions for Estimating GPU Demand:
 
-1) The NVIDIA GPU architectures that are still remotely usable and relevant for AI workloads are: Hopper (2022), Ada Lovelace (2022), and Blackwell (2024). Prior architectures were neglected -- Volta (2017), Turing (2018), Ampere (2020).
-2) I assume that there 4bn people in the world that can afford to use AI in their daily lives.
-3) The largest possible Claude output for a single request is around 4'000 tokens. Let us assume that each human that can afford inference does 2.5 large requests per day, or 10 small ones with 1'000 tokens each. This would result in 10'000 inference tokens per day per person.
-4) 10'000 x 4bn = 40'000'000'000'000. 40tn tokens of demand per day! 
+The NVIDIA GPU architectures that are still remotely usable and relevant for AI workloads are: Hopper (2022), Ada Lovelace (2022), and Blackwell (2024). Prior architectures were neglected -- Volta (2017), Turing (2018), Ampere (2020).
+
+I assume that there 4bn people in the world that can afford to use AI in their daily lives.
+
+The largest possible Claude output for a single request is around 4'000 tokens. Let us assume that each human that can afford inference does 2.5 large requests per day, or 10 small ones with 1'000 tokens each. This would result in 10'000 inference tokens per day per person.
+
+10'000 x 4bn = 40'000'000'000'000. 40tn tokens of demand per day! 
 
 > Important note: This 40tn daily token demand is ad-hoc demand. It cannot be scheduled. People want immediate answers.
 
-5) 5'000 extra tokens per person: Some corporations, governments and militaries also need GPUs. I assume that they spend about 5'000 tokens per person.
-6) **This brings us to 40tn + 20tn tokens per day. The entire world needs 60tn daily inference tokens.**
+5'000 extra tokens per person: Some corporations, governments and militaries also need GPUs. I assume that they spend about 5'000 tokens per person.
+
+**This brings us to 40tn + 20tn tokens per day. The entire world needs 60tn daily inference tokens.**
 
 ### And Here are Some Equally Simplified Assumptions for Estimating GPU Supply:
 
@@ -87,13 +91,15 @@ We have 6.5 million AI-viable GPUs installed world-wide, but we need about 67 mi
 
 Given a price of USD 20'000 per Blackwell GPU, this would mean that NVIDIA can expect more than USD 230bn in revenue from the current demand gap.
 
-This is a less than 2x of NVIDIA's expected 2025 revenue. 
+This number matches with [USD 325bn of self-reported expected overall 2025 CapEx](https://finance.yahoo.com/news/big-tech-set-to-invest-325-billion-this-year-as-hefty-ai-bills-come-under-scrutiny-182329236.html) of Meta, Microsoft, Amazon, and Alphabet. This number includes non-NVIDIA expenditures.
 
-It is now early 2025, thus NVIDIA's revenue runway is until the end of 2026. In 2026, new large-scale use cases would have to be exploited to keep pushing AI inference demand in 2027 and beyond.
+USD 230bn in *GPU gap demand* is a less than 2x of NVIDIA's expected 2025 revenue.
+
+It is now early 2025, thus NVIDIA's revenue runway with the immediate demand gap will last until the end of 2026. In 2026, new large-scale use cases would have to be exploited to keep pushing AI inference demand in 2027 and beyond.
 
 ## Caveats
 
-The assumptions are very vague. 
+All assumptions are very vague. 
 
 One the one hand, I assumed that we need 15'000 tokens per person on average. Naturally, this is more than we currently consume, as we do not even have the global capacity to serve 15'000 daily inference tokens to 4bn people. But on the other hand, this does not factor in use cases such as 24/7 AI logging of our daily lives (automated journaling), self-driving cars, massive automation in agriculture, administration, and manufacturing, and hundreds of other realistic near-term use cases. One could easily argue that we need 100'000 tokens per person in the very near future -- which would only correspond to a bit more than one token per second throughout a 24h day.
 
@@ -109,8 +115,8 @@ Check the [Google Sheet](https://docs.google.com/spreadsheets/d/1SkJ14IIECiMzNvi
 
 Will there ever be a limit to our appetite for intelligence? I think not. 
 
-Either competitors will eat NVIDIA's lunch, or NVIDIA will continue to keep its high-margin business. But I do not think GPU demand to be anywhere close to being satisfied with the existing GPU stock.
+Either competitors will eat NVIDIA's lunch, or NVIDIA will continue to keep its high-margin business. But I do not think GPU demand to be close to being satisfied with the existing GPU stock. 
 
 ## Contact
 
-Contact me on X at [@janspoerer](https://x.com/JanSpoerer) or text me at jan.spoerer@whu.edu if you want to discuss your throughts about the topic.
+Contact me on X at [@janspoerer](https://x.com/JanSpoerer) or text me at jan.spoerer@whu.edu if you want to discuss your thoughts about the topic.
