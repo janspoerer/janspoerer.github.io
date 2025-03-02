@@ -52,7 +52,7 @@ https://docs.google.com/spreadsheets/d/1SkJ14IIECiMzNvivGMS4zPPOw96PN_OMUlJ90fqS
 
 ## The Assumptions: Future GPU Demand (Hard), Existing GPU Supply (Easy)
 
-### Some very relaxed assumptions for estimating GPU demand:
+### Some Relaxed Assumptions for Estimating GPU Demand:
 
 1) The NVIDIA GPU architectures that are still remotely usable and relevant for AI workloads are: Hopper (2022), Ada Lovelace (2022), and Blackwell (2024). Prior architectures were neglected -- Volta (2017), Turing (2018), Ampere (2020).
 2) I assume that there 4bn people in the world that can afford to use AI in their daily lives.
@@ -64,7 +64,7 @@ https://docs.google.com/spreadsheets/d/1SkJ14IIECiMzNvivGMS4zPPOw96PN_OMUlJ90fqS
 5) 5'000 extra tokens per person: Some corporations, governments and militaries also need GPUs. I assume that they spend about 5'000 tokens per person.
 6) **This brings us to 40tn + 20tn tokens per day. The entire world needs 60tn daily inference tokens.**
 
-### And here are some equally simplified assumptions for estimating GPU supply:
+### And Here are Some Equally Simplified Assumptions for Estimating GPU Supply:
 
 1) Llama-3.1 70B with 8-bit quantization is somewhat usable for most daily use cases. We thus use this model when calculating how many tokens a GPU can produce per second.
 2) A Hooper GPU can produce about 100 tokens per second. An Ada Lovelace 10 tokens per second. A Blackwell 200 tokens per second.
