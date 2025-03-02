@@ -99,7 +99,7 @@ One the one hand, I assumed that we need 15'000 tokens per person on average. Na
 
 Also, I simplify the calculation by only using tokens as a unit of demand and supply bridge. There are also AI uses that are not measured in tokens.
 
-We cannot be sure how far software and hardware improvements will bring us. Maybe the assumption of needing a Llama-3.1 70B 8-bit model is too "aggressive" -- and we can do with smaller models. On the contrary, we may want even larger models. 
+We cannot be sure how far software and hardware improvements will bring us. Maybe the assumption of needing a Llama-3.1 70B 8-bit model is too aggressive -- and we can do with smaller models. On the contrary, we may want even larger models. 
 
 Furthermore, competitors may enter the field and direct demand away from NVIDIA. Apple, Google, and Groq are all producing alternative AI inference chips. While NVIDIA likely remains king in AI training, other providers may be commercially more attractive for the inference market.
 
