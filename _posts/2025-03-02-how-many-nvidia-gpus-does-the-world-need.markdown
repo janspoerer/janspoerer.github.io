@@ -30,7 +30,7 @@ I use NVIDIA GPUs directly and indirectly in my everyday work as an AI software 
 
 Naturally, I wonder: How long will NVIDIA be able to keep prices high, and continue to sell so many GPUs each year?
 
-My main thought around NVIDIA currently is that the market gets saturated with GPUs. Big Tech companies such as Meta (Llama), X/xAI (Grok), Tesla, Google, Microsoft, ByteDance, and Tencent have spent billions on NVIDIA GPUs already. Based on the recent Q4 2024 report, NVIDIA realized $62bn in revenue in 2024, and expects $130bn in 2025. These are sizable expenditures even for NVIDIA's main buyers.
+My main thought around NVIDIA currently is that the market gets saturated with GPUs. Big Tech companies such as Meta (Llama), X/xAI (Grok), Tesla, Google, Microsoft, ByteDance, and Tencent have spent billions on NVIDIA GPUs already. Based on the recent Q4 2024 report, NVIDIA realized USD 62bn in revenue in 2024, and expects USD 130bn in 2025. These are sizable expenditures even for NVIDIA's main buyers.
 
 ## TL:DR;
 
@@ -40,7 +40,7 @@ Across the world, we need 60tn daily inference tokens in the immediate future. W
 
 Taking NVIDIA's current GPU architecture Blackwell, we would need to add 12 million GPUs to our world-wide GPU stock to satisfy demand.
 
-12 million Blackwell GPUs correspond to more than $300bn in revenue for NVIDIA. This is 2--3 years of NVIDIA revenues.
+12 million Blackwell GPUs correspond to more than USD 300bn in revenue for NVIDIA. This is 2--3 years of NVIDIA revenues.
 
 Caveat: Many assumptions were simplified. No significant growth in AI use cases was assumed in this calculations. I would overall argue that my assumptions are conservative.
 
@@ -81,7 +81,7 @@ https://docs.google.com/spreadsheets/d/1SkJ14IIECiMzNvivGMS4zPPOw96PN_OMUlJ90fqS
 
 We have 6.5 million AI-viable GPUs installed world-wide, but we need about 67 million. So we need to scale our GPU stock by 10x when we assume that the GPUs do not improve. If they do improve, and we assume the performance of the Blackwell architecture, we need around **12 million more of those GPUs**.
 
-Given a price of $20'000 per Blackwell GPU, this would mean that NVIDIA can expect more than $230bn in revenue from the current demand gap.
+Given a price of USD 20'000 per Blackwell GPU, this would mean that NVIDIA can expect more than USD 230bn in revenue from the current demand gap.
 
 This is a less than 2x of NVIDIA's expected 2025 revenue.
 
