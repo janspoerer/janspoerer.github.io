@@ -26,17 +26,17 @@ image: "/assets/images/2025-03-02-gpu-city.jpg"
     });
 </script>
 
-I use NVIDIA GPUs directly and indirectly in my everyday work as an AI software developer and NLP Ph.D. student. Also, I hold some meager amount of NVIDIA stock.
+I use NVIDIA GPUs directly and indirectly in my everyday work as an AI software developer and NLP Ph.D. student. Also, I hold a meager amount of NVIDIA stock.
 
 Naturally, I wonder: How long will NVIDIA be able to keep prices high, and continue to sell so many GPUs each year?
 
-My main thought around NVIDIA currently is that the market gets saturated with GPUs. Big Tech companies such as Meta (Llama), X/xAI (Grok), Tesla, Google, Microsoft, ByteDance, and Tencent have spent billions on NVIDIA GPUs already. Based on the recent Q4 2024 report, NVIDIA realized USD 62bn in revenue in 2024, and expects USD 130bn in 2025. These are sizable expenditures even for NVIDIA's main buyers.
+My main thought about NVIDIA currently is that the market may get saturated with GPUs. Big Tech companies such as Meta (Llama), X/xAI (Grok), Tesla (self driving cars and autonomous robots), Google (Google Cloud), Amazon (AWS Cloud) Microsoft (Azure Cloud), ByteDance, and Tencent have spent billions on NVIDIA GPUs already. Based on the recently published Q4 2024 report, NVIDIA realized USD 62bn in revenue in 2024, and expects USD 130bn in 2025. These are sizable expenditures even for NVIDIA's main buyers.
 
 ## TL:DR;
 
-It appears that we are still *very* early.
+It appears that we are still early.
 
-Across the world, we need 60tn daily inference tokens in the immediate future. We can only realistically produce 4tn daily inference tokens per day with the entire existing GPU stock.
+Across the world, we need 60tn daily inference tokens in the immediate future. We can only realistically produce 6tn daily inference tokens per day with the entire existing GPU stock.
 
 Taking NVIDIA's current GPU architecture Blackwell, we would need to add 12 million GPUs to our world-wide GPU stock to satisfy demand.
 
@@ -81,13 +81,13 @@ There exist about:
 
 Let us assume that only 90% of the GPUs can be utilized for inference. There will be downtime for maintenance and for other reasons.
 
-Let us also assume that we need to have a lot of average GPU capacity slack to deal with peak demand. Let us assume that the total daily token demand must not exceed 30% of installed GPU capacity to deal with demand fluctuations.
+Let us also assume that we need to have a lot of average GPU capacity slack to deal with peak demand. Let us assume that the total daily token demand must not exceed 30% of installed GPU capacity to deal with demand fluctuations. When I refer to the daily token demand, I refer to **usable token demand**, not the installed theoretical token throughput at 100% 24h full-throttle GPU inference.
 
 > For all other assumptions and calculations, please review the small Google Sheet. Please provide feedback if any assumptions are way off or you would like to do some calculations differently: [https://docs.google.com/spreadsheets/d/1SkJ14IIECiMzNvivGMS4zPPOw96PN_OMUlJ90fqSQzg/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1SkJ14IIECiMzNvivGMS4zPPOw96PN_OMUlJ90fqSQzg/edit?usp=sharing)
 
 ## Results
 
-We have 6.5 million AI-viable GPUs installed world-wide, but we need about 67 million. So we need to scale our GPU stock by 10x when we assume that the GPUs do not improve. If they do improve, and we assume the performance of the Blackwell architecture, we need around **12 million more of those GPUs**.
+We have 6.5 million AI-viable GPUs installed world-wide, but we need about 67 million. So we need to scale our GPU stock by 10x, given the performance of past GPUs. But the new Blackwell GPUs are much faster than the Ada Lovelace and Hopper GPUs, so we only need **12 million more Blackwell GPUs** to scale to 60tn usable tokens per day.
 
 Given a price of USD 20'000 per Blackwell GPU, this would mean that NVIDIA can expect more than USD 230bn in revenue from the current demand gap.
 
@@ -115,7 +115,7 @@ Check the [Google Sheet](https://docs.google.com/spreadsheets/d/1SkJ14IIECiMzNvi
 
 Will there ever be a limit to our appetite for intelligence? I think not. 
 
-Either competitors will eat NVIDIA's lunch, or NVIDIA will continue to keep its high-margin business. But I do not think GPU demand to be close to being satisfied with the existing GPU stock. 
+Either competitors will eat NVIDIA's lunch, or NVIDIA will continue to keep its high-margin business. However, GPU demand is not nearly satisfied with the existing GPU stock. 
 
 ## Contact
 
