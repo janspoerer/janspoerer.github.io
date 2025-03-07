@@ -24,7 +24,7 @@ image_contact: "/assets/icons/contact.png"
 Jan is a Ph.D.-level AI and software professional with experience in large corporations and startups.
 </p>
 
-![Work Icon]({{ page.image_contact }}){: style="float: left; margin-top: 12px; padding-top: 40px; padding: 0px; padding-right: 15px; max-width: 20px"}
+![Contact Icon]({{ page.image_contact }}){: style="float: left; margin-top: 12px; padding-top: 40px; padding: 0px; padding-right: 15px; max-width: 20px"}
 <p style="margin-bottom: -3px; margin-top: 5px">
 Hermann-Löns-Strasse 5 &#124; 57250 Netphen &#124; Germany
 </p>
@@ -34,8 +34,47 @@ jan.spoerer@whu.edu &#124; +49 171 5395666
 
 <br>
 
-
 # ![Work Icon]({{ page.image_work }}){: style="float: left; margin-top: 12px; padding-top: 20px; padding: 0px; padding-right: 5px; max-width: 20px"}  Professional Experience
+
+<p style="text-align:left;">
+    <b>HeizungsDiscount24 GmbH (E-Commerce)</b>
+    <span style="float:right;">
+      Gießen, Germany
+    </span>
+</p> <p style="text-align:left; position: relative; top:-16px">
+    Software & AI Developer
+    <span style="float:right;">
+        Mar 2024 - today
+    </span>
+</p> <ul 
+    style="margin-bottom: -10px; text-align:left; position: relative; top:-27px; padding-left: -10px"
+> 
+  <li style="list-style: none, position: relative; margin-left: -15px">
+    Created several React user interfaces that connect to internal databases and to the ERP system (Odoo).
+  </li>
+  <li style="list-style: none, position: relative; margin-left: -15px">
+    Utilized a modern cloud stack based on Amazon Web Service: AWS Lambda Functions, AWS ECR, AWS DynamoDB, AWS RDS.
+  </li>
+  <li style="list-style: none, position: relative; margin-left: -15px">
+    Drafted technical concepts and implementations of GenAI solutions. 
+  </li>
+  <li style="list-style: none, position: relative; margin-left: -15px">
+    Automated unstructured data processing using AI technologies: AWS Bedrock, AWS Agents (function calling), Anthropic Claude via AWS Bedrock.
+  </li>
+  <li style="list-style: none, position: relative; margin-left: -15px">
+    Implemented anonymization methods for safe handling of customer data using external AI/LLM APIs.
+  </li>
+  <li style="list-style: none, position: relative; margin-left: -15px">
+    Categorized and visualized thousands of documents using AI function calling to evaluate process automation potential. 
+  </li>
+
+  <li style="list-style: none, position: relative; margin-left: -15px">
+    Implemented an internal feedback platform for evaluating and tracking AI processes (React, Python Flask, DynamoDB, RDS).
+  </li>
+  <li style="list-style: none, position: relative; margin-left: -15px">
+    Used the Atlassian API (Jira, Confluence) to automate workflows, track progress status, and log progress.
+  </li>
+</ul>
 
 
 <p style="text-align:left;">
@@ -61,15 +100,15 @@ jan.spoerer@whu.edu &#124; +49 171 5395666
     <span style="float:right;">
         Aug 2020 - Oct 2023
     </span>
-</p> <ul style="margin-bottom: -10px; text-align:left; position: relative; top:-27px; padding-left: -10px, margin-left: -10px"> <li style="list-style: none, position: relative; margin-left: -15px">
+</p> <ul style="margin-bottom: -10px; text-align:left; position: relative; top:-27px; padding-left: -10px"> <li style="list-style: none, position: relative; margin-left: -15px">
   Divisions: DLT Lab, Equity Trading, Trade Post-Processing & Accounting, Advanced Analytics. </li>
 <li style="list-style: none, position: relative; margin-left: -15px"> Created a self-sovereign identity application based on Java Spring Boot and Angular, reducing the processing time and manual effort of Commerzbank employees’ password reset requests.</li>
-<li style="list-style: none, position: relative; margin-left: -15px">Hosted the monthly "DLT Affiliate Call" to inform interested employees on DLT-related activities within the bank. Held knowledge-sharing sessions about crypto/DLT with up to 200 colleagues.</li>
-<li style="list-style: none, position: relative; margin-left: -15px">Supervised junior software developers, integrating them with peer coding, code reviews, regular
+<li style="list-style: none, position: relative; margin-left: -15px">Hosted the monthly "DLT Affiliate Call" to inform employees on DLT-related activities within the bank. Held knowledge-sharing sessions about crypto/DLT with up to 200 colleagues.</li>
+<li style="list-style: none, position: relative; margin-left: -15px">Supervised and mentored junior software developers, integrating them with peer coding, code reviews, regular
 meetings, structured guidelines, and regular feedback sessions. </li>
 <li style="list-style: none, position: relative; margin-left: -15px">Created a full-stack application (based on React.js, Python Flask, Java Spring Boot, and enterprise-internal services) that allows clients to have decentralized identity information signed by Commerzbank.</li>
 <li style="list-style: none, position: relative; margin-left: -15px"> Developed a FIX converter in Java for new FIX connections. FIX converters are used to translate financial messages from other financial companies into one's own data infrastructure. Led to faster onboarding of a new financial counterparty.</li>
-<li style="list-style: none, position: relative; margin-left: -15px">Implemented D3-/React-based web UIs for transaction monitoring (network diagrams).</li>
+<li style="list-style: none, position: relative; margin-left: -15px">Implemented web UIs using D3.js and React for transaction monitoring (network diagrams).</li>
 <li style="list-style: none, position: relative; margin-left: -15px">Coordinated a request for proposal (RfP): created proposal documents, managed bidder workshops, evaluated proposals, managed internal stakeholders from different divisions, and ensured compliance with internal guidelines.</li>
 <li style="list-style: none, position: relative; margin-left: -15px">Created a process and data landscape for enterprise-internal data flows. Communicated with various departments to collect recommendations on optimizing the data landscape. Drawn insights about the improvement potential of current data processes.</li>
 </ul>
@@ -173,7 +212,7 @@ administrators, banks, and execution agents/brokers.</li>
     </span>
 </p> <ul style="margin-bottom: -10px;text-align: left; position: relative; top:-27px; padding-left: -10px, margin-left: -10px"> <li style="list-style: none, position: relative; margin-left: -15px"> Cooperation project with a Swiss value-focused investment fund for automated decision-making
 using natural language processing (NLP).
-  </li> <li style="list-style: none, position: relative; margin-left: -15px">Research in the fields of NLP and computer vision.
+  </li> <li style="list-style: none, position: relative; margin-left: -15px">Research in the fields of NLP and computer vision. Model training, fine-tuning, Retrieval-augmented generation. Focus on financial document processing.
   </li> <li style="list-style: none, position: relative; margin-left: -15px">Published in leading academic conferences in computer science and AI.
   </li> <li style="list-style: none, position: relative; margin-left: -15px">Supervised a thesis that was published in a leading academic conference.</li>
 </ul>
@@ -190,7 +229,7 @@ using natural language processing (NLP).
     </span> 
 </p> <ul style="margin-bottom: -10px;text-align: left; position: relative; top:-27px; padding-left: -10px, margin-left: -10px"><li style="list-style: none, position: relative; margin-left: -15px">Selected courses: Data Analytics, Machine Learning, Deep Learning, NLP
   </li><li style="list-style: none, position: relative; margin-left: -15px">Cooperation project with AVS Valuation for text recognition, natural language processing.
-  </li><li style="list-style: none, position: relative; margin-left: -15px">Part of the winning team of the ECB/Google Machine Learning Hackathon 2019.</li><li style="list-style: none, position: relative; margin-left: -15px">Developed quantitative trading algorithms in Quantopian.
+  </li><li style="list-style: none, position: relative; margin-left: -15px">Won the ECB/Google Machine Learning Hackathon 2019 as part of a team of five collaborators.</li><li style="list-style: none, position: relative; margin-left: -15px">Developed quantitative trading algorithms in Quantopian.
   </li><li style="list-style: none, position: relative; margin-left: -15px">Master’s thesis: Backtesting of cryptocurrency trading strategies.
 
   </li>
