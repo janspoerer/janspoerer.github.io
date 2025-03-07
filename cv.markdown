@@ -26,7 +26,7 @@ Jan is a Ph.D.-level AI and software professional with experience in large corpo
 
 ![Contact Icon]({{ page.image_contact }}){: style="float: left; margin-top: 12px; padding-top: 40px; padding: 0px; padding-right: 15px; max-width: 20px"}
 <p style="margin-bottom: -3px; margin-top: 5px">
-Hermann-Löns-Strasse 5 &#124; 57250 Netphen &#124; Germany
+Bäckerweg 10 &#124; 57250 Netphen &#124; Germany
 </p>
 <p>
 jan.spoerer@whu.edu &#124; +49 171 5395666
@@ -76,7 +76,6 @@ jan.spoerer@whu.edu &#124; +49 171 5395666
   </li>
 </ul>
 
-
 <p style="text-align:left;">
     <b>University of St. Gallen (HSG), Chair of Data Science and NLP</b>
     <span style="float:right;">
@@ -85,7 +84,7 @@ jan.spoerer@whu.edu &#124; +49 171 5395666
 </p> <p style="text-align:left; position: relative; top:-16px; margin-bottom: 0px;">
     Full-time doctoral candidate
     <span style="float:right;">
-        Oct 2023 - Apr 2024
+        Oct 2023 - Feb 2024
     </span>
 </p>
 
