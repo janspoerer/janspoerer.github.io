@@ -54,6 +54,8 @@ To be even more concrete, let's take the development of browser automation MCPs.
 
 **This is what exponential development feels like -- the better AI agents get, the faster developers can develop, making AI agents even better.**
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/20B8trurlsI?si=uxMMrJDNOXD_oBvI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## What the Future of Agentic AI Holds
 
 While any web scraping task seems to be almost trivial with agentic AI today, it is still a challenge to completely automate arbitrary computer workflows with AI agents. There are a few approaches such as Anthropic's Computer Use feature, but open-source software is still in its infancy.
