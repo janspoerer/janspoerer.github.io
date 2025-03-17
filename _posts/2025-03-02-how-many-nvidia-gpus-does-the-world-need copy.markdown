@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2025-03-17: A Vision for Natural Language-Driven Operating Systems for More Efficient AI Agents"
+title: "2025-03-17: A Vision for Natural Language Operating System Interfaces for More Efficient AI Agents"
 date: 2025-03-17
 categories: post
 tags: business
