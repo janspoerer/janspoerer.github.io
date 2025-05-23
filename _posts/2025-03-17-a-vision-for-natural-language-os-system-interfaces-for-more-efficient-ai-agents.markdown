@@ -46,11 +46,13 @@ In 2024, AI agents became more widespread. AI agents can perform tasks on their 
 
 ### 2025: The Year of Agent Proliferation and Self-Reinforcing Improvements
 
-Now, in 2025, agent proliferation is visible everywhere. Anthropic's Model Context Protocol (MCP), released already in November 2024, but noticed by few, allows AI agents to use tools in a standardized format. And the latest LLMs are now able to help developers to create AI agents, as their knowledge cutoff is no longer limited to the time before agentic AI became widespread.
+Now, in 2025, agent proliferation is visible everywhere. [Anthropic's Model Context Protocol (MCP)](https://modelcontextprotocol.info/docs/quickstart/user/), released already in November 2024, but noticed by few, allows AI agents to use tools in a standardized format. Other releases, such as ByteDance's [UI-TARS](https://github.com/bytedance/UI-TARS-desktop) for agentic desktop automation followed. And the latest LLMs are now able to help developers to create AI agents, as their knowledge cutoff is no longer limited to the time before agentic AI became widespread.
 
 Let me elaborate on what I mean: In 2024, AI agent software was in even more flux than it is today. Standards were evolving and breaking rapidly. They are still annoyingly unstable today, but are significantly better than a year ago. Thus, it is today much easier to develop AI agents than some months ago.
 
 To be even more concrete, let's take the development of browser automation MCPs. I today started working on browser automation using MCP. The MCP controls a Selenium Chrome browser via Claude as an agent. I open the Claude app and tell Claude which actions to perform in the browser. When Claude encounters any errors in my MCP code, I paste the MCP code into the same Claude chat window, and Claude introspects the code and fixes it. You can imagine how powerful this closed-loop workflow is.
+
+[Here is the MCP server code that I wrote when working with Claude Desktop and its MCP integration.](https://github.com/janspoerer/mcp_browser_use)
 
 **This is what exponential development feels like -- the better AI agents get, the faster developers can develop, making AI agents even better.**
 

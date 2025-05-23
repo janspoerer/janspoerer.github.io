@@ -278,7 +278,7 @@ using natural language processing (NLP).
   <br>
   <br>
 
-  <b>Artificial intelligence, analytics, data science, & machine learning:</b> AWS Bedrock (and various other LLM APIs), local inference/NVIDIA CUDA, Python/NumPy/pandas/scikit-learn/selenium/Quantopian/pytesseract/PyTorch, Tableau, Google Data Studio
+  <b>Artificial intelligence, analytics, data science, & machine learning:</b> AWS Bedrock (and various other LLM APIs), Model Context Protocol (MCP) and agentic AI, local inference/NVIDIA CUDA, Python/NumPy/pandas/scikit-learn/selenium/Quantopian/pytesseract/PyTorch, Tableau, Google Data Studio
 
   <br>
   <br>
