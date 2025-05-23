@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2024-05-23: Equity Research Report Structure: Unbiased Text Labeling"
+title: "2025-05-23: Equity Research Report Structure: Unbiased Text Labeling"
 date: 2025-05-23
 categories: post
 tags: phd
