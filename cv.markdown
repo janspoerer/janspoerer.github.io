@@ -26,7 +26,7 @@ Jan is a Ph.D.-level AI and software professional with experience in large corpo
 
 ![Contact Icon]({{ page.image_contact }}){: style="float: left; margin-top: 12px; padding-top: 40px; padding: 0px; padding-right: 15px; max-width: 20px"}
 <p style="margin-bottom: -3px; margin-top: 5px">
-Bäckerweg 10 &#124; 57250 Netphen &#124; Germany
+Bäckerweg 10 &#124; 60316 Frankfurt &#124; Germany
 </p>
 <p>
 jan.spoerer@whu.edu &#124; +49 171 5395666
