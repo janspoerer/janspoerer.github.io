@@ -213,7 +213,7 @@ administrators, banks, and execution agents/brokers.</li>
 using natural language processing (NLP).
   </li> <li style="list-style: none, position: relative; margin-left: -15px">Research in the fields of NLP and computer vision. Model training, fine-tuning, Retrieval-augmented generation. Focus on financial document processing.
   </li> <li style="list-style: none, position: relative; margin-left: -15px">Published in internationally leading academic conferences in computer science and AI. My works were in turn cited in internationally leading academic venues.
-  </li> <li style="list-style: none, position: relative; margin-left: -15px">Supervised a thesis that was published in a leading academic conference.</li>
+  </li> <li style="list-style: none, position: relative; margin-left: -15px">My published research was cited by other scientists and in papers by institutions such as the Bank of England.</li> <comment attribute="https://scholar.google.com/scholar?cluster=3178424122535251637&hl=en&as_sdt=2005&sciodt=0,5"> </comment>
 </ul>
 
 <p style="text-align:left;">
