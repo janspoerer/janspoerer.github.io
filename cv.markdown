@@ -50,13 +50,16 @@ jan.spoerer@whu.edu &#124; +49 171 5395666
     style="margin-bottom: -10px; text-align:left; position: relative; top:-27px; padding-left: -10px"
 > 
   <li style="list-style: none, position: relative; margin-left: -15px">
+    Drafted technical concepts and implementations of GenAI solutions. 
+  </li>
+  <li style="list-style: none, position: relative; margin-left: -15px">
+    Developed Model Context Protocol (MCP) servers to connect to internal databases and other tools. Planned and implemented agents that now automate various open-ended and closed tasks.
+  </li>
+  <li style="list-style: none, position: relative; margin-left: -15px">
     Created several React user interfaces that connect to internal databases and to the ERP system (Odoo).
   </li>
   <li style="list-style: none, position: relative; margin-left: -15px">
-    Utilized a modern cloud stack based on Amazon Web Service: AWS Lambda Functions, AWS ECR, AWS DynamoDB, AWS RDS.
-  </li>
-  <li style="list-style: none, position: relative; margin-left: -15px">
-    Drafted technical concepts and implementations of GenAI solutions. 
+    Utilized a cloud stack based on Amazon Web Service: AWS Lambda functions, AWS ECR, AWS DynamoDB, AWS RDS.
   </li>
   <li style="list-style: none, position: relative; margin-left: -15px">
     Automated unstructured data processing using AI technologies: AWS Bedrock, AWS Agents (function calling), Anthropic Claude via AWS Bedrock.
