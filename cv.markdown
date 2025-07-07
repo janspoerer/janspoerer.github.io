@@ -215,8 +215,8 @@ administrators, banks, and execution agents/brokers.</li>
 </p> <ul style="margin-bottom: -10px;text-align: left; position: relative; top:-27px; padding-left: -10px, margin-left: -10px"> <li style="list-style: none, position: relative; margin-left: -15px"> Cooperation project with a Swiss value-focused investment fund for automated decision-making
 using natural language processing (NLP).
   </li> <li style="list-style: none, position: relative; margin-left: -15px">Research in the fields of NLP and computer vision. Model training, fine-tuning, Retrieval-augmented generation. Focus on financial document processing.
-  </li> <li style="list-style: none, position: relative; margin-left: -15px">Published in internationally leading academic conferences in computer science and AI. My works were in turn cited in internationally leading academic venues.
-  </li> <li style="list-style: none, position: relative; margin-left: -15px">My published research was cited by other scientists and in papers by institutions such as the Bank of England.</li> <comment attribute="https://scholar.google.com/scholar?cluster=3178424122535251637&hl=en&as_sdt=2005&sciodt=0,5"> </comment>
+  </li> <li style="list-style: none, position: relative; margin-left: -15px">Published in internationally leading academic conferences in computer science and AI (ACM, IEEE, KDIR). My works were in turn cited in internationally leading academic venues.
+  </li> <li style="list-style: none, position: relative; margin-left: -15px">My published research was cited by other scientists and in papers by institutions such as the Bank of England. Served as member of the program committee of the ACM ICAIF 2025 in Singapore.</li> <comment attribute="https://scholar.google.com/scholar?cluster=3178424122535251637&hl=en&as_sdt=2005&sciodt=0,5"> </comment>
 </ul>
 
 <p style="text-align:left;">
