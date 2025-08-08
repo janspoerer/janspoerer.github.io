@@ -13,9 +13,6 @@ I am a **finance** guy who turned into a **software engineer**.
 My three "professional passions" are: 1) finance, 2) data, and 3) software.
 
 I am a **Ph.D. candidate** in [natural language processing (NLP)](https://ics.unisg.ch/chair-ds-nlp-handschuh/) at the University of St. Gallen (HSG). My focus areas are question answering for financial texts, the scaling behavior of language and vision transformer models, and AI benchmarks.
-call with me [here on Calendly](https://calendly.com/janspoerer/30m).
-
-Find out more about my Ph.D. studies [here]({{ site.baseurl }}{% link phdstudies.markdown %}).
 
 # Project Portfolio & CV
 
@@ -35,7 +32,7 @@ I recommend using a "second brain/Zettelkasten" software to just about anybody a
 
 # How to Get in Touch
 
-Please send an email to jan.spoerer@whu.edu.
+Please send an email to jan.spoerer@whu.edu or text me on Discord [here](https://discord.gg/2c8Kgj2aR3).
 
 # Social Media
 

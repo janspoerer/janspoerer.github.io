@@ -6,3 +6,10 @@ vendor
 
 .DS_Store
 *.DS_Store
+
+*.ipynb
+summary.txt
+summary_with_headers.txt
+
+.venv/
+venv/
