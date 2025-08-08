@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Wunschliste/Wish List"
+title: "2024-04-08 Wunschliste/Wish List"
 date: 2024-04-08
 categories: post
 tags: private
