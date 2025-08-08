@@ -70,6 +70,40 @@ Ok -- I found one good reason to not publish one's health data -- it might bar y
     * 4.5kg minerals.
     * -> Equals 66.3kg lean body mass.
     * 4.3kg fat.
+    * 70.6kg total weight.
+    * Muscle-fat analysis
+        * 37.7kg SSM (sceletal muscle mass)
+        * 4.3kg Body fat mass
+    * Fat analysis:
+        * 20.4 BMI
+        * 6.1% body fat
+        * 12.1 $VFB_{cm^2}$ visceral fat
+    * Segmented lean analysis:
+        * Right arm:
+            * 3.81kg
+            * 114.2% of baseline
+        * Left arm:
+            * 3.71kg
+            * 110.4% of baseline
+        * Trunk:
+            * 29.0kg
+            * 108.1% of baseline
+        * Right leg:
+            * 10.72kg
+            * 114.8% of baseline
+        * Left leg:
+            * 10.67kg
+            * 114.2% of baseline
+    * Body water analysis:
+        * EZW/GKW ratio: 0.374 (normal)
+    * Changes:
+        * Weight increased from 66.1kg (2021-08-13) to 70.6kg
+        * Sceletal muscle mass increased from 34.2kg to 37.7kg
+        * Body fat percentage decreased from 8.1% to 6.1%.
+        * EZW/GKW ratio decreased from 0.378 to 0.374.
+    * Phasenwinkel: 6.2 degrees.
+* 2020-07-01 18:32:
+    * To be added.
 * Before 2022: Slowly, yet steadily built up to 75kg. Around 65kg in 2015, with increases in weight depending on how frequently I did strength training. Always very low fat.
 
 # Blood Work (Blutbild)
