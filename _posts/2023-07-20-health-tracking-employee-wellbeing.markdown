@@ -3,9 +3,9 @@ layout: post
 title: "2023-07-20: Health Tracking for Employee Wellbeing"
 date: 2023-07-20
 categories: post
-tags: business
+tags: health
 is_series: true
-series_title: "Business"
+series_title: "Health"
 # https://shantoroy.com/jekyll/add-latex-math-to-jekyll-blog-minimal-mistakes/
 ---
 <script type="text/javascript" async
