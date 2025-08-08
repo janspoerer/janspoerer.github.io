@@ -102,8 +102,321 @@ Ok -- I found one good reason to not publish one's health data -- it might bar y
         * Body fat percentage decreased from 8.1% to 6.1%.
         * EZW/GKW ratio decreased from 0.378 to 0.374.
     * Phasenwinkel: 6.2 degrees.
-* 2020-07-01 18:32:
-    * To be added.
+* 2020-07-01 18:32 InBody Body Composition Analysis:
+    * 72/100 score.
+    * 46.3kg total water
+    * 12.3kg proteins
+    * -> Equals 59.4kg soft lean mass
+    * 4.26kg minerals.
+    * -> Equals 62.9kg lean body mass.
+    * 5.3kg fat.
+    * 68.2kg total weight.
+    * Muscle-fat analysis
+        * 35.3kg SSM (sceletal muscle mass)
+        * 5.3kg Body fat mass
+    * Fat analysis:
+        * 19.7 BMI
+        * 7.7% body fat
+        * 20.7 $VFB_{cm^2}$ visceral fat
+    * Segmented lean analysis:
+        * Right arm:
+            * 3.63kg
+            * 111.8% of baseline
+        * Left arm:
+            * 3.50kg
+            * 107.9% of baseline
+        * Trunk:
+            * 27.8kg
+            * 107.2% of baseline
+        * Right leg:
+            * 10.54kg
+            * 116.8% of baseline
+        * Left leg:
+            * 10.45kg
+            * 115.9% of baseline
+    * Body water analysis:
+        * EZW/GKW ratio: 0.382 (normal)
+    * Phasenwinkel: 5.7 degrees.
+* 2023-03-11 20:34 InBody Body Composition Analysis:
+    * 74/100 score.
+    * 47.5kg total water
+    * 12.8kg proteins
+    * -> Equals 61.2kg soft lean mass
+    * 4.48kg minerals.
+    * -> Equals 64.8kg lean body mass.
+    * 5.7kg fat.
+    * 70.5kg total weight.
+    * Muscle-fat analysis
+        * 36.7kg SSM (sceletal muscle mass)
+        * 5.7kg Body fat mass
+    * Fat analysis:
+        * 20.4 BMI
+        * 8.2% body fat
+        * 19.7 $VFB_{cm^2}$ visceral fat
+    * Segmented lean analysis:
+        * Right arm:
+            * 3.73kg
+            * 111.3% of baseline
+        * Left arm:
+            * 3.61kg
+            * 107.7% of baseline
+        * Trunk:
+            * 28.3kg
+            * 106.3% of baseline
+        * Right leg:
+            * 10.75kg
+            * 115.3% of baseline
+        * Left leg:
+            * 10.64kg
+            * 114.6% of baseline
+    * Body water analysis:
+        * EZW/GKW ratio: 0.376 (normal)
+    * Phasenwinkel: 6.2 degrees.
+* 2023-02-22 21:14 InBody Body Composition Analysis:
+    * 76/100 score.
+    * 48.9kg total water
+    * 13.2kg proteins
+    * -> Equals 62.9kg soft lean mass
+    * 4.50kg minerals.
+    * -> Equals 66.6kg lean body mass.
+    * 4.0kg fat.
+    * 70.6kg total weight.
+    * Muscle-fat analysis
+        * 37.8kg SSM (sceletal muscle mass)
+        * 4.0kg Body fat mass
+    * Fat analysis:
+        * 20.4 BMI
+        * 5.6% body fat
+        * 10.5 $VFB_{cm^2}$ visceral fat
+    * Segmented lean analysis:
+        * Right arm:
+            * 3.86kg
+            * 115.0% of baseline
+        * Left arm:
+            * 3.75kg
+            * 111.5% of baseline
+        * Trunk:
+            * 29.1kg
+            * 108.5% of baseline
+        * Right leg:
+            * 10.98kg
+            * 117.6% of baseline
+        * Left leg:
+            * 10.88kg
+            * 116.5% of baseline
+    * Body water analysis:
+        * EZW/GKW ratio: 0.376 (normal)
+    * Phasenwinkel: 6.1 degrees.
+* 2023-01-17 18:45 InBody Body Composition Analysis:
+    * 72/100 score.
+    * 46.2kg total water
+    * 12.5kg proteins
+    * -> Equals 59.5kg soft lean mass
+    * 4.26kg minerals.
+    * -> Equals 63.0kg lean body mass.
+    * 4.9kg fat.
+    * 67.9kg total weight.
+    * Muscle-fat analysis
+        * 35.8kg SSM (sceletal muscle mass)
+        * 4.9kg Body fat mass
+    * Fat analysis:
+        * 19.6 BMI
+        * 7.3% body fat
+        * 13.5 $VFB_{cm^2}$ visceral fat
+    * Segmented lean analysis:
+        * Right arm:
+            * 3.60kg
+            * 111.4% of baseline
+        * Left arm:
+            * 3.46kg
+            * 107.1% of baseline
+        * Trunk:
+            * 27.0kg
+            * 104.7% of baseline
+        * Right leg:
+            * 10.46kg
+            * 116.5% of baseline
+        * Left leg:
+            * 10.44kg
+            * 116.0% of baseline
+    * Body water analysis:
+        * EZW/GKW ratio: 0.372 (normal)
+    * Phasenwinkel: 6.4 degrees.
+* 2022-06-15 21:35 InBody Body Composition Analysis (first measurement):
+    * 83/100 score.
+    * 50.5kg total water
+    * 13.5kg proteins
+    * -> Equals 64.9kg soft lean mass
+    * 4.63kg minerals.
+    * -> Equals 68.7kg lean body mass.
+    * 5.1kg fat.
+    * 74.8kg total weight.
+    * Muscle-fat analysis
+        * 39.1kg SSM (sceletal muscle mass)
+        * 5.1kg Body fat mass
+    * Fat analysis:
+        * 21.6 BMI
+        * 8.1% body fat
+        * 21.3 $VFB_{cm^2}$ visceral fat
+    * Segmented lean analysis:
+        * Right arm:
+            * 3.99kg
+            * 112.1% of baseline
+        * Left arm:
+            * 3.88kg
+            * 108.9% of baseline
+        * Trunk:
+            * 29.9kg
+            * 104.9% of baseline
+        * Right leg:
+            * 11.33kg
+            * 114.6% of baseline
+        * Left leg:
+            * 11.25kg
+            * 113.8% of baseline
+    * Body water analysis:
+        * EZW/GKW ratio: 0.375 (normal)
+    * Phasenwinkel: 6.4 degrees.
+* 2022-06-15 21:35 InBody Body Composition Analysis (second measurement):
+    * 84/100 score.
+    * 51.0kg total water
+    * 13.5kg proteins
+    * -> Equals 65.6kg soft lean mass
+    * 4.63kg minerals.
+    * -> Equals 69.5kg lean body mass.
+    * 5.3kg fat.
+    * 74.8kg total weight.
+    * Muscle-fat analysis
+        * 39.6kg SSM (sceletal muscle mass)
+        * 5.3kg Body fat mass
+    * Fat analysis:
+        * 21.6 BMI
+        * 7.0% body fat
+        * 18.9 $VFB_{cm^2}$ visceral fat
+    * Segmented lean analysis:
+        * Right arm:
+            * 4.00kg
+            * 113.9% of baseline
+        * Left arm:
+            * 3.89kg
+            * 109.2% of baseline
+        * Trunk:
+            * 30.0kg
+            * 105.0% of baseline
+        * Right leg:
+            * 11.31kg
+            * 114.3% of baseline
+        * Left leg:
+            * 11.27kg
+            * 114.0% of baseline
+    * Body water analysis:
+        * EZW/GKW ratio: 0.374 (normal)
+    * Phasenwinkel: 6.3 degrees.
+* 2022-04-03 20:33 InBody Body Composition Analysis:
+    * 84/100 score.
+    * 51.3kg total water
+    * 13.6kg proteins
+    * -> Equals 66.1kg soft lean mass
+    * 4.84kg minerals.
+    * -> Equals 70.1kg lean body mass.
+    * 4.7kg fat.
+    * 74.8kg total weight.
+    * Muscle-fat analysis
+        * 40.0kg SSM (sceletal muscle mass)
+        * 4.7kg Body fat mass
+    * Fat analysis:
+        * 21.6 BMI
+        * 6.3% body fat
+        * 13.6 $VFB_{cm^2}$ visceral fat
+    * Segmented lean analysis:
+        * Right arm:
+            * 4.00kg
+            * 116.4% of baseline
+        * Left arm:
+            * 4.00kg
+            * 112.5% of baseline
+        * Trunk:
+            * 30.6kg
+            * 107.9% of baseline
+        * Right leg:
+            * 10.97kg
+            * 110.9% of baseline
+        * Left leg:
+            * 10.95kg
+            * 110.7% of baseline
+    * Body water analysis:
+        * EZW/GKW ratio: 0.372 (normal)
+    * Phasenwinkel: 6.5 degrees.
+* 2021-12-30 22:09 InBody Body Composition Analysis:
+    * 76/100 score.
+    * 48.6kg total water
+    * 13.1kg proteins
+    * -> Equals 62.5kg soft lean mass
+    * 4.49kg minerals.
+    * -> Equals 66.2kg lean body mass.
+    * 4.3kg fat.
+    * 70.5kg total weight.
+    * Muscle-fat analysis
+        * 37.6kg SSM (sceletal muscle mass)
+        * 4.3kg Body fat mass
+    * Fat analysis:
+        * 20.4 BMI
+        * 6.1% body fat
+        * 11.8 $VFB_{cm^2}$ visceral fat
+    * Segmented lean analysis:
+        * Right arm:
+            * 3.82kg
+            * 114.0% of baseline
+        * Left arm:
+            * 3.69kg
+            * 108.0% of baseline
+        * Trunk:
+            * 28.1kg
+            * 107.3% of baseline
+        * Right leg:
+            * 11.07kg
+            * 118.7% of baseline
+        * Left leg:
+            * 10.94kg
+            * 117.3% of baseline
+    * Body water analysis:
+        * EZW/GKW ratio: 0.375 (normal)
+    * Phasenwinkel: 6.3 degrees.
+* 2021-08-13 19:16 InBody Body Composition Analysis:
+    * 70/100 score.
+    * 44.7kg total water
+    * 12.0kg proteins
+    * -> Equals 57.4kg soft lean mass
+    * 4.03kg minerals.
+    * -> Equals 60.7kg lean body mass.
+    * 6.4kg fat.
+    * 66.1kg total weight.
+    * Muscle-fat analysis
+        * 34.2kg SSM (sceletal muscle mass)
+        * 6.4kg Body fat mass
+    * Fat analysis:
+        * 19.2 BMI
+        * 8.1% body fat
+        * 19.2 $VFB_{cm^2}$ visceral fat
+    * Segmented lean analysis:
+        * Right arm:
+            * 3.41kg
+            * 108.4% of baseline
+        * Left arm:
+            * 3.31kg
+            * 105.4% of baseline
+        * Trunk:
+            * 26.7kg
+            * 106.4% of baseline
+        * Right leg:
+            * 10.29kg
+            * 117.7% of baseline
+        * Left leg:
+            * 10.26kg
+            * 117.3% of baseline
+    * Body water analysis:
+        * EZW/GKW ratio: 0.378 (normal)
+    * Phasenwinkel: 5.6 degrees.
 * Before 2022: Slowly, yet steadily built up to 75kg. Around 65kg in 2015, with increases in weight depending on how frequently I did strength training. Always very low fat.
 
 # Blood Work (Blutbild)
