@@ -50,13 +50,10 @@ jan.spoerer@whu.edu &#124; +49 171 5395666
     style="margin-bottom: -10px; text-align:left; position: relative; top:-27px; padding-left: -10px"
 > 
   <li style="list-style: none, position: relative; margin-left: -15px">
-    Drafted technical concepts and implementations of GenAI solutions. 
+    Implemented and maintained the internal chatbot. The chatbot has an on-the-fly anonymization and de-anonymization pipeline. Implemented anonymization methods for safe handling of customer data using external AI/LLM APIs.
   </li>
   <li style="list-style: none, position: relative; margin-left: -15px">
-    Developed Model Context Protocol (MCP) servers to connect to internal databases and other tools. Planned and implemented agents that now automate various open-ended and closed tasks.
-  </li>
-  <li style="list-style: none, position: relative; margin-left: -15px">
-    Created several React user interfaces that connect to internal databases and to the ERP system (Odoo).
+    Automated internal processes using a suite of custom and open-source MCP servers. Developed Model Context Protocol (MCP) servers to connect to internal databases and other tools. Planned and implemented agents that now automate various open-ended and closed tasks. Unified existing automation processes using an agentic architecture, saving two developer FTEs.
   </li>
   <li style="list-style: none, position: relative; margin-left: -15px">
     Utilized a cloud stack based on Amazon Web Service: AWS Lambda functions, AWS ECR, AWS DynamoDB, AWS RDS.
@@ -65,18 +62,26 @@ jan.spoerer@whu.edu &#124; +49 171 5395666
     Automated unstructured data processing using AI technologies: AWS Bedrock, AWS Agents (function calling), Anthropic Claude via AWS Bedrock.
   </li>
   <li style="list-style: none, position: relative; margin-left: -15px">
-    Implemented anonymization methods for safe handling of customer data using external AI/LLM APIs.
+    Categorized and visualized thousands of documents using AI function calling to evaluate process automation potential.
   </li>
   <li style="list-style: none, position: relative; margin-left: -15px">
-    Categorized and visualized thousands of documents using AI function calling to evaluate process automation potential. Compared topic modeling approaches for unstructured medium-length text.
+    Created several React user interfaces that connect to internal databases and to the ERP system (Odoo).
   </li>
-
   <li style="list-style: none, position: relative; margin-left: -15px">
     Implemented an internal feedback platform for evaluating and tracking AI processes (React, Python Flask, DynamoDB, RDS).
   </li>
   <li style="list-style: none, position: relative; margin-left: -15px">
-    Used the Atlassian API (Jira, Confluence) to automate workflows, track progress status, and log progress.
+    Integrated the Atlassian API (Jira, Confluence) to automate workflows, track progress status, and log progress.
   </li>
+  <li style="list-style: none, position: relative; margin-left: -15px">
+    Prepared AI presentations for other developers to keep the team upatated about new technologies and trends.
+  </li>
+  <li style="list-style: none, position: relative; margin-left: -15px">
+    Shaped the corporate digital strategy by steering the above-mentioned ideas in a monthly strategy meeting with the CEO and department heads.
+  </li>
+
+
+
 </ul>
 
 <p style="text-align:left;">
@@ -212,11 +217,23 @@ administrators, banks, and execution agents/brokers.</li>
     <span style="float:right;">
         Aug 2020 - April 2024
     </span>
-</p> <ul style="margin-bottom: -10px;text-align: left; position: relative; top:-27px; padding-left: -10px, margin-left: -10px"> <li style="list-style: none, position: relative; margin-left: -15px"> Cooperation project with a Swiss value-focused investment fund for automated decision-making
+</p> <ul style="margin-bottom: -10px;text-align: left; position: relative; top:-27px; padding-left: -10px, margin-left: -10px"> 
+  <li style="list-style: none, position: relative; margin-left: -15px"> 
+    Cooperation project with a Swiss value-focused investment fund for automated decision-making
 using natural language processing (NLP).
-  </li> <li style="list-style: none, position: relative; margin-left: -15px">Research in the fields of NLP and computer vision. Model training, fine-tuning, Retrieval-augmented generation. Focus on financial document processing.
-  </li> <li style="list-style: none, position: relative; margin-left: -15px">Published in internationally leading academic conferences in computer science and AI (ACM, IEEE, KDIR). My works were in turn cited in internationally leading academic venues.
-  </li> <li style="list-style: none, position: relative; margin-left: -15px">My published research was cited by other scientists and in papers by institutions such as the Bank of England. Served as member of the program committee of the ACM ICAIF 2025 in Singapore.</li> <comment attribute="https://scholar.google.com/scholar?cluster=3178424122535251637&hl=en&as_sdt=2005&sciodt=0,5"> </comment>
+  </li> 
+  <li style="list-style: none, position: relative; margin-left: -15px">
+    Research in the fields of NLP and computer vision. Model training, fine-tuning, Retrieval-augmented generation. Focus on financial document processing.
+  </li> 
+  <li style="list-style: none, position: relative; margin-left: -15px">
+    Published in internationally leading academic conferences in computer science and AI (ACM, IEEE, KDIR). My works were in turn cited in internationally leading academic venues.
+  </li> 
+  <li style="list-style: none, position: relative; margin-left: -15px">
+    My published research was cited by other scientists and in papers by institutions such as the Bank of England. Served as member of the program committee of the ACM ICAIF 2025 in Singapore.</li> 
+    <comment attribute="https://scholar.google.com/scholar?cluster=3178424122535251637&hl=en&as_sdt=2005&sciodt=0,5"> </comment>
+  <li> 
+    Publications in international scientific conferences and journals: Kim et al. in ACM ICAIF New York (2024), Spörer et al. in KDIR in Porto (2024), Bermeitinger et al. IC3K (journal) (2024/2025), Pop & Spörer in IEEE SDS in Zurich (2025), Spörer in ACM ICAIF in Singapore (2025)
+  </li>
 </ul>
 
 <p style="text-align:left;">
@@ -281,7 +298,7 @@ using natural language processing (NLP).
   <br>
   <br>
 
-  <b>Artificial intelligence, analytics, data science, & machine learning:</b> AWS Bedrock (and various other LLM APIs), Model Context Protocol (MCP) and agentic AI, local inference/NVIDIA CUDA, Python/NumPy/pandas/scikit-learn/selenium/Quantopian/pytesseract/PyTorch, Tableau, Google Data Studio
+  <b>Artificial intelligence, analytics, data science, & machine learning:</b> AWS Bedrock (and various other LLM APIs), Model Context Protocol (MCP) and agentic AI, local inference/NVIDIA CUDA, Python/NumPy/pandas/scikit-learn/selenium/Quantopian/pytesseract/PyTorch, Tableau, Google Data Studio, Databricks
 
   <br>
   <br>
@@ -291,12 +308,12 @@ using natural language processing (NLP).
   <br>
   <br>
 
-  <b>Languages and frameworks:</b> pytest/test-driven development, Java/Spring/Spring Boot/Maven/Gradle/Tomcat/Junit, Containers/Docker/Kubernetes/OpenShift, MongoDB/Atlas Cloud, SQL/DDL/MySQL/PostgreSQL, React/JavaScript, Angular/TypeScript, R3 Corda Certified Developer (2019)/Kotlin, Ruby/Rails, Keycloak, documentation/Swagger UI/Sphinx
+  <b>Languages and frameworks:</b> pytest/test-driven development, Java/Spring/Spring Boot/Maven/Gradle/Tomcat/Junit, Containers/Docker/Kubernetes/OpenShift/AWS ECR, MongoDB/Atlas Cloud, SQL/DDL/MySQL/PostgreSQL, React/JavaScript, Angular/TypeScript, R3 Corda Certified Developer (2019)/Kotlin, Ruby/Rails, Keycloak, documentation/Swagger UI/Sphinx
 
   <br>
   <br>
 
-  <b>Development methods and concepts:</b> CI/CD (continuous integration and continuous delivery), cloud services with AWS/Azure/GCP, microservices, agile, scrum 
+  <b>Development methods and concepts:</b> CI/CD (continuous integration and continuous delivery), cloud services with AWS/GCP, microservices, agile, scrum 
 
   <br>
   <br>
