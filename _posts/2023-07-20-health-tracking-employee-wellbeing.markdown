@@ -48,7 +48,6 @@ So that's what I recently did. I bought a smartwatch with HRV and heart rate fun
 
 As soon as I understand whether these measurements are meaningful, I will gradually expand the use of smartwatches and smart rings to my colleagues as well.
 
-I envision that one day, one could
 
 # How to Get Into the Health Tracking Rabbit Hole
 
