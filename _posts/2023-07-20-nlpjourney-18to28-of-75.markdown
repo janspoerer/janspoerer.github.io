@@ -52,7 +52,7 @@ The B.Sc. student is almost done with her thesis. Her progress looks promising a
 **The plan is still only slightly changed:**
 <ol>
   <li>Hand in paper no. 1 in January 2023. -> Done, but this paper needs to be revised.</li>
-  <li>Hand in paper no. 2 by the end of June 2023 (Q2). -> This paper will be handed in next weeK; the conference deadline is at the end of July.</li>
+  <li>Hand in paper no. 2 by the end of June 2023 (Q2). -> This paper will be handed in next week; the conference deadline is at the end of July.</li>
   <li>Hand in paper no. 3 by the end of Q3.</li>
   <li>Hand in paper no. 4 by the end of Q4/by year-end.</li>
 </ol>
