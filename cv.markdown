@@ -74,7 +74,7 @@ jan.spoerer@whu.edu &#124; +49 171 5395666
     Integrated the Atlassian API (Jira, Confluence) to automate workflows, track progress status, and log progress.
   </li>
   <li style="list-style: none, position: relative; margin-left: -15px">
-    Prepared AI presentations for other developers to keep the team upatated about new technologies and trends.
+    Prepared AI presentations for other developers to keep the team updated about new technologies and trends.
   </li>
   <li style="list-style: none, position: relative; margin-left: -15px">
     Shaped the corporate digital strategy by steering the above-mentioned ideas in a monthly strategy meeting with the CEO and department heads.
@@ -232,7 +232,7 @@ using natural language processing (NLP).
     My published research was cited by other scientists and in papers by institutions such as the Bank of England. Served as member of the program committee of the ACM ICAIF 2025 in Singapore.</li> 
     <comment attribute="https://scholar.google.com/scholar?cluster=3178424122535251637&hl=en&as_sdt=2005&sciodt=0,5"> </comment>
   <li> 
-    Publications in international scientific conferences and journals: Kim et al. in ACM ICAIF New York (2024), Spörer et al. in KDIR in Porto (2024), Bermeitinger et al. IC3K (journal) (2024/2025), Pop & Spörer in IEEE SDS in Zurich (2025), Spörer in ACM ICAIF in Singapore (2025)
+    Publications in international scientific conferences and journals: Kim et al. in ACM ICAIF New York (2024), Spörer et al. in KDIR in Porto (2024), Bermeitinger et al. IC3K (journal) (2024/2025), Pop & Spörer in IEEE SDS in Zurich (2025), Spörer in ACM ICAIF in Singapore (2025), Spörer, Gaus & Handschuh in the FinREM workshop in ACM ICIF in Singapore (2025).
   </li>
 </ul>
 
