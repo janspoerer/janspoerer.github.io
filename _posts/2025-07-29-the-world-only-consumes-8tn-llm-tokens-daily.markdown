@@ -41,13 +41,9 @@ As input tokens are also charged, and as these typically make up about 2x of the
 
 
 
-Let's assume one chat request leads to 1000 generated tokens. I probably use LLMs 20 times per day. That would result in 20'000 tokens per day for me as a heavy user. Then in my professional and academic life as an AI engineer and AI researcher, I probably spend and average of 10 million output tokens.
+Let's assume one chat request leads to 1000 generated tokens. I probably use LLMs 20 times per day. That would result in 20'000 tokens per day for me as a heavy user. Then in my professional and academic life as an AI engineer and AI researcher, I probably spend an average of 10 million output tokens.
 
-
-
-
-
- [NVIDIA GPU demand]({% post_url 2025-03-02-how-many-nvidia-gpus-does-the-world-need %}).
+Related post: [NVIDIA GPU demand]({% post_url 2025-03-02-how-many-nvidia-gpus-does-the-world-need %}).
 
 ## Contact
 
