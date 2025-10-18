@@ -78,7 +78,7 @@ series_title: "Business"
 * [Appearance in the Handelsblatt (German Economic Newspaper)](https://www.handelsblatt.com/finanzen/maerkte/devisen-rohstoffe/bitcoin-und-co-wie-fondsprofis-mit-kryptowaehrungen-experimentieren/27805202.html)
 * [Join this free WhatsApp job group to find junior Data Science talent in Germany or to find a job!](https://chat.whatsapp.com/JdDgM4yIexODMe4FkGJuLE)
 * Web3Stories podcast appearance talking about my mindsets for success
-    * [LinkedIn]](https://www.linkedin.com/posts/%F0%9F%91%A8%E2%80%8D%F0%9F%9A%80marcel-grimm-843b68201_%3F%3F%3F%3F-%3F%3F%3F%3F-%3F%3F%3F%3F%3F-%3F%3F%3F%3F-activity-7041674001810653185-OEiZ/) or [here](https://www.linkedin.com/posts/21e6-dlt_8-jan-sp%C3%B6rer-blockchain-life-story-commerzbank-activity-7044293139217473536-V13u)
+    * [LinkedIn](https://www.linkedin.com/posts/%F0%9F%91%A8%E2%80%8D%F0%9F%9A%80marcel-grimm-843b68201_%3F%3F%3F%3F-%3F%3F%3F%3F-%3F%3F%3F%3F%3F-%3F%3F%3F%3F-activity-7041674001810653185-OEiZ/) or [here](https://www.linkedin.com/posts/21e6-dlt_8-jan-sp%C3%B6rer-blockchain-life-story-commerzbank-activity-7044293139217473536-V13u)
     * [YouTube](https://www.youtube.com/watch?v=x5qkNojbZV4)
     * [Amazon Music](https://music.amazon.com/podcasts/ec613a79-9118-4759-a840-c5dcbca7ee8f/episodes/dc3a052a-e509-41d4-9222-927fc02d186f/web3stories---empower-and-inspire-beyond-the-block-8-jan-sp%C3%B6rer-blockchain-life-story-commerzbank-21e6-phd)
 * [21e6](https://assets.21e6.io/)
