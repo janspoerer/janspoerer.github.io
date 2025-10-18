@@ -111,7 +111,7 @@ source .venv/bin/activate
 pip install fastmcp
 ```
 
-I hope nothing fails. If something does fail, copy-paste the content of this blog post into your favorite language model along with your error. It will proabably be easy to resolve.
+I hope nothing fails. If something does fail, copy-paste the content of this blog post into your favorite language model along with your error. It will probably be easy to resolve.
 
 ## Verify the MCP Server and the Config
 
