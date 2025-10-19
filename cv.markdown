@@ -189,7 +189,7 @@ administrators, banks, and execution agents/brokers.</li>
 </p> <ul style="margin-bottom: -10px;text-align:left; position: relative; top:-27px; padding-left: -10px, margin-left: -10px"> <li style="list-style: none, position: relative; margin-left: -15px">
     Calculated leveraged buyout models.
   </li> <li style="list-style: none, position: relative; margin-left: -15px">
-    Supported a successful buyout from an early stage to signing (Duagon AG).
+    Supported a successful buyout from an early stage to signing (Duagon AG). (Duagon AG was subsequently sold in 2025, [https://www.fortlane.com/en/resources/our-transactions/2025/funds-advised-by-dbag.html](https://www.fortlane.com/en/resources/our-transactions/2025/funds-advised-by-dbag.html))
   </li>
 </ul>
 
