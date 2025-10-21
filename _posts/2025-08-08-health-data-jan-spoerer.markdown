@@ -421,6 +421,19 @@ Ok -- I found one good reason to not publish one's health data -- it might bar y
 
 # Blood Work (Blutbild)
 
+* 2025-10-08
+    * **Blood Chemistry**:
+        - Albumin: 43.32 g/l (reference range: 35.00-52.00)
+        - Lipoprotein(a): 63 mg/dl (reference range: <30) **[HIGH]**
+        - Testosteron: 4.69 ng/ml (reference range: 1.75-7.81)
+        - bioverfügbares Testosteron: 1.514 μg/l (reference range: 1.260-4.120)
+        - bioverfügbares Testosteron: 32.29 % (reference range: 35.00-66.30) **[LOW]**
+        - freies Testosteron: 0.0640 μg/l (reference range: 0.0570-0.1780)
+        - freies Testosteron: 1.370 % (reference range: 1.530-2.880) **[LOW]**
+        - SHBG: 60.5 nmol/l (reference range: 13.3-89.5)
+    * **IGeL-Leistung (Additional Testing)**:
+        - Nicotinamid im Serum (LC/MS): 39.2 μg/L (reference range: 8.0-52.0)
+
 * 2024-04-01
     * **Klinische Chemie (Clinical Chemistry)**:
         - Cortisol im Serum: 9.09 μg/dl (reference range: 5.00-23.00)
