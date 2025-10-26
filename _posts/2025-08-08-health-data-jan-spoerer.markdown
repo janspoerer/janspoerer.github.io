@@ -424,8 +424,8 @@ Ok -- I found one good reason to not publish one's health data -- it might bar y
 * 2025-10-08
     * **Blood Chemistry**:
         - Albumin: 43.32 g/l (reference range: 35.00-52.00)
-        - Lipoprotein(a): 63 mg/dl (reference range: <30) **[HIGH]**
-        - Testosteron: 4.69 ng/ml (reference range: 1.75-7.81)
+        - Lipoprotein(a): 63 mg/dl (reference range: <30) **[HIGH]** -> Very bad, I will address this and talk to my doctor about it in November. This marker is genetic and can only be effectively reduced with medication. Nutrition and sports have little to no effect on this metric, unfortunately.
+        - Testosteron: 4.69 ng/ml (reference range: 1.75-7.81) 
         - bioverfügbares Testosteron: 1.514 μg/l (reference range: 1.260-4.120)
         - bioverfügbares Testosteron: 32.29 % (reference range: 35.00-66.30) **[LOW]**
         - freies Testosteron: 0.0640 μg/l (reference range: 0.0570-0.1780)
@@ -434,7 +434,7 @@ Ok -- I found one good reason to not publish one's health data -- it might bar y
     * **IGeL-Leistung (Additional Testing)**:
         - Nicotinamid im Serum (LC/MS): 39.2 μg/L (reference range: 8.0-52.0)
 
-* 2024-04-01
+* 2025-04-01
     * **Klinische Chemie (Clinical Chemistry)**:
         - Cortisol im Serum: 9.09 μg/dl (reference range: 5.00-23.00)
         - Albumin: 46.21 g/l (reference range: 35.00-52.00)
@@ -448,6 +448,41 @@ Ok -- I found one good reason to not publish one's health data -- it might bar y
         - freies Testosteron: 1.300 % (reference range: 1.530-2.880)
         - SHBG: 62.9 nmol/l (reference range: 13.3-89.5)
 
+    * **Hämoglobin (Hemoglobin)**: 15.2 g/dl (reference: 14.0-17.5)
+    * **Erythrozyten (Red Blood Cells)**: 5.00 Mio/ul (reference: 4.50-5.90)
+    * **Leukozyten (White Blood Cells)**: 4.55 Tsd./ul (reference: 4.40-11.30)
+    * **MCH (Mean Corpuscular Hemoglobin)**: 30.4 pg (reference: 28.0-33.0)
+    * **Hämatokrit (Hematocrit)**: 44.9% (reference: 40.0-52.0)
+    * **MCHC (Mean Corpuscular Hemoglobin Concentration)**: 33.9 g/dl (reference: 32.0-36.0)
+    * **MCV (Mean Corpuscular Volume)**: 89.8 fl (reference: 80.0-96.0)
+    * **Thrombozyten (Platelets)**: 149 Tsd/ul (reference: 140-440)
+
+    * Diabetes Markers
+        * **HbA1c (NGSP) (Glycated Hemoglobin)**: 5.02% (reference: <5.7)
+        * **HbA1c (IFCC)**: 31.3 mmol/mol (reference: <39)
+        * **Glucose (Nüchtern-Blutzucker)**: 77 mg/dl (reference: 70-110)
+
+    * Liver Function
+        * **GOT (AST) (Aspartate Aminotransferase)**: 29 U/l (reference: <35)
+
+    * Kidney Function
+        * **Kreatinin (Creatinine)**: 1.14 mg/dl (reference: <1.20)
+        * **GFR CKD-EPI (Glomerular Filtration Rate)**: 86 ml/min/1.73m² (based on CKD-EPI formula)
+
+    * Lipid Panel (Fettstoffwechsel)
+        * **Gesamtcholesterin (Total Cholesterol)**: 232 mg/dl (reference: <200) **[ELEVATED]**
+        * **HDL-Cholesterin (HDL Cholesterol)**: 66 mg/dl (reference: >40)
+        * **LDL-Cholesterin enzymatisch (LDL Cholesterol)**: 135 mg/dl (reference: <130) **[SLIGHTLY ELEVATED]**
+        * **LDL/HDL Ratio**: 2.0 (reference: <3)
+        * **Triglyzeride (Triglycerides)**: 82 mg/dl (reference: <200)
+
+    * Thyroid Function
+        * **TSH (Thyroid-Stimulating Hormone)**: 1.610 µU/ml (reference: 0.400-4.000)
+
+
+# Blood Donations
+
+* 2025-02-13: Blutspende im Marienkrankenhaus
 
 # Vaccinations
 
