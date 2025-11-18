@@ -35,7 +35,7 @@ So anyway, until proven otherwise, I will keep publishing my health data here.
 
 The clear advantage is -- if I ever get into an accident, or forget to bring my medical records to a doctor's appointment -- I can just tell the doctor to open Google and get my health data from my blog.
 
-Ok -- I found one good reason to not publish one's health data -- it might bar you from getting (cheap) health insurance.
+Ok -- I found one good reason to not publish one's health data -- if the data is bad, it might bar you from getting (cheap) health insurance.
 
 # Blood Type, Blood Pressure, and Blood Sugar
 
@@ -55,8 +55,13 @@ Ok -- I found one good reason to not publish one's health data -- it might bar y
     * Quite compatible for receiving transfusions -- can accept both B+ and O+ blood (which together represent about 45-50% of donors), and the K-negative status eliminates potential complications from Kell antibodies.
 
 * Blood pressure: My blood pressure is usually in line with healthly baselines, but it could be even better, given my age (30 yo at the time of the last measurement).
-* Blood sugar: Is also always ok.
-    * 2025-04-01: 120/70 blood pressure at 8:26am. Day before: Went to bed at midnight, woke up at 7am, ate hash browns and fried Austrian dumplings/Knödel (unhealthy stuff). Had a slight headache that day. Was prescribed vitamin D.
+
+* Blood sugar: Is also always ok. Reference: Should be less than 100mg/dL fasted and less than 140mg/dL after eating.
+    * 2025-11-08: 127mg/dL at 13:50 about 1h after eating.
+
+* Blood pressure
+    * 2025-04-01: 120/70 blood pressure at 8:26am. Day before: Went to bed at midnight, woke up at 7am, ate hash browns and fried Austrian dumplings/Knödel (unhealthy stuff). Had a slight headache that day. 
+    
 
 # Weight and Body Composition
 
@@ -421,10 +426,51 @@ Ok -- I found one good reason to not publish one's health data -- it might bar y
 
 # Blood Work (Blutbild)
 
+* 2025-11-11
+    * **Complete Blood Count (kl. BB m.Throm.)**:
+        - Hämoglobin (Hemoglobin): 15.1 g/dl (reference: 14.0-17.5)
+        - Erythrozyten (Red Blood Cells): 5.02 Mio/ul (reference: 4.50-5.90)
+        - Leukozyten (White Blood Cells): 6.06 Tsd./ul (reference: 4.40-11.30)
+        - MCH (Mean Corpuscular Hemoglobin): 30.1 pg (reference: 28.0-33.0)
+        - Hämatokrit (Hematocrit): 44.7 % (reference: 40.0-52.0)
+        - MCHC (Mean Corpuscular Hemoglobin Concentration): 33.8 g/dl (reference: 32.0-36.0)
+        - MCV (Mean Corpuscular Volume): 89.0 fl (reference: 80.0-96.0)
+        - Thrombozyten (Platelets): 147 Tsd/ul (reference: 140-440)
+
+    * **Diabetes Markers**:
+        - HbA1c (NGSP) (Glycated Hemoglobin): 5.19 % (reference: <5.7)
+        - HbA1c (IFCC): 33.2 mmol/mol (reference: <39)
+        - Glucose (Blood Sugar): 76 mg/dl (reference: 70-110)
+
+    * **Liver Function**:
+        - GOT (AST) (Aspartate Aminotransferase): 32 U/l (reference: <35)
+        - GPT (ALT) (Alanine Aminotransferase): 30 U/l (reference: <45)
+        - yGT (Gamma-Glutamyl Transferase): 18 U/l (reference: <55)
+        - Bilirubin gesamt (Total Bilirubin): 0.5 mg/dl (reference: 0.1-1.2)
+        - Bilirubin direkt (Direct Bilirubin): 0.09 mg/dl (reference: <0.3)
+        - Bilirubin indirekt (Indirect Bilirubin): 0.41 mg/dl (reference: 0.10-0.80)
+        - LDH (Lactate Dehydrogenase): 185 U/l (reference: <248)
+        - Amylase: 53 U/l (reference: <100)
+        - Lipase: 46 U/l (reference: <60)
+
+    * **Kidney Function**:
+        - Kreatinin (Creatinine): 1.30 mg/dl (reference: <1.20) **[SLIGHTLY ELEVATED]**
+        - GFR CKD-EPI (Glomerular Filtration Rate): 73 ml/min/1.73m² (based on CKD-EPI formula)
+
+    * **Lipid Panel (Fettstoffwechsel)**:
+        - Gesamtcholesterin (Total Cholesterol): 188 mg/dl (reference: <200)
+        - HDL-Cholesterin (HDL Cholesterol): 57 mg/dl (reference: >40)
+        - LDL-Cholesterin enzymatisch (LDL Cholesterol): 110 mg/dl (reference: <130)
+        - LDL/HDL Ratio: 1.9 (reference: <3)
+        - Triglyzeride (Triglycerides): 49 mg/dl (reference: <200)
+
+    * **Thyroid Function**:
+        - TSH (Thyroid-Stimulating Hormone): 3.723 µU/ml (reference: 0.380-5.330)
+
 * 2025-10-08
     * **Blood Chemistry**:
         - Albumin: 43.32 g/l (reference range: 35.00-52.00)
-        - Lipoprotein(a): 63 mg/dl (reference range: <30) **[HIGH]** -> Very bad, I will address this and talk to my doctor about it in November. This marker is genetic and can only be effectively reduced with medication. Nutrition and sports have little to no effect on this metric, unfortunately.
+        - Lipoprotein(a)/Lp(a) ("Lp little a"): 63 mg/dl (reference range: <30) **[HIGH]** -> Very bad, I will address this and talk to my doctor about it in November. This marker is genetic and can only be effectively reduced with medication. Nutrition and sports have little to no effect on this metric, unfortunately.
         - Testosteron: 4.69 ng/ml (reference range: 1.75-7.81) 
         - bioverfügbares Testosteron: 1.514 μg/l (reference range: 1.260-4.120)
         - bioverfügbares Testosteron: 32.29 % (reference range: 35.00-66.30) **[LOW]**
@@ -566,10 +612,16 @@ Ok -- I found one good reason to not publish one's health data -- it might bar y
 - **2022-09-13**: [[Covid-19, Spikevax (Moderna) 2nd dose]]
 - **2022-10-18**: [[Covid-19, Spikevax (Moderna) Booster]]
 
-# Diseases and Accidents
+# Diseases & Accidents
 
 * None important to report.
 
+# Treatments & Measures
+
+* 2025-11 Lipoprotein A Lp(a) Reduction Measures
+    * Planning to take L-lysine, L-proline, and vitamine C if the Pauling-Rath hypothesis turns out to be worth a try.
+    * Considering PCSK9 inhibitors.
+    * -> No action taken against Lp(a) yet.
 
 
 {% if page.is_series == true %}
