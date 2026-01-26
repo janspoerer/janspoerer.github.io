@@ -233,8 +233,8 @@ using natural language processing (NLP).
     Published in internationally leading academic conferences in computer science and AI (ACM, IEEE, KDIR). My works were in turn cited in internationally leading academic venues.
   </li> 
   <li style="list-style: none, position: relative; margin-left: -15px">
-    My published research was cited by other scientists and in papers by institutions such as the Bank of England. Served as member of the program committee of the ACM ICAIF 2025 in Singapore.</li> 
-    <comment attribute="https://scholar.google.com/scholar?cluster=3178424122535251637&hl=en&as_sdt=2005&sciodt=0,5"> </comment>
+    My published research was cited by other scientists and in papers by institutions such as the Bank of England. Served as member of the program committee of the ACM ICAIF 2025 in Singapore.
+    <!-- https://scholar.google.com/scholar?cluster=3178424122535251637&hl=en&as_sdt=2005&sciodt=0,5 -->
   </li>
   <li>
     Publications in international scientific conferences and journals: [Kim et al. in ACM ICAIF New York (2024)](https://dl.acm.org/doi/abs/10.1145/3677052.3698675), [Spörer et al. in KDIR in Porto (2024)](https://www.scitepress.org/Papers/2024/128936/128936.pdf), [Bermeitinger et al. IC3K Springer Nature (book) (2024/2025)](https://books.google.de/books?hl=en&lr=&id=84uREQAAQBAJ&oi=fnd&pg=PR2&dq=Sp%C3%B6rer+et+al.+in+KDIR+in+Porto+(2024)&ots=HA87dgQjnc&sig=-mJ_3sOaObu5oWlarWAmCbWADqE&redir_esc=y#v=onepage&q&f=false), [Pop & Spörer in IEEE SDS in Zurich (2025)](https://ieeexplore.ieee.org/document/11081504), [Spörer in ACM ICAIF in Singapore (2025)](https://dl.acm.org/doi/abs/10.1145/3768292.3770417), Spörer, Gaus & Handschuh in the FinREM workshop in ACM ICIF in Singapore (2025).
