@@ -32,18 +32,47 @@ The number of inference tokens produced per day still seems to be almost laughab
 
 ## How Many Tokens Do We Consume Per Day?
 
-According to my quick Google Gemini Deep Research, the world consumes between 5-8 trillion LLM inference tokens per day. At a output token price of $2 (which is the output token price per 1m tokens of GPT-4.1), this translates to only $16m in output token revenue per day for all inference providers combined.
+According to my quick Google Gemini Deep Research, the world consumes between 5-8 trillion LLM inference tokens per day. At a output token price of \$2 (which is the output token price per 1m tokens of GPT-4.1), this translates to only \$16m in output token revenue per day for all inference providers combined.
 
 This already includes self-hosted token production!
 
-As input tokens are also charged, and as these typically make up about 2x of the output token cost, the total inference revenue would be $16m for output and $32m for input tokens, totaling a meagre **$48m in *global* daily inference revenue** per day.
+As input tokens are also charged, and as these typically make up about 2x of the output token cost, the total inference revenue would be \$16m for output and \$32m for input tokens, totaling a meagre **\$48m in *global* daily inference revenue** per day.
 
-
-
+### Personal Usage Example
 
 Let's assume one chat request leads to 1000 generated tokens. I probably use LLMs 20 times per day. That would result in 20'000 tokens per day for me as a heavy user. Then in my professional and academic life as an AI engineer and AI researcher, I probably spend an average of 10 million output tokens.
 
+<span style="color: red; font-weight: bold;">[TODO: Complete this thought - 10 million tokens per what time period? And connect this to the global numbers: e.g., "If heavy users like me only consume X tokens, it shows how few people are actually using LLMs regularly."]</span>
+
+## What Does This Mean?
+
+<span style="color: red; font-weight: bold;">[TODO: Add analysis of implications. Consider:
+- Is this surprisingly low? What were expectations?
+- What does this mean for AI company valuations?
+- Are we still very early in adoption, or is demand lower than expected?
+- What percentage of knowledge workers are actually using LLMs?]</span>
+
+## Growth Trajectory
+
+<span style="color: red; font-weight: bold;">[TODO: Add growth context. Consider:
+- What was daily token consumption 6-12 months ago?
+- What's the growth rate?
+- Projections: when might we hit 100 trillion tokens/day?
+- What would drive 10x or 100x growth?]</span>
+
+## Comparison to Other Markets
+
+<span style="color: red; font-weight: bold;">[TODO: Add comparisons to put $48m/day in perspective. Consider:
+- Global cloud computing revenue per day
+- Google Search ad revenue per day
+- Social media ad revenue per day
+- Other SaaS markets]</span>
+
+## Related
+
 Related post: [NVIDIA GPU demand]({% post_url 2025-03-02-how-many-nvidia-gpus-does-the-world-need %}).
+
+<span style="color: red; font-weight: bold;">[TODO: Add a sentence connecting this post to the GPU demand post - e.g., how does low token consumption relate to GPU demand/supply dynamics?]</span>
 
 ## Contact
 

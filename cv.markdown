@@ -49,6 +49,7 @@ jan.spoerer@whu.edu &#124; +49 171 5395666
 </p> <ul 
     style="margin-bottom: -10px; text-align:left; position: relative; top:-27px; padding-left: -10px"
 > 
+
   <li style="list-style: none, position: relative; margin-left: -15px">
     Implemented and maintained the internal chatbot. The chatbot has an on-the-fly anonymization and de-anonymization pipeline. Implemented anonymization methods for safe handling of customer data using external AI/LLM APIs.
   </li>
@@ -57,6 +58,9 @@ jan.spoerer@whu.edu &#124; +49 171 5395666
   </li>
   <li style="list-style: none, position: relative; margin-left: -15px">
     Utilized a cloud stack based on Amazon Web Service: AWS Lambda functions, AWS ECR, AWS DynamoDB, AWS RDS.
+  </li>
+  <li style="list-style: none, position: relative; margin-left: -15px">
+    Created and deployed a beta ChatGPT App to integrate various processes directly into ChatGPT.
   </li>
   <li style="list-style: none, position: relative; margin-left: -15px">
     Automated unstructured data processing using AI technologies: AWS Bedrock, AWS Agents (function calling), Anthropic Claude via AWS Bedrock.
@@ -231,8 +235,9 @@ using natural language processing (NLP).
   <li style="list-style: none, position: relative; margin-left: -15px">
     My published research was cited by other scientists and in papers by institutions such as the Bank of England. Served as member of the program committee of the ACM ICAIF 2025 in Singapore.</li> 
     <comment attribute="https://scholar.google.com/scholar?cluster=3178424122535251637&hl=en&as_sdt=2005&sciodt=0,5"> </comment>
+  </li>
   <li>
-    Publications in international scientific conferences and journals: Kim et al. in ACM ICAIF New York (2024), Spörer et al. in KDIR in Porto (2024), Bermeitinger et al. IC3K Springer Nature (book) (2024/2025), Pop & Spörer in IEEE SDS in Zurich (2025), Spörer in ACM ICAIF in Singapore (2025), Spörer, Gaus & Handschuh in the FinREM workshop in ACM ICIF in Singapore (2025).
+    Publications in international scientific conferences and journals: [Kim et al. in ACM ICAIF New York (2024)](https://dl.acm.org/doi/abs/10.1145/3677052.3698675), [Spörer et al. in KDIR in Porto (2024)](https://www.scitepress.org/Papers/2024/128936/128936.pdf), [Bermeitinger et al. IC3K Springer Nature (book) (2024/2025)](https://books.google.de/books?hl=en&lr=&id=84uREQAAQBAJ&oi=fnd&pg=PR2&dq=Sp%C3%B6rer+et+al.+in+KDIR+in+Porto+(2024)&ots=HA87dgQjnc&sig=-mJ_3sOaObu5oWlarWAmCbWADqE&redir_esc=y#v=onepage&q&f=false), [Pop & Spörer in IEEE SDS in Zurich (2025)](https://ieeexplore.ieee.org/document/11081504), [Spörer in ACM ICAIF in Singapore (2025)](https://dl.acm.org/doi/abs/10.1145/3768292.3770417), Spörer, Gaus & Handschuh in the FinREM workshop in ACM ICIF in Singapore (2025).
   </li>
 </ul>
 

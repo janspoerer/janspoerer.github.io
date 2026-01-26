@@ -612,6 +612,40 @@ Ok -- I found one good reason to not publish one's health data -- if the data is
 - **2022-09-13**: [[Covid-19, Spikevax (Moderna) 2nd dose]]
 - **2022-10-18**: [[Covid-19, Spikevax (Moderna) Booster]]
 
+# X-Rays, Imaging, and Long-Haul Flights (for Radiation Load)
+
+## 2020-07-21 Dental X-Ray (Röntgenbild Gebiss)
+
+Estimated radiation load: 0.02 – 0.2 mSv. 
+
+Outcome: Everything ok in the mouth.
+
+![2020-07-21 Dental X-Ray](/assets/images/2020-07-21-dental-xray.jpg)
+
+## 2025-12-16 Dental X-Ray (Röntgenbild Gebiss)
+
+Estimated radiation load: 0.02 – 0.2 mSv. 
+
+Outcome: Everything ok in the mouth.
+
+<embed src="/assets/images/2025-12-16-dental-xray.pdf" type="application/pdf" width="100%" height="600px" />
+
+## 2024-11-06 Foot X-Rays (Röntgenbilder Füße)
+
+Radiation load: 0.006 – 0.1 mSv. Likely more like 0.006 mSv or less because a Weight-Bearing Cone Beam CT was used.
+
+Outcome: I ran a marathon that year and had some pain in my feet as a result of my training and the marathon. I thought my feet may have a fracture, but everything turned out to be ok in the feet. The pain went away since then.
+
+![2024-11-06 Left Foot X-Ray](/assets/images/2024-11-06-foot-xray-left.jpg)
+
+![2024-11-06 Right Foot X-Ray](/assets/images/2024-11-06-foot-xray-right.jpg)
+
+## Flights (Radiation Load)
+
+* 2025: Multiple flights, longest flight was to Singapore. Radiation load: ~0.03 – 0.05 mSv x 2. Plus the shorter flights.
+* 2024: Multiple flights, longest flight was to New York. Radiation load: ~0.03 – 0.08 mSv x 2. Plus the shorter flights.
+* 2023: Multiple flights, longest flight was to New York. Radiation load: ~0.03 – 0.08 mSv x 2. Plus the shorter flights.
+
 # Diseases & Accidents
 
 * None important to report.
@@ -622,6 +656,29 @@ Ok -- I found one good reason to not publish one's health data -- if the data is
     * Planning to take L-lysine, L-proline, and vitamine C if the Pauling-Rath hypothesis turns out to be worth a try.
     * Considering PCSK9 inhibitors.
     * -> No action taken against Lp(a) yet.
+
+# A Note on Optimal Levels
+
+
+* LDL Cholesterol
+    - **Evidence:** Large observational studies (like the _Denmark General Population Study_ and _Pittsburgh Healthcare System_ study) consistently find that all-cause mortality is lowest at **moderate levels** of LDL, typically between **$100\text{--}140\text{ mg/dL}$**.
+    - **The Paradox:** People with naturally very low LDL ($<70\text{ mg/dL}$) in the general population often have higher rates of cancer and infection. While this may be reverse causality (sickness causes low LDL), independent researchers argue that aggressive lowering in healthy elderly people may not yield a net survival benefit.
+* HDL Cholesterol
+    - **Verdict:** **Goldilocks Zone (Not "Higher is Better").**
+    - **The Range:** Optimal survival is typically seen with HDL levels between **$40\text{--}80\text{ mg/dL}$**.
+
+# Summary of Lipid Panel
+
+The patient's cardiovascular profile is highly favorable regarding lifestyle-dependent factors (Triglycerides, LDL, HDL), showing a positive trend in 2025. However, the Lp(a) elevation represents a distinct, independent genetic risk factor that he is currently monitoring but has not yet actively treated.
+
+| Marker | April 01, 2025 | November 11, 2025 | Reference Range | Status (Nov) |
+| :--- | :--- | :--- | :--- | :--- |
+| **Total Cholesterol** | **232 mg/dl** (Elevated) | **188 mg/dl** | < 200 mg/dl | Normal |
+| **LDL** (Bad) | **135 mg/dl** (Elevated) | **110 mg/dl** | < 130 mg/dl | Normal |
+| **HDL** (Good) | 66 mg/dl | 57 mg/dl | > 40 mg/dl | Good |
+| **LDL/HDL Ratio** | 2.0 | 1.9 | < 3 | Excellent |
+| **Triglycerides** | 82 mg/dl | **49 mg/dl** | < 200 mg/dl | Excellent |
+
 
 
 {% if page.is_series == true %}
