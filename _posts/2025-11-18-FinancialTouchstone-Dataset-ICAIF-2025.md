@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FinancialTouchstone Dataset - ACM International Conference on AI in Finance (ICAIF) 2025 in Singapore"
+title: "2025-11-18: FinancialTouchstone Dataset - ACM International Conference on AI in Finance (ICAIF) 2025 in Singapore"
 date: 2025-11-18
 categories: post
 tags: finance ai dataset
