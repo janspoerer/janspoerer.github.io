@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Living on Dividends - A Simple Portfolio Tracker for Dividend Investors"
+title: "2026-01-01: Living on Dividends - A Simple Portfolio Tracker for Dividend Investors"
 date: 2026-01-01
 categories: post
 tags: finance investing dividends

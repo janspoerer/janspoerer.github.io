@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Dangers of Short-Form Videos: What the Research Says"
+title: "2026-03-05: The Dangers of Short-Form Videos: What the Research Says"
 date: 2026-03-05
 categories: post
 tags: health
