@@ -69,4 +69,4 @@ Systematic reviews confirm that the high physiological arousal and blue light ex
 
 ## The Bottom Line
 
-The evidence is converging: excessive short-form video consumption erodes attention, weakens memory, rewires reward circuitry, and fuels anxiety and depression. The algorithmic feed is designed to maximize engagement, not well-being. Being aware of these effects is the first step toward a healthier relationship with these platforms.
+The evidence is converging: excessive short-form video consumption erodes attention, weakens memory, rewires reward circuitry, and fuels anxiety and depression. The algorithmic feed is designed to maximize engagement, not well-being. 
