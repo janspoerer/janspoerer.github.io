@@ -861,13 +861,13 @@ Device: custo vit m / spiro mobile.
         * **Sodium**: ~3,200 mg/day from sardines, ~1.5× WHO upper limit. Will rinse cans and pick low-sodium varieties when available. Given my brachial BP just drifted up to 139/87, this matters.
         * **Purines**: sardines are very purine-dense. Uric acid is already at 6.7 mg/dl (top of normal). Will hydrate well and stop the diet at any sign of joint pain.
         * **Omega-3 / bleeding risk**: 10-15 g EPA+DHA/day is large, especially combined with my 100 mg daily aspirin. Will discuss aspirin discontinuation with Dr. Haas.
-        * **Calcium**: ~4,500 mg/day from bone-in sardines, plus my already-high vitamin D (92.48 ng/ml). Will pause vitamin D supplementation during the diet.
+        * **Calcium**: ~3,600 mg/day from bone-in sardines (8 × 120 g × ~380 mg/100 g), well above the 2,500 mg/day Tolerable Upper Intake Level. Combined with my already-high vitamin D (92.48 ng/ml), risk of hypercalcemia. Will pause vitamin D supplementation during the diet.
 
 * 2026-05-12 Thorough Cardiology Check at Die Kardiologen Bad Nauheim
     * Comprehensive cardiology workup: resting ECG, stress ECG (bicycle ergometry up to 250 W), arteriograph (pulse wave analysis), spirometry, body composition (seca mBCA), and an extensive lab panel.
     * **Headline results**: Cardiac function and vessel stiffness are excellent (PWVao 6.9 m/s, lung age 21, max load 250 W = 116% of target). No structural or rhythm concerns on ECG or stress test.
     * **New findings to address**:
-        * **Lp(a) drifting up**: 78 mg/dl (May 2026) vs. 63 mg/dl (Oct 2025). Confirms the elevated genetic risk and that lifestyle changes won't fix it.
+        * **Lp(a) confirmed elevated**: 78 mg/dl on the May 2026 assay (ref <36) and 63 mg/dl on the Oct 2025 assay (ref <30) — the assays differ, so the two readings are not directly comparable, but both are roughly 2× their respective upper-reference cutoffs. This is a confirmed elevated genetic risk factor and lifestyle changes are not expected to move it.
         * **LDL rebound to 150 mg/dl** after the 110 mg/dl in Nov 2025, despite the coffee reduction. ApoB at 115 mg/dl high-normal.
         * **Iron status borderline low** (Ferritin 41.4, Transferrinsättigung 13.6%). Likely transient effect of the blood donation 18 days earlier; will recheck.
         * **Vitamin D too high** at 92.48 ng/ml — supplement dose needs reduction.
@@ -917,15 +917,17 @@ Device: custo vit m / spiro mobile.
 
 Timeline: the Apr 2025 panel was high (LDL 135), the Nov 2025 panel had improved (LDL 110, total 188), then in Feb 2026 I cut cafe-crema-style workplace coffee by ~95%. The May 2026 panel is the first reading after that lifestyle change — and despite the coffee reduction, total cholesterol and LDL **rebounded** to 215 and 150 mg/dl respectively. So the LDL improvement seen in Nov 2025 was probably not driven by coffee. The Lp(a) elevation, separately, is a genetic risk factor and remains the single largest cardiovascular signal I am tracking.
 
-| Marker | Apr 01, 2025 | Nov 11, 2025 | May 12, 2026 | Reference | Status (May) |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| **Total Cholesterol** | 232 mg/dl | 188 mg/dl | **215 mg/dl** | < 200 mg/dl | Borderline high |
-| **LDL** | 135 mg/dl | 110 mg/dl | **150 mg/dl** | < 116 mg/dl | Elevated |
-| **HDL** | 66 mg/dl | 57 mg/dl | 71 mg/dl | > 40 mg/dl | High (good) |
-| **Non-HDL** | — | — | 144 mg/dl | < 145 mg/dl | Borderline |
-| **Triglycerides** | 82 mg/dl | 49 mg/dl | 68 mg/dl | < 150 mg/dl | Excellent |
-| **Lp(a)** | — | — | **78 mg/dl** | < 36 mg/dl | High |
-| **Apolipoprotein B** | — | — | 115 mg/dl | 66-144 mg/dl | High-normal |
+| Marker | Apr 01, 2025 | Oct 08, 2025 | Nov 11, 2025 | May 12, 2026 | Reference | Status (May) |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **Total Cholesterol** | 232 mg/dl | — | 188 mg/dl | **215 mg/dl** | < 200 mg/dl | Borderline high |
+| **LDL** | 135 mg/dl | — | 110 mg/dl | **150 mg/dl** | < 116 mg/dl | Elevated |
+| **HDL** | 66 mg/dl | — | 57 mg/dl | 71 mg/dl | > 40 mg/dl | High (good) |
+| **Non-HDL** | — | — | — | 144 mg/dl | < 145 mg/dl | Borderline |
+| **Triglycerides** | 82 mg/dl | — | 49 mg/dl | 68 mg/dl | < 150 mg/dl | Excellent |
+| **Lp(a)** | — | **63 mg/dl** *(ref <30)* | — | **78 mg/dl** *(ref <36)* | (assay-dependent) | High |
+| **Apolipoprotein B** | — | — | — | 115 mg/dl | 66-144 mg/dl | High-normal |
+
+Note on Lp(a) trend: the Oct 2025 and May 2026 results used different reference ranges (<30 vs. <36 mg/dl), which strongly suggests different assays. The two readings are therefore not a clean apples-to-apples comparison, although both are clearly elevated (2.1× and 2.2× their respective upper-reference cutoffs). The April and November 2025 panels did not include Lp(a) — it was measured separately at the Oct 2025 draw.
 
 
 
