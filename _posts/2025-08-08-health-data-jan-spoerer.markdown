@@ -61,7 +61,12 @@ Ok -- I found one good reason to not publish one's health data -- if the data is
     * 2025-11-08: 127mg/dL at 13:50 about 1h after eating.
 
 * Blood pressure
-    * 2026-05-12: 139/87 mmHg at 9:53am (Arteriograph, brachial). Central aortic SBP: 124.6 mmHg (normal). Pre-exercise "resting" BP at the stress test the same morning: 142/89 mmHg (but the patient was already on the bike). Both brachial readings are noticeably higher than my prior 120/70 in April 2025 — some of that gap may be white-coat/anticipation, but the jump is too big to attribute entirely to that. The central aortic pressure is reassuring, but the brachial trend is worth watching.
+    * 2026-05-12: three readings during the cardiology workup that morning:
+        * 09:47 (ABI device, boso): **124/76 (right arm) and 124/78 (left arm)** — essentially identical to my April 2025 baseline of 120/70
+        * 09:53 (Arteriograph, 6 min later): 139/87
+        * 10:34 (stress test pre-exercise, on the bike): 142/89
+        * Central aortic SBP: 124.6 mmHg (normal)
+    * The 15 mmHg systolic gap between the ABI and the Arteriograph 6 minutes later is hard to attribute to anything other than white-coat / measurement-context effect. **My actual resting BP is fine — the Arteriograph and pre-stress readings were context-elevated**, not a true sustained increase.
     * 2025-04-01: 120/70 blood pressure at 8:26am. Day before: Went to bed at midnight, woke up at 7am, ate hash browns and fried Austrian dumplings/Knödel (unhealthy stuff). Had a slight headache that day.
     
 
@@ -819,6 +824,29 @@ Protocol: starting at 50 W, +25 W every 2 min.
 * Report wording: "no pectanginal symptoms, no dyspnoea, no ventricular rhythm disturbances, no significant repolarization disturbances; 4 isolated VES (ventricular extrasystoles) counted."
 * Note: I was fully exhausted both regarding heart rate and wattage.
 
+## 2026-05-12 Ankle-Brachial Index (Knöchel-Arm-Index, ABI)
+
+Performed at 09:47 on a boso device.
+
+* Right brachial BP: 124/76 mmHg, PP 48, pulse 56/min, no arrhythmia
+* Left brachial BP: 124/78 mmHg, PP 46, pulse 56/min, no arrhythmia
+* Inter-arm difference: 0 mmHg systolic, 2 mmHg diastolic (excellent symmetry)
+* Right ankle systolic: 142 mmHg
+* Left ankle systolic: 140 mmHg
+* **ABI right: 1.15** (>0.90 = no PAD) ✓
+* **ABI left: 1.13** (>0.90 = no PAD) ✓
+* **Befund: no peripheral artery disease**, symmetric, in the ideal range.
+
+Useful side observation — my blood pressure sequence that morning:
+
+| Time | Measurement | BP (brachial) |
+| :--- | :--- | :--- |
+| 09:47 | ABI (boso) | 124/76 / 124/78 |
+| 09:53 | Arteriograph (TensioMed) | 139/87 |
+| 10:34 | Stress test pre-exercise | 142/89 |
+
+The ~15 mmHg systolic gap between the ABI reading and the Arteriograph reading just 6 minutes later strongly supports the white-coat / measurement-context hypothesis I noted in the Arteriograph section. My true resting brachial BP that morning was probably closer to 124/77 than to 139/87 — so the BP "trend" since 2025-04-01 is less alarming than the Arteriograph snapshot suggested.
+
 ## 2026-05-12 Lung Function Test (Spirometry)
 
 Device: custo vit m / spiro mobile. Weight entered into the device: 72.0 kg (actual was 76.8 kg per the seca measurement ~30 min earlier; spirometry predicted values don't depend on weight, so this doesn't affect interpretation).
@@ -878,7 +906,7 @@ Given the lung age of 21, an excellent stress test (250 W = 116% of target, MET 
 
 * 2026-05-12 Thorough Cardiology Check at Die Kardiologen Bad Nauheim
     * Comprehensive cardiology workup: resting ECG, stress ECG (bicycle ergometry up to 250 W), arteriograph (pulse wave analysis), spirometry, body composition (seca mBCA), and an extensive lab panel.
-    * **Headline results**: Cardiac function and vessel stiffness are excellent (PWVao 6.9 m/s, lung age 21, max load 250 W = 116% of target). No structural or rhythm concerns on ECG or stress test.
+    * **Headline results**: Cardiac function and vessel stiffness are excellent (PWVao 6.9 m/s, lung age 21, max load 250 W = 116% of target). No structural or rhythm concerns on ECG or stress test. ABI 1.15/1.13 — no PAD.
     * **New findings to address**:
         * **Lp(a) confirmed elevated**: 78 mg/dl (167 nmol/l, ref <75 nmol/l) on the May 2026 assay, and 63 mg/dl (ref <30 mg/dl) on the Oct 2025 assay. Different assays and only the May panel reported the nmol/l value, so the readings are not directly comparable, but both are roughly 2× their respective upper-reference cutoffs. This is a confirmed elevated genetic risk factor and lifestyle changes are not expected to move it.
         * **LDL rebound to 150 mg/dl** after the 110 mg/dl in Nov 2025, despite the coffee reduction. ApoB at 115 mg/dl high-normal.
