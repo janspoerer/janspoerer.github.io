@@ -862,7 +862,7 @@ Given the lung age of 21, an excellent stress test (250 W = 116% of target, MET 
 # Treatments & Measures
 
 * 2026-05-28 Considering Combination Lipid-Lowering Therapy
-    * Considering 10 mg ezetimibe + 10 mg rosuvastatin daily as an intervention against the elevated Lp(a) (78 mg/dl), the LDL rebound to 150 mg/dl, and ApoB 115 mg/dl.
+    * Considering 10 mg ezetimibe + 10 mg rosuvastatin daily as an intervention against the elevated Lp(a) (78 mg/dl / 167 nmol/l), the LDL rebound to 150 mg/dl, and ApoB 115 mg/dl.
     * Rationale: ezetimibe + rosuvastatin combinations are well-established and typically achieve ~50-60% LDL reduction. While statins do not lower Lp(a) directly (and may slightly raise it), aggressive LDL/ApoB lowering is the most evidence-backed way to reduce overall cardiovascular risk in someone with high Lp(a).
     * Will discuss with Dr. Haas (Die Kardiologen Bad Nauheim) before starting.
 
@@ -880,7 +880,7 @@ Given the lung age of 21, an excellent stress test (250 W = 116% of target, MET 
     * Comprehensive cardiology workup: resting ECG, stress ECG (bicycle ergometry up to 250 W), arteriograph (pulse wave analysis), spirometry, body composition (seca mBCA), and an extensive lab panel.
     * **Headline results**: Cardiac function and vessel stiffness are excellent (PWVao 6.9 m/s, lung age 21, max load 250 W = 116% of target). No structural or rhythm concerns on ECG or stress test.
     * **New findings to address**:
-        * **Lp(a) confirmed elevated**: 78 mg/dl on the May 2026 assay (ref <36) and 63 mg/dl on the Oct 2025 assay (ref <30) — the assays differ, so the two readings are not directly comparable, but both are roughly 2× their respective upper-reference cutoffs. This is a confirmed elevated genetic risk factor and lifestyle changes are not expected to move it.
+        * **Lp(a) confirmed elevated**: 78 mg/dl (167 nmol/l, ref <75 nmol/l) on the May 2026 assay, and 63 mg/dl (ref <30 mg/dl) on the Oct 2025 assay. Different assays and only the May panel reported the nmol/l value, so the readings are not directly comparable, but both are roughly 2× their respective upper-reference cutoffs. This is a confirmed elevated genetic risk factor and lifestyle changes are not expected to move it.
         * **LDL rebound to 150 mg/dl** after the 110 mg/dl in Nov 2025, despite the coffee reduction. ApoB at 115 mg/dl high-normal.
         * **Iron status borderline low** (Ferritin 41.4, Transferrinsättigung 13.6%). Likely transient effect of the blood donation 18 days earlier; will recheck.
         * **Vitamin D too high** at 92.48 ng/ml — supplement dose needs reduction.
@@ -937,7 +937,7 @@ Timeline: the Apr 2025 panel was high (LDL 135), the Nov 2025 panel had improved
 | **HDL** | 66 mg/dl | — | 57 mg/dl | 71 mg/dl | > 40 mg/dl | High (good) |
 | **Non-HDL** | — | — | — | 144 mg/dl | < 145 mg/dl | Borderline |
 | **Triglycerides** | 82 mg/dl | — | 49 mg/dl | 68 mg/dl | < 150 mg/dl | Excellent |
-| **Lp(a)** | — | **63 mg/dl** *(ref <30)* | — | **78 mg/dl** *(ref <36)* | (assay-dependent) | High |
+| **Lp(a)** | — | **63 mg/dl** *(ref <30)* | — | **78 mg/dl / 167 nmol/l** *(ref <36 / <75)* | (assay-dependent) | High |
 | **Apolipoprotein B** | — | — | — | 115 mg/dl | 66-144 mg/dl | High-normal |
 
 Note on Lp(a) trend: the Oct 2025 and May 2026 results used different reference ranges (<30 vs. <36 mg/dl), which strongly suggests different assays. The two readings are therefore not a clean apples-to-apples comparison, although both are clearly elevated (2.1× and 2.2× their respective upper-reference cutoffs). The April and November 2025 panels did not include Lp(a) — it was measured separately at the Oct 2025 draw.
