@@ -821,16 +821,29 @@ Protocol: starting at 50 W, +25 W every 2 min.
 
 ## 2026-05-12 Lung Function Test (Spirometry)
 
-Device: custo vit m / spiro mobile.
+Device: custo vit m / spiro mobile. Weight entered into the device: 72.0 kg (actual was 76.8 kg per the seca measurement ~30 min earlier; spirometry predicted values don't depend on weight, so this doesn't affect interpretation).
 
 * IVC: 4.98 L (82% of target)
-* FVC: 4.97 L (Z-score −1.49, 82% of target)
+* FVC: 4.97 L (Z-score −1.49, 82% of target; LLN 4.86 L — measured value is just above LLN)
 * FEV1: 4.89 L (Z-score −0.05, 99% of target)
 * PEF: 8.16 l/s (80% of target)
-* FEF25-75%: 6.29 l/s (130% of target)
-* FEV1/FVC: 0.98 (Z-score 3.24, 120% of target)
+* FEF25-75%: 6.29 l/s (Z-score +1.06, 130% of target)
+* FEF75%FVC: 4.27 l/s (Z-score +2.09, 209% of target)
+* FEV1/FVC: 0.98 (Z-score +3.24, 120% of target)
 * **Lung age: 21** (actual age: 31)
 * **Befund**: "Normale, altersentsprechende Werte u.a. der VC und FEV1. Keine Zeichen der Obstruktion. Befund klinischer Auswertung gemäß GLI: Normal." Nichtraucher.
+
+Subtle pattern worth flagging on a closer read of the numbers (the cardiologist signed off as "Normal" but the underlying shape of the curve is interesting):
+
+* **FVC at 82% predicted (Z −1.49) is just above the Lower Limit of Normal** (Z cutoff is −1.645). So forced vital capacity sits at the bottom edge of the normal range.
+* **The FEV1/FVC ratio of 0.98 is unusually high**. Normal is roughly 0.75-0.85; 0.98 means nearly all of the measured vital capacity was exhaled in the first second.
+* **Late-expiratory flow rate (FEF75%FVC) at 209% of predicted** also looks "too good".
+
+This pattern (high ratio + low-normal FVC + normal FEV1) typically reflects one of two things:
+1. **Most likely: suboptimal test technique.** A proper FVC maneuver requires exhaling all the way down to residual volume (typically 6+ seconds). If exhalation is cut short at 3-4 seconds, the device records a lower FVC, FEV1 (a first-second measure) is unaffected, and the ratio gets inflated. The volume-over-time trace on the report ends between seconds 4-5, which is on the short side. This would also explain the inflated late-expiratory flow rates.
+2. **Less likely: a very mild restrictive component.** True restriction (low FVC, normal FEV1, high ratio) can arise from chest wall stiffness, mild fibrosis, neuromuscular weakness, or extreme fitness reducing chest compliance. Body plethysmography (Total Lung Capacity measurement) would be needed to confirm or rule this out — spirometry alone can't distinguish (1) from (2).
+
+Given the lung age of 21, an excellent stress test (250 W = 116% of target, MET 12.9), no symptoms, and a non-smoker history, this is almost certainly explanation (1) — i.e., the test could have used a longer forced exhale. Worth one sentence of confirmation with the cardiologist next time.
 
 # Flights (Radiation Load)
 
