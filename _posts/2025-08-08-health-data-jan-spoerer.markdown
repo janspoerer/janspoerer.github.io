@@ -57,14 +57,37 @@ Ok -- I found one good reason to not publish one's health data -- if the data is
 * Blood pressure: My blood pressure is usually in line with healthly baselines, but it could be even better, given my age (30 yo at the time of the last measurement).
 
 * Blood sugar: Is also always ok. Reference: Should be less than 100mg/dL fasted and less than 140mg/dL after eating.
+    * 2026-05-12: 96 mg/dL fasted (lab). HbA1c 5.3%. Mean glucose 106.3 mg/dL (from HbA1c). HOMA-Score 0.9 (good).
     * 2025-11-08: 127mg/dL at 13:50 about 1h after eating.
 
 * Blood pressure
-    * 2025-04-01: 120/70 blood pressure at 8:26am. Day before: Went to bed at midnight, woke up at 7am, ate hash browns and fried Austrian dumplings/Knödel (unhealthy stuff). Had a slight headache that day. 
+    * 2026-05-12: 139/87 mmHg at 9:53am (Arteriograph, brachial). Central aortic SBP: 124.6 mmHg (normal). Pre-exercise "resting" BP at the stress test the same morning: 142/89 mmHg (but the patient was already on the bike). Both brachial readings are noticeably higher than my prior 120/70 in April 2025 — some of that gap may be white-coat/anticipation, but the jump is too big to attribute entirely to that. The central aortic pressure is reassuring, but the brachial trend is worth watching.
+    * 2025-04-01: 120/70 blood pressure at 8:26am. Day before: Went to bed at midnight, woke up at 7am, ate hash browns and fried Austrian dumplings/Knödel (unhealthy stuff). Had a slight headache that day.
     
 
 # Weight and Body Composition
 
+* 2026-05-12 seca mBCA Body Composition Analysis (different device than InBody, so direct comparisons should be treated cautiously):
+    * Weight: 76.8 kg
+    * Height: 183.1 cm
+    * BMI: 22.9 kg/m² (Normalgewicht)
+    * Waist circumference: 76.0 cm
+    * Visceral fat: < 0.2 L (excellent, deep in the green zone)
+    * Body fat: 14.3% (10.99 kg)
+    * Fat-Mass-Index (FMI): 3.3 kg/m²
+    * Total skeletal muscle mass: 32.77 kg (**80th percentile** for age)
+    * Segmental skeletal muscle mass:
+        * Torso: 15.24 kg
+        * Right arm: 2.21 kg
+        * Left arm: 2.13 kg
+        * Right leg: 6.63 kg
+        * Left leg: 6.57 kg
+    * Total body water (TBW): 48.2 L (62.4% of body mass)
+    * Extracellular water (ECW): 19 L (24.6% of body mass)
+    * ECW/TBW ratio: 39.5% (normal range 38.4-41.9)
+    * Resting Energy Expenditure (REE): 7.7 MJ/day = 1841 kcal/day
+    * Phasenwinkel: 6.4° (80th percentile)
+    * Honest note: Weight is up about 6 kg from 2025 and body fat is roughly 6 kg higher than in 2022. Still firmly in the "normal" zone on every official metric (BMI, body fat %, visceral fat, muscle mass percentile), but the trend is real and I should address it.
 * 2025: Around 71kg. Lost muscle.
 * 2022-07: Around 75kg. All-time peak weight. Very fit (high in muscle mass).
 * 2021-11-22 InBody Body Composition Analysis:
@@ -426,6 +449,117 @@ Ok -- I found one good reason to not publish one's health data -- if the data is
 
 # Blood Work (Blutbild)
 
+* 2026-05-12 (ordered by Die Kardiologen Bad Nauheim, lab: GANZIMMUN)
+    * **Cardiac Markers (new):**
+        - NT-proBNP: 14.17 pg/ml (reference: <125.00) — excellent, well below the cutoff for heart failure
+        - CK-MB: 14 U/l (reference: <25)
+
+    * **Complete Blood Count**:
+        - Hämoglobin: 15.1 g/dl (reference: 13.5-17.8)
+        - Erythrozyten: 5.15 Mio/µl (reference: 4.4-5.9)
+        - Hämatokrit: 45.6% (reference: 40-53)
+        - MCV: 88 fl (reference: 80-96)
+        - MCH: 29.4 pg (reference: 28-33)
+        - MCHC: 33.2 g/dl (reference: 33-36)
+        - Retikulozyten: 0.63% (reference: 0.42-2.23)
+        - Leukozyten: 4.2 Zellen/nl (reference: 3.9-10.9)
+        - Neutrophile: 55.3% / 2.3 Zellen/nl
+        - Lymphozyten: 30.3% / 1.26 Zellen/nl
+        - Monozyten: 9.1% / 0.38 Zellen/nl
+        - Eosinophile: 4.2% / 0.18 Zellen/nl
+        - Basophile: 1.1% / 0.05 Zellen/nl
+        - Thrombozyten: 154 /nl (reference: 137-327)
+        - MPV: 10.2 fl (reference: 7.6-10.7)
+        - RDW: 13.3% (reference: 12.1-16.2)
+
+    * **Diabetes Markers**:
+        - HbA1c: 5.3% (reference: <5.7)
+        - HbA1c (IFCC): 34.7 mmol/mol (reference: <39)
+        - Mittlere Glucosekonzentration: 106.3 mg/dl (reference: 68-126)
+        - Plasmaglukose nüchtern: 96 mg/dl (reference: 60-100)
+        - Insulin basal: 3.61 µIE/ml (reference: 3.21-16.32)
+        - HOMA-Score: 0.9 (reference: <2.0)
+
+    * **Liver & Pancreas**:
+        - GOT (AST): 31 U/l (reference: <51)
+        - GPT (ALT): 34 U/l (reference: <51)
+        - Gamma-GT: 22 U/l (reference: <60)
+        - GLDH: 4.2 U/l (reference: <7.0)
+        - LDH: 186 U/l (reference: <250)
+        - Alkalische Phosphatase: 81 U/l (reference: 40-129)
+        - Lipase: 28 U/l (reference: 13-60)
+        - Amylase: 49 U/l (reference: 28-100)
+        - CK-NAC: 159 U/l (reference: <190)
+        - Bilirubin gesamt: 0.3 mg/dl (reference: <1.2)
+        - Cholinesterase: 9.09 kU/l (reference: 5.32-12.92)
+
+    * **Kidney Function**:
+        - Kreatinin enzymatisch: 1.27 mg/dl (reference: 0.67-1.17) **[SLIGHTLY ELEVATED]** — same pattern as Nov 2025; likely my high muscle/creatine load is inflating the reading
+        - GFR CKD-EPI (Kreatinin): 74.6 ml/min/1.73m² (Stage 2: mild reduction)
+        - Cystatin C (IFCC): 0.93 mg/l (reference: 0.61-0.95)
+        - **GFR CKD-EPI (Cystatin C): 96.2 ml/min/1.73m²** — this is the more reliable estimator when creatinine is muscle-confounded, and it puts kidney function clearly in the normal range
+        - Harnstoff (Urea): 35.8 mg/dl (reference: 16.6-48.5)
+        - Harnsäure (Uric acid): 6.7 mg/dl (reference: 3.4-7)
+
+    * **Lipid Panel** (this is the worrying part — values went back up from Nov 2025 despite the coffee reduction):
+        - **Lp(a) turbidimetrisch: 167 nmol/l (reference: <75) [HIGH]**
+        - **Lp(a): 78 mg/dl (reference: <36) [HIGH]** (Oct 2025 was 63 mg/dl against reference <30, suggesting a different assay — the Oct 2025 vs. May 2026 comparison is therefore not a clean apples-to-apples reading; both are clearly elevated)
+        - Cholesterin gesamt: 215 mg/dl (reference: <200) **[BORDERLINE HIGH]** (was 188 in Nov 2025)
+        - LDL-Cholesterin: 150 mg/dl (reference: <116) **[ELEVATED]** (was 110 in Nov 2025)
+        - HDL-Cholesterin: 71 mg/dl (reference: >40, ≥60 = high/good)
+        - Non-HDL-Cholesterin: 144 mg/dl (reference: <145)
+        - Triglyceride: 68 mg/dl (reference: <150)
+        - **Apolipoprotein B: 115 mg/dl (reference: 66-144)** — within range but high-normal
+
+    * **Iron Status** (newly tested):
+        - Eisen: 62 µg/dl (reference: 33-193)
+        - Transferrin: 325 mg/dl (reference: 200-360)
+        - **Transferrinsättigung: 13.6% (reference: 16-45) [LOW]**
+        - **Ferritin: 41.4 ng/ml (reference: 44.8-442) [LOW]**
+        - Important caveat: I donated whole blood on 2026-04-24, only 18 days before this draw. A single donation typically drops ferritin by ~30 ng/ml and transferrin saturation along with it. So the low values are most likely transient post-donation and not evidence of underlying iron deficiency. Worth re-checking in a few months.
+
+    * **Electrolytes**:
+        - Natrium: 139 mmol/l (reference: 136-145)
+        - Kalium: 4.2 mmol/l (reference: 3.5-5.1)
+        - Magnesium i. Serum: 0.85 mmol/l (reference: 0.66-1.07)
+        - Calcium: 2.46 mmol/l (reference: 2.15-2.5)
+        - Chlorid: 102 mmol/l (reference: 98-107)
+        - Anorganisches Phosphat: 2.7 mg/dl (reference: 2.5-4.5)
+
+    * **Immunoglobulins & Electrophoresis**:
+        - IgA: 272 mg/dl (reference: 70-400)
+        - IgG: 1022 mg/dl (reference: 700-1600)
+        - IgM: 175 mg/dl (reference: 40-230)
+        - Gesamteiweiß: 7.3 g/dl (reference: 6.4-8.3)
+        - Albumin: 65.2% (reference: 55.8-66.1)
+        - Alpha-1-Globulin: 3% (reference: 2.9-4.9)
+        - Alpha-2-Globulin: 6.9% (reference: 7.1-11.8) [borderline low, clinically not concerning]
+        - Beta-1-Globulin: 6.8% (reference: 4.7-7.2)
+        - Beta-2-Globulin: 4.6% (reference: 3.2-6.5)
+        - Gamma-Globulin: 13.5% (reference: 11.1-18.8)
+
+    * **Inflammation**:
+        - BSG: 3 mm/h (reference: 2-28)
+        - CRP: 0.5 mg/l (reference: <10)
+
+    * **Coagulation**:
+        - Quick (Thromboplastinzeit): 115.4% (reference: 78.1-123.3)
+        - INR: 0.93 (reference: 0.9-1.15)
+        - PTT: 25.2 s (reference: 21.6-28.7)
+
+    * **Hormones**:
+        - TSH: 2.3 mIU/l (reference: 0.41-3.74) — down from 3.723 in Nov 2025
+
+    * **Vitamins**:
+        - **Vitamin D: 92.48 ng/ml (reference: 30-70) [HIGH]** — I've been supplementing 4,000–20,000 IU/day; this is well above target. Will reduce.
+        - Vitamin B12: 430 pg/ml (reference: 197-771)
+
+    * **Other**:
+        - Homocystein i. Plasma: 10.3 µmol/l (target <10, tolerable 10-12)
+        - **Gesamt-IgE: 105 kU/l (reference: <20) [HIGH]** — "Allergy likely" range (>100). I don't currently have noticeable allergy symptoms, so this is news to me.
+
+    * **Urinstatus**: all unremarkable (no blood, no protein, no glucose, no ketones, no nitrite, no leukocytes; pH 5; specific gravity 1.005).
+
 * 2025-11-11
     * **Complete Blood Count (kl. BB m.Throm.)**:
         - Hämoglobin (Hemoglobin): 15.1 g/dl (reference: 14.0-17.5)
@@ -525,10 +659,10 @@ Ok -- I found one good reason to not publish one's health data -- if the data is
     * Thyroid Function
         * **TSH (Thyroid-Stimulating Hormone)**: 1.610 µU/ml (reference: 0.400-4.000)
 
-
 # Blood Donations
 
-* 2025-02-13: Blutspende im Marienkrankenhaus
+* 2026-04-24: Bludspende DRK in der City Galerie (Rotaract Club Siegen)
+* 2025-02-13: Blutspende DRK im Marienkrankenhaus
 
 # Vaccinations
 
@@ -640,11 +774,73 @@ Outcome: I ran a marathon that year and had some pain in my feet as a result of 
 
 ![2024-11-06 Right Foot X-Ray](/assets/images/2024-11-06-foot-xray-right.jpg)
 
-## Flights (Radiation Load)
+# Cardiovascular & Pulmonary Assessments
+
+## 2026-05-12 Arteriograph (Pulse Wave Analysis)
+
+Performed at Die Kardiologen Bad Nauheim on a TensioMed Arteriograph (oscillometric, suprasystolic).
+
+* **Brachial (peripheral) blood pressure**: 139/87 mmHg, PP 52 mmHg, MAP 104 mmHg, HR 60/min
+* **Central aortic hemodynamics**:
+    * SBPao (central systolic): 124.6 mmHg (reference <140) — central pressure is healthy
+    * PPao (central pulse pressure): 37.6 mmHg (reference <50)
+    * Aix aortic (Augmentation Index): 7.8% (reference <33) — small-artery function looks good
+    * PWVao (aortic pulse wave velocity): 6.9 m/s (reference <10)
+    * RT (reflection time): 169 ms (reference ≥124) — aortic wall stiffness is normal
+    * Ejection duration: 310 ms
+* **Volumetric test**: DRA 76 (good, ≥40), SAI 47.1% (good, ≤50), DAI 52.9% (good, ≥50)
+* **Quality**: SD 0.23 m/s (deep in green range)
+* **Befund**: "Die arteriellen Funktionsparameter sind in Ordnung."
+* Caveat on the percentile placement: the Arteriograph device had my date of birth entered incorrectly as 05/08/1998 (age 27 instead of the actual 31). The PWV percentile is therefore plotted against the population mean for 27-year-olds (6.8 m/s). At my actual age (31) the population mean is slightly higher, so 6.9 m/s is closer to the 50th percentile than the report suggests. The absolute measurement is unaffected.
+
+## 2026-05-12 Resting ECG
+
+* **Sinusrhythmus**, heart rate 57/min, Steiltyp (steep axis, QRS 91°)
+* PQ 125 ms, QRS 111 ms, QT 374 ms, QTc 368 ms (94%)
+* Sokolow-Lyon-Index: 2.26 mV
+* No block patterns, no hypertrophy signs, no ST-segment changes, no extrasystoles, no rhythm disturbances
+* **Zusammenfassung**: "Altersentsprechender Normalbefund bei Steiltyp"
+
+## 2026-05-12 Stress ECG (Bicycle Ergometry, Stepwise)
+
+Protocol: starting at 50 W, +25 W every 2 min.
+
+* **Total duration**: 22:05 min (16:22 load + 4:43 recovery)
+* **Max load**: 250 W — **116% of target** (214 W)
+* **Max HR**: 178/min — 105% of target (169/min)
+* **Resting BP**: 142/89 mmHg
+* **Max BP**: 207/104 mmHg (appropriate rise)
+* **HR × BD max**: 36,846
+* **Max MET**: 12.9
+* **PWC170**: 187 W = 2.6 W/kg (104% of target)
+* **PWC150**: 151 W = 2.1 W/kg (105%)
+* **PWC130**: 119 W = 1.7 W/kg (110%)
+* **Reason for termination**: muscular exhaustion (not cardiac symptoms)
+* Report wording: "no pectanginal symptoms, no dyspnoea, no ventricular rhythm disturbances, no significant repolarization disturbances; 4 isolated VES (ventricular extrasystoles) counted."
+* Note: I was fully exhausted both regarding heart rate and wattage.
+
+## 2026-05-12 Lung Function Test (Spirometry)
+
+Device: custo vit m / spiro mobile.
+
+* IVC: 4.98 L (82% of target)
+* FVC: 4.97 L (Z-score −1.49, 82% of target)
+* FEV1: 4.89 L (Z-score −0.05, 99% of target)
+* PEF: 8.16 l/s (80% of target)
+* FEF25-75%: 6.29 l/s (130% of target)
+* FEV1/FVC: 0.98 (Z-score 3.24, 120% of target)
+* **Lung age: 21** (actual age: 31)
+* **Befund**: "Normale, altersentsprechende Werte u.a. der VC und FEV1. Keine Zeichen der Obstruktion. Befund klinischer Auswertung gemäß GLI: Normal." Nichtraucher.
+
+# Flights (Radiation Load)
 
 * 2025: Multiple flights, longest flight was to Singapore. Radiation load: ~0.03 – 0.05 mSv x 2. Plus the shorter flights.
 * 2024: Multiple flights, longest flight was to New York. Radiation load: ~0.03 – 0.08 mSv x 2. Plus the shorter flights.
 * 2023: Multiple flights, longest flight was to New York. Radiation load: ~0.03 – 0.08 mSv x 2. Plus the shorter flights.
+
+# Lifestyle Changes
+
+* 2026-02: Around Febuary 2026, I cut my coffee consumption by about 95%. I read a study about the effects of workplace coffee (cafe crema) on LDL-C. The filtering of these machines is more coarse than that of filters, meaning that harmful components stay in the coffee, increasing LDL-C. I continue drinking about 2-3 liters of Gyokuro green tea every day and almost nothing else.
 
 # Diseases & Accidents
 
@@ -652,13 +848,63 @@ Outcome: I ran a marathon that year and had some pain in my feet as a result of 
 
 # Treatments & Measures
 
+* 2026-05-28 Considering Combination Lipid-Lowering Therapy
+    * Considering 10 mg ezetimibe + 10 mg rosuvastatin daily as an intervention against the elevated Lp(a) (78 mg/dl), the LDL rebound to 150 mg/dl, and ApoB 115 mg/dl.
+    * Rationale: ezetimibe + rosuvastatin combinations are well-established and typically achieve ~50-60% LDL reduction. While statins do not lower Lp(a) directly (and may slightly raise it), aggressive LDL/ApoB lowering is the most evidence-backed way to reduce overall cardiovascular risk in someone with high Lp(a).
+    * Will discuss with Dr. Haas (Die Kardiologen Bad Nauheim) before starting.
+
+* 2026-05-28 Sardine Diet Plan (Short-Term Cut)
+    * Plan: ~8 cans of sardines per day plus 2 protein shakes for a couple of weeks, with the goal of a moderate caloric deficit to reduce body fat back toward 2022 levels.
+    * Math: 8 cans × 120 g × ~210 kcal/100 g (in oil) ≈ 2,016 kcal from sardines + ~240 kcal from shakes ≈ **~2,260 kcal/day total**. Against an estimated TEE of ~2,800 kcal/day (seca REE 1,841 × PAL ~1.5), that is a ~500-550 kcal/day deficit.
+    * Macros (approximate): ~265 g protein, ~110 g fat (very omega-3-heavy), low carb.
+    * Things I will monitor / mitigate:
+        * **Sodium**: ~3,200 mg/day from sardines, ~1.5× WHO upper limit. Will rinse cans and pick low-sodium varieties when available. Given my brachial BP just drifted up to 139/87, this matters.
+        * **Purines**: sardines are very purine-dense. Uric acid is already at 6.7 mg/dl (top of normal). Will hydrate well and stop the diet at any sign of joint pain.
+        * **Omega-3 / bleeding risk**: 10-15 g EPA+DHA/day is large, especially combined with my 100 mg daily aspirin. Will discuss aspirin discontinuation with Dr. Haas.
+        * **Calcium**: ~4,500 mg/day from bone-in sardines, plus my already-high vitamin D (92.48 ng/ml). Will pause vitamin D supplementation during the diet.
+
+* 2026-05-12 Thorough Cardiology Check at Die Kardiologen Bad Nauheim
+    * Comprehensive cardiology workup: resting ECG, stress ECG (bicycle ergometry up to 250 W), arteriograph (pulse wave analysis), spirometry, body composition (seca mBCA), and an extensive lab panel.
+    * **Headline results**: Cardiac function and vessel stiffness are excellent (PWVao 6.9 m/s, lung age 21, max load 250 W = 116% of target). No structural or rhythm concerns on ECG or stress test.
+    * **New findings to address**:
+        * **Lp(a) drifting up**: 78 mg/dl (May 2026) vs. 63 mg/dl (Oct 2025). Confirms the elevated genetic risk and that lifestyle changes won't fix it.
+        * **LDL rebound to 150 mg/dl** after the 110 mg/dl in Nov 2025, despite the coffee reduction. ApoB at 115 mg/dl high-normal.
+        * **Iron status borderline low** (Ferritin 41.4, Transferrinsättigung 13.6%). Likely transient effect of the blood donation 18 days earlier; will recheck.
+        * **Vitamin D too high** at 92.48 ng/ml — supplement dose needs reduction.
+        * **Total IgE elevated** at 105 kU/l ("allergy likely" range), despite no current symptoms.
+        * **Body fat creeping up**: 14.3% / 11 kg fat at 76.8 kg, vs. ~6% / 4-5 kg fat at peak fitness in 2022. Still in normal range but the trend is clearly toward more fat and less muscle. I will be more disciplined with diet and resistance training.
+* 2026-03 Adjustment of my Supplement Stack
+    * See the section "Daily Supplement Stack" below.
 * 2025-11 Lipoprotein A Lp(a) Reduction Measures
     * Planning to take L-lysine, L-proline, and vitamine C if the Pauling-Rath hypothesis turns out to be worth a try.
     * Considering PCSK9 inhibitors.
     * -> No action taken against Lp(a) yet.
 
-# A Note on Optimal Levels
+# Daily Supplement Stack (Since March 2026)
 
+**Morning:**
+
+* 100 mg aspirin
+* 4,000–20,000 IU vitamin D
+* 320 mg saw palmetto extract (20:1)
+* 1 g omega-3 algae oil (40% DHA)
+* 25 mg chelated zinc
+* 1 mg copper
+* 100 mg vitamin K2
+* 10 g creatine
+
+**Evening (occasional):**
+
+* 1–2 mg melatonin
+* Magnesium (variable dose)
+
+**Infrequently:**
+
+* ~1 tsp whey protein powder
+* ~1 tsp vegan protein powder
+* Vitamin C (powder form, variable dose, but usually pretty high)
+
+# A Note on Optimal Levels
 
 * LDL Cholesterol
     - **Evidence:** Large observational studies (like the _Denmark General Population Study_ and _Pittsburgh Healthcare System_ study) consistently find that all-cause mortality is lowest at **moderate levels** of LDL, typically between **$100\text{--}140\text{ mg/dL}$**.
@@ -669,15 +915,17 @@ Outcome: I ran a marathon that year and had some pain in my feet as a result of 
 
 # Summary of Lipid Panel
 
-The patient's cardiovascular profile is highly favorable regarding lifestyle-dependent factors (Triglycerides, LDL, HDL), showing a positive trend in 2025. However, the Lp(a) elevation represents a distinct, independent genetic risk factor that he is currently monitoring but has not yet actively treated.
+Timeline: the Apr 2025 panel was high (LDL 135), the Nov 2025 panel had improved (LDL 110, total 188), then in Feb 2026 I cut cafe-crema-style workplace coffee by ~95%. The May 2026 panel is the first reading after that lifestyle change — and despite the coffee reduction, total cholesterol and LDL **rebounded** to 215 and 150 mg/dl respectively. So the LDL improvement seen in Nov 2025 was probably not driven by coffee. The Lp(a) elevation, separately, is a genetic risk factor and remains the single largest cardiovascular signal I am tracking.
 
-| Marker | April 01, 2025 | November 11, 2025 | Reference Range | Status (Nov) |
-| :--- | :--- | :--- | :--- | :--- |
-| **Total Cholesterol** | **232 mg/dl** (Elevated) | **188 mg/dl** | < 200 mg/dl | Normal |
-| **LDL** (Bad) | **135 mg/dl** (Elevated) | **110 mg/dl** | < 130 mg/dl | Normal |
-| **HDL** (Good) | 66 mg/dl | 57 mg/dl | > 40 mg/dl | Good |
-| **LDL/HDL Ratio** | 2.0 | 1.9 | < 3 | Excellent |
-| **Triglycerides** | 82 mg/dl | **49 mg/dl** | < 200 mg/dl | Excellent |
+| Marker | Apr 01, 2025 | Nov 11, 2025 | May 12, 2026 | Reference | Status (May) |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Total Cholesterol** | 232 mg/dl | 188 mg/dl | **215 mg/dl** | < 200 mg/dl | Borderline high |
+| **LDL** | 135 mg/dl | 110 mg/dl | **150 mg/dl** | < 116 mg/dl | Elevated |
+| **HDL** | 66 mg/dl | 57 mg/dl | 71 mg/dl | > 40 mg/dl | High (good) |
+| **Non-HDL** | — | — | 144 mg/dl | < 145 mg/dl | Borderline |
+| **Triglycerides** | 82 mg/dl | 49 mg/dl | 68 mg/dl | < 150 mg/dl | Excellent |
+| **Lp(a)** | — | — | **78 mg/dl** | < 36 mg/dl | High |
+| **Apolipoprotein B** | — | — | 115 mg/dl | 66-144 mg/dl | High-normal |
 
 
 
