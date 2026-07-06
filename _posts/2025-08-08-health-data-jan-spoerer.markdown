@@ -452,6 +452,10 @@ Ok -- I found one good reason to not publish one's health data -- if the data is
     * Phasenwinkel: 5.6 degrees.
 * Before 2022: Slowly, yet steadily built up to 75kg. Around 65kg in 2015, with increases in weight depending on how frequently I did strength training. Always very low fat.
 
+# Strength & Fitness Milestones
+
+* **2026-05-30: 20 consecutive strict pull-ups** in a single set. A significant milestone for me and a sign that I am currently in a good state of training. Together with the 2026-05-12 stress test (250 W = 116% of target, max HR 178, MET 12.9 — terminated on muscular, not cardiac, exhaustion), this places my overall fitness in a clearly strong window despite the recent uptick in body fat.
+
 # Blood Work (Blutbild)
 
 * 2026-05-12 (ordered by Die Kardiologen Bad Nauheim, lab: GANZIMMUN)
@@ -663,6 +667,55 @@ Ok -- I found one good reason to not publish one's health data -- if the data is
 
     * Thyroid Function
         * **TSH (Thyroid-Stimulating Hormone)**: 1.610 µU/ml (reference: 0.400-4.000)
+
+* 2023-05-22 (ordered by Dr. Harald Menker, my Hausarzt in Netphen; draw date 22.05.2023, printed 30.05.2023)
+    * Note on parsing: the source printout has a one-row column misalignment (units/values shifted). The values below are the realigned, corrected reading. Cross-checks confirm the correction: the WBC differential sums to exactly 100.0%, the lipids satisfy the Friedewald equation (LDL ≈ 190 − 53 − 107/5 = 115.6), and LDL/HDL = 115/53 = 2.2 matches the printed ratio.
+
+    * **Complete Blood Count**:
+        - Hämoglobin: 14.7 g/dl (reference: 14.0-17.5)
+        - Erythrozyten: 4.88 Mio/µl (reference: 4.50-5.90)
+        - Hämatokrit: 43.4% (reference: 40.0-52.0)
+        - MCV: 88.9 fl (reference: 80.0-96.0)
+        - MCH: 30.1 pg (reference: 28.0-33.0)
+        - MCHC: 33.9 g/dl (reference: 32.0-36.0)
+        - Leukozyten: 4.02 Tsd/µl (reference: 4.40-11.30) **[SLIGHTLY LOW]** — consistent with my generally low-normal WBC (4.55 in Apr 2025, 4.2 in May 2026)
+        - Thrombozyten: 148 Tsd/µl (reference: 140-440)
+        - Neutrophile: 47.6% (reference: 38.9-75.1)
+        - Lymphozyten: 38.1% (reference: 12.8-43.9)
+        - Monozyten: 11.7% (reference: 4.4-12.3) — high-normal
+        - Eosinophile: 1.7% (reference: <7)
+        - Basophile: 0.7% (reference: <2.5)
+        - Unreife Granulozyten: 0.2% (reference: <0.6)
+
+    * **Inflammation**:
+        - BSG (ESR): 1 mm (reference: <15)
+
+    * **Diabetes Markers**:
+        - Glukose: 82 mg/dl (reference: 70-110)
+        - HbA1c: 5.46% (reference: <5.7)
+
+    * **Kidney Function**:
+        - Kreatinin: 1.02 mg/dl (reference: <1.20) — notably better than my later readings (1.27-1.30 in 2025-2026); supports the muscle/creatine-load confounder story, since kidney function itself was clearly normal here
+        - GFR CKD-EPI: 100 ml/min/1.73m² — also better than the later 73-86, same reason
+
+    * **Liver Function**:
+        - Gamma-GT: 16 U/l (reference: <55)
+        - GOT (AST): 25 U/l (reference: <35)
+        - GPT (ALT): 20 U/l (reference: <45)
+
+    * **Lipid Panel**:
+        - Gesamtcholesterin: 190 mg/dl (reference: <200)
+        - HDL-Cholesterin: 53 mg/dl (reference: >40)
+        - LDL-Cholesterin enzymatisch: 115 mg/dl (reference: <130)
+        - LDL/HDL Ratio: 2.2 (reference: <3)
+        - Triglyzeride: 107 mg/dl (reference: <200)
+        - (No Lp(a) measured at this draw.)
+
+    * **Electrolytes**:
+        - Kalium: 3.89 mmol/l (reference: 3.60-5.50)
+
+    * **Thyroid Function**:
+        - TSH: 2.345 µU/ml (reference: 0.400-4.000)
 
 # Blood Donations
 
@@ -956,17 +1009,17 @@ Given the lung age of 21, an excellent stress test (250 W = 116% of target, MET 
 
 # Summary of Lipid Panel
 
-Timeline: the Apr 2025 panel was high (LDL 135), the Nov 2025 panel had improved (LDL 110, total 188), then in Feb 2026 I cut cafe-crema-style workplace coffee by ~95%. The May 2026 panel is the first reading after that lifestyle change — and despite the coffee reduction, total cholesterol and LDL **rebounded** to 215 and 150 mg/dl respectively. So the LDL improvement seen in Nov 2025 was probably not driven by coffee. The Lp(a) elevation, separately, is a genetic risk factor and remains the single largest cardiovascular signal I am tracking.
+Timeline: the earliest data point is May 2023 (LDL 115, total 190) — so my LDL has been sitting in the 110-150 band for at least three years, and the May 2026 reading of 150 is the top of a long-standing range rather than a new event. The Apr 2025 panel was high (LDL 135), the Nov 2025 panel had improved (LDL 110, total 188), then in Feb 2026 I cut cafe-crema-style workplace coffee by ~95%. The May 2026 panel is the first reading after that lifestyle change — and despite the coffee reduction, total cholesterol and LDL **rebounded** to 215 and 150 mg/dl respectively. So the LDL improvement seen in Nov 2025 was probably not driven by coffee. The Lp(a) elevation, separately, is a genetic risk factor and remains the single largest cardiovascular signal I am tracking.
 
-| Marker | Apr 01, 2025 | Oct 08, 2025 | Nov 11, 2025 | May 12, 2026 | Reference | Status (May) |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Total Cholesterol** | 232 mg/dl | — | 188 mg/dl | **215 mg/dl** | < 200 mg/dl | Borderline high |
-| **LDL** | 135 mg/dl | — | 110 mg/dl | **150 mg/dl** | < 116 mg/dl | Elevated |
-| **HDL** | 66 mg/dl | — | 57 mg/dl | 71 mg/dl | > 40 mg/dl | High (good) |
-| **Non-HDL** | — | — | — | 144 mg/dl | < 145 mg/dl | Borderline |
-| **Triglycerides** | 82 mg/dl | — | 49 mg/dl | 68 mg/dl | < 150 mg/dl | Excellent |
-| **Lp(a)** | — | **63 mg/dl** *(ref <30)* | — | **78 mg/dl / 167 nmol/l** *(ref <36 / <75)* | (assay-dependent) | High |
-| **Apolipoprotein B** | — | — | — | 115 mg/dl | 66-144 mg/dl | High-normal |
+| Marker | May 22, 2023 | Apr 01, 2025 | Oct 08, 2025 | Nov 11, 2025 | May 12, 2026 | Reference | Status (May) |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **Total Cholesterol** | 190 mg/dl | 232 mg/dl | — | 188 mg/dl | **215 mg/dl** | < 200 mg/dl | Borderline high |
+| **LDL** | 115 mg/dl | 135 mg/dl | — | 110 mg/dl | **150 mg/dl** | < 116 mg/dl | Elevated |
+| **HDL** | 53 mg/dl | 66 mg/dl | — | 57 mg/dl | 71 mg/dl | > 40 mg/dl | High (good) |
+| **Non-HDL** | 137 mg/dl | — | — | — | 144 mg/dl | < 145 mg/dl | Borderline |
+| **Triglycerides** | 107 mg/dl | 82 mg/dl | — | 49 mg/dl | 68 mg/dl | < 150 mg/dl | Excellent |
+| **Lp(a)** | — | — | **63 mg/dl** *(ref <30)* | — | **78 mg/dl / 167 nmol/l** *(ref <36 / <75)* | (assay-dependent) | High |
+| **Apolipoprotein B** | — | — | — | — | 115 mg/dl | 66-144 mg/dl | High-normal |
 
 Note on Lp(a) trend: the Oct 2025 and May 2026 results used different reference ranges (<30 vs. <36 mg/dl), which strongly suggests different assays. The two readings are therefore not a clean apples-to-apples comparison, although both are clearly elevated (2.1× and 2.2× their respective upper-reference cutoffs). The April and November 2025 panels did not include Lp(a) — it was measured separately at the Oct 2025 draw.
 
