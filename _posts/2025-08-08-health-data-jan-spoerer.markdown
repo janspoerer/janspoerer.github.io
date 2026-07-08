@@ -94,82 +94,6 @@ Ok -- I found one good reason to not publish one's health data -- if the data is
     * Phasenwinkel: 6.4° (80th percentile)
     * Honest note: Weight is up about 6 kg from 2025 and body fat is roughly 6 kg higher than in 2022. Still firmly in the "normal" zone on every official metric (BMI, body fat %, visceral fat, muscle mass percentile), but the trend is real and I should address it.
 * 2025: Around 71kg. Lost muscle.
-* 2022-07: Around 75kg. All-time peak weight. Very fit (high in muscle mass).
-* 2021-11-22 InBody Body Composition Analysis:
-    * 76/100 score.
-    * 48.6kg total water
-    * 13.2kg proteins
-    * -> Equals 62.6kg soft lean mass
-    * 4.5kg minerals.
-    * -> Equals 66.3kg lean body mass.
-    * 4.3kg fat.
-    * 70.6kg total weight.
-    * Muscle-fat analysis
-        * 37.7kg SSM (sceletal muscle mass)
-        * 4.3kg Body fat mass
-    * Fat analysis:
-        * 20.4 BMI
-        * 6.1% body fat
-        * 12.1 $VFB_{cm^2}$ visceral fat
-    * Segmented lean analysis:
-        * Right arm:
-            * 3.81kg
-            * 114.2% of baseline
-        * Left arm:
-            * 3.71kg
-            * 110.4% of baseline
-        * Trunk:
-            * 29.0kg
-            * 108.1% of baseline
-        * Right leg:
-            * 10.72kg
-            * 114.8% of baseline
-        * Left leg:
-            * 10.67kg
-            * 114.2% of baseline
-    * Body water analysis:
-        * EZW/GKW ratio: 0.374 (normal)
-    * Changes:
-        * Weight increased from 66.1kg (2021-08-13) to 70.6kg
-        * Sceletal muscle mass increased from 34.2kg to 37.7kg
-        * Body fat percentage decreased from 8.1% to 6.1%.
-        * EZW/GKW ratio decreased from 0.378 to 0.374.
-    * Phasenwinkel: 6.2 degrees.
-* 2020-07-01 18:32 InBody Body Composition Analysis:
-    * 72/100 score.
-    * 46.3kg total water
-    * 12.3kg proteins
-    * -> Equals 59.4kg soft lean mass
-    * 4.26kg minerals.
-    * -> Equals 62.9kg lean body mass.
-    * 5.3kg fat.
-    * 68.2kg total weight.
-    * Muscle-fat analysis
-        * 35.3kg SSM (sceletal muscle mass)
-        * 5.3kg Body fat mass
-    * Fat analysis:
-        * 19.7 BMI
-        * 7.7% body fat
-        * 20.7 $VFB_{cm^2}$ visceral fat
-    * Segmented lean analysis:
-        * Right arm:
-            * 3.63kg
-            * 111.8% of baseline
-        * Left arm:
-            * 3.50kg
-            * 107.9% of baseline
-        * Trunk:
-            * 27.8kg
-            * 107.2% of baseline
-        * Right leg:
-            * 10.54kg
-            * 116.8% of baseline
-        * Left leg:
-            * 10.45kg
-            * 115.9% of baseline
-    * Body water analysis:
-        * EZW/GKW ratio: 0.382 (normal)
-    * Phasenwinkel: 5.7 degrees.
 * 2023-03-11 20:34 InBody Body Composition Analysis:
     * 74/100 score.
     * 47.5kg total water
@@ -275,6 +199,7 @@ Ok -- I found one good reason to not publish one's health data -- if the data is
     * Body water analysis:
         * EZW/GKW ratio: 0.372 (normal)
     * Phasenwinkel: 6.4 degrees.
+* 2022-07: Around 75kg. All-time peak weight. Very fit (high in muscle mass).
 * 2022-06-15 21:35 InBody Body Composition Analysis (first measurement):
     * 83/100 score.
     * 50.5kg total water
@@ -415,6 +340,46 @@ Ok -- I found one good reason to not publish one's health data -- if the data is
     * Body water analysis:
         * EZW/GKW ratio: 0.375 (normal)
     * Phasenwinkel: 6.3 degrees.
+* 2021-11-22 InBody Body Composition Analysis:
+    * 76/100 score.
+    * 48.6kg total water
+    * 13.2kg proteins
+    * -> Equals 62.6kg soft lean mass
+    * 4.5kg minerals.
+    * -> Equals 66.3kg lean body mass.
+    * 4.3kg fat.
+    * 70.6kg total weight.
+    * Muscle-fat analysis
+        * 37.7kg SSM (sceletal muscle mass)
+        * 4.3kg Body fat mass
+    * Fat analysis:
+        * 20.4 BMI
+        * 6.1% body fat
+        * 12.1 $VFB_{cm^2}$ visceral fat
+    * Segmented lean analysis:
+        * Right arm:
+            * 3.81kg
+            * 114.2% of baseline
+        * Left arm:
+            * 3.71kg
+            * 110.4% of baseline
+        * Trunk:
+            * 29.0kg
+            * 108.1% of baseline
+        * Right leg:
+            * 10.72kg
+            * 114.8% of baseline
+        * Left leg:
+            * 10.67kg
+            * 114.2% of baseline
+    * Body water analysis:
+        * EZW/GKW ratio: 0.374 (normal)
+    * Changes:
+        * Weight increased from 66.1kg (2021-08-13) to 70.6kg
+        * Sceletal muscle mass increased from 34.2kg to 37.7kg
+        * Body fat percentage decreased from 8.1% to 6.1%.
+        * EZW/GKW ratio decreased from 0.378 to 0.374.
+    * Phasenwinkel: 6.2 degrees.
 * 2021-08-13 19:16 InBody Body Composition Analysis:
     * 70/100 score.
     * 44.7kg total water
@@ -450,6 +415,41 @@ Ok -- I found one good reason to not publish one's health data -- if the data is
     * Body water analysis:
         * EZW/GKW ratio: 0.378 (normal)
     * Phasenwinkel: 5.6 degrees.
+* 2020-07-01 18:32 InBody Body Composition Analysis:
+    * 72/100 score.
+    * 46.3kg total water
+    * 12.3kg proteins
+    * -> Equals 59.4kg soft lean mass
+    * 4.26kg minerals.
+    * -> Equals 62.9kg lean body mass.
+    * 5.3kg fat.
+    * 68.2kg total weight.
+    * Muscle-fat analysis
+        * 35.3kg SSM (sceletal muscle mass)
+        * 5.3kg Body fat mass
+    * Fat analysis:
+        * 19.7 BMI
+        * 7.7% body fat
+        * 20.7 $VFB_{cm^2}$ visceral fat
+    * Segmented lean analysis:
+        * Right arm:
+            * 3.63kg
+            * 111.8% of baseline
+        * Left arm:
+            * 3.50kg
+            * 107.9% of baseline
+        * Trunk:
+            * 27.8kg
+            * 107.2% of baseline
+        * Right leg:
+            * 10.54kg
+            * 116.8% of baseline
+        * Left leg:
+            * 10.45kg
+            * 115.9% of baseline
+    * Body water analysis:
+        * EZW/GKW ratio: 0.382 (normal)
+    * Phasenwinkel: 5.7 degrees.
 * Before 2022: Slowly, yet steadily built up to 75kg. Around 65kg in 2015, with increases in weight depending on how frequently I did strength training. Always very low fat.
 
 # Strength & Fitness Milestones
@@ -806,17 +806,9 @@ Ok -- I found one good reason to not publish one's health data -- if the data is
 
 # X-Rays, Imaging, and Long-Haul Flights (for Radiation Load)
 
-## 2020-07-21 Dental X-Ray (Röntgenbild Gebiss)
-
-Estimated radiation load: 0.02 – 0.2 mSv. 
-
-Outcome: Everything ok in the mouth.
-
-![2020-07-21 Dental X-Ray](/assets/images/2020-07-21-dental-xray.jpg)
-
 ## 2025-12-16 Dental X-Ray (Röntgenbild Gebiss)
 
-Estimated radiation load: 0.02 – 0.2 mSv. 
+Estimated radiation load: 0.02 – 0.2 mSv.
 
 Outcome: Everything ok in the mouth.
 
@@ -831,6 +823,14 @@ Outcome: I ran a marathon that year and had some pain in my feet as a result of 
 ![2024-11-06 Left Foot X-Ray](/assets/images/2024-11-06-foot-xray-left.jpg)
 
 ![2024-11-06 Right Foot X-Ray](/assets/images/2024-11-06-foot-xray-right.jpg)
+
+## 2020-07-21 Dental X-Ray (Röntgenbild Gebiss)
+
+Estimated radiation load: 0.02 – 0.2 mSv.
+
+Outcome: Everything ok in the mouth.
+
+![2020-07-21 Dental X-Ray](/assets/images/2020-07-21-dental-xray.jpg)
 
 # Cardiovascular & Pulmonary Assessments
 
