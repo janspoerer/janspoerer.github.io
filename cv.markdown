@@ -54,6 +54,9 @@ jan.spoerer@whu.edu &#124; +49 171 5395666
     Implemented and maintained the internal chatbot. The chatbot has an on-the-fly anonymization and de-anonymization pipeline. Implemented anonymization methods for safe handling of customer data using external AI/LLM APIs.
   </li>
   <li style="list-style: none, position: relative; margin-left: -15px">
+    Implemented a system for monitoring users' token usage and alerting admins and users when certain thresholds are breached.
+  </li>
+  <li style="list-style: none, position: relative; margin-left: -15px">
     Automated internal processes using a suite of custom and open-source MCP servers. Developed Model Context Protocol (MCP) servers to connect to internal databases and other tools. Planned and implemented agents that now automate various open-ended and closed tasks. Unified existing automation processes using an agentic architecture, saving two developer FTEs.
   </li>
   <li style="list-style: none, position: relative; margin-left: -15px">
