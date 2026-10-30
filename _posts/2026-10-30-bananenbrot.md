@@ -7,6 +7,8 @@ tags: food
 is_series: false
 ---
 
+> Die Menge kann auch halbiert werden. Backzeit und Temperatur müssen je nach Ofen eventuell angepasst werden; den Kuchen beim Backen gut im Blick behalten. Die halbe Menge kann schon nach 30-35min fertig sein.
+
 1) Vermatschen:
     * 8 sehr reife Bananen
     * 200g Butter
