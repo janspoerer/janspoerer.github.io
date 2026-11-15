@@ -21,7 +21,7 @@ image_contact: "/assets/icons/contact.png"
 <p style="font-size: 35px; margin-bottom: -2px; margin-top: -15px"> Jan Spörer's CV </p>
 
 <p style="margin-bottom: 30px">
-Jan is a Ph.D.-level AI and software professional with experience in large corporations and startups.
+Jan is an AI and software professional with experience in large corporations and startups. He defended his Ph.D. thesis in computer science at the University of St. Gallen in August 2026.
 </p>
 
 ![Contact Icon]({{ page.image_contact }}){: style="float: left; margin-top: 12px; padding-top: 40px; padding: 0px; padding-right: 15px; max-width: 20px"}
@@ -220,9 +220,9 @@ administrators, banks, and execution agents/brokers.</li>
       St. Gallen, Switzerland
     </span>
 </p> <p style="text-align:left; position: relative; top:-16px">
-    Doctor of Computer Science (Ph.D.)
+    Ph.D. in Computer Science, thesis defended in August 2026
     <span style="float:right;">
-        Aug 2020 - April 2024
+        Aug 2020 - Aug 2026
     </span>
 </p> <ul style="margin-bottom: -10px;text-align: left; position: relative; top:-27px; padding-left: -10px, margin-left: -10px"> 
   <li style="list-style: none, position: relative; margin-left: -15px"> 
