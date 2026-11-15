@@ -311,38 +311,17 @@ using natural language processing (NLP).
 # ![Skills Icon]({{ page.image_skills }}){: style="float: left; margin-top: 12px; padding-top: 20px; padding: 0px; padding-right: 5px; max-width: 20px"}  Software & Language Skills
 
 <p style="padding-bottom:25px"> 
-  <b>General software:</b> Office 365/Excel/VBA/Visio/Sharepoint, Google Drive/Google Sheets, LaTeX/mathtools/biblatex/knitR, GNU/Linux/Ubuntu, macOS
+  <b>AI and LLM engineering:</b> agentic AI and Model Context Protocol (MCP), Claude Code and Codex, LLM APIs (AWS Bedrock, Anthropic Claude, and others), retrieval-augmented generation (RAG, GraphRAG), fine-tuning, LLM evaluation and benchmarking, local inference/NVIDIA CUDA, PyTorch
 
   <br>
   <br>
 
-  <b>Sales:</b> CRM systems/Hubspot, Dripify
+  <b>Machine learning and data science:</b> Python/NumPy/pandas/scikit-learn, natural language processing, computer vision, time series analysis, clustering, statistics, deep reinforcement learning, quantitative trading, Databricks, Tableau
 
   <br>
   <br>
 
-  <b>Artificial intelligence, analytics, data science, & machine learning:</b> AWS Bedrock (and various other LLM APIs), Model Context Protocol (MCP) and agentic AI, local inference/NVIDIA CUDA, Python/NumPy/pandas/scikit-learn/selenium/Quantopian/pytesseract/PyTorch, Tableau, Google Data Studio, Databricks
-
-  <br>
-  <br>
-
-  <b>Development tools:</b> bash/zsh, Git/GitHub/GitLab/Bitbucket, IntelliJ IDEA/VS Code
-
-  <br>
-  <br>
-
-  <b>Languages and frameworks:</b> pytest/test-driven development, Java/Spring/Spring Boot/Maven/Gradle/Tomcat/Junit, Containers/Docker/Kubernetes/OpenShift/AWS ECR, MongoDB/Atlas Cloud, SQL/DDL/MySQL/PostgreSQL, React/JavaScript, Angular/TypeScript, R3 Corda Certified Developer (2019)/Kotlin, Ruby/Rails, Keycloak, documentation/Swagger UI/Sphinx
-
-  <br>
-  <br>
-
-  <b>Development methods and concepts:</b> CI/CD (continuous integration and continuous delivery), cloud services with AWS/GCP, microservices, agile, scrum 
-
-  <br>
-  <br>
-
-  <b>Other competencies:</b> Machine learning, natural language processing (with projects at the University of St. Gallen as part of my Ph.D., European Central Bank, and AVS Valuation
-  GmbH), data cleaning, exploratory data analysis (EDA), quantitative trading (with projects at several quantitative asset managers), time series analysis, clustering, traditional statistics, deep reinforcement learning
+  <b>Software engineering:</b> Python/Flask, Java/Spring Boot, React/TypeScript/Angular, SQL/PostgreSQL/MySQL, DynamoDB/MongoDB, Docker/Kubernetes/OpenShift, AWS (Lambda, ECR, RDS, DynamoDB)/GCP, CI/CD, pytest/test-driven development, Git, Linux, LaTeX
 
   <br>
   <br>
