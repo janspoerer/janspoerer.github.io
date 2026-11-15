@@ -110,7 +110,7 @@ jan.spoerer@whu.edu &#124; +49 171 5395666
       Frankfurt, Germany
     </span>
 </p> <p style="text-align:left; position: relative; top:-16px">
-    Senior software developer in multiple divisions
+    Senior software developer in multiple divisions (full-time until April 2023, then part-time)
     <span style="float:right;">
         Aug 2020 - Oct 2023
     </span>
@@ -133,7 +133,7 @@ meetings, structured guidelines, and regular feedback sessions. </li>
       Pfäffikon, Switzerland
     </span>
 </p> <p style="text-align:left; position: relative; top:-16px">
-    Co-founder, data engineer
+    Co-founder, data engineer (part-time alongside Commerzbank, full-time from May 2023)
     <span style="float:right;">
         Jul 2020 - Sep 2023
     </span>
@@ -151,7 +151,7 @@ administrators, banks, and execution agents/brokers.</li>
       Nation-wide, Germany
     </span>
 </p> <p style="text-align:left; position: relative; top:-16px">
-    Finance and data science consultant, selected client projects:
+    Finance and data science consultant (mostly part-time), selected client projects:
     <span style="float:right;">
         Aug 2017 - Aug 2020
     </span>
@@ -172,7 +172,7 @@ administrators, banks, and execution agents/brokers.</li>
       Germany and Switzerland
     </span>
 </p> <p style="text-align:left; position: relative; top:-16px">
-    Co-founder, part of the “HSG Entrepreneurial Talent” program
+    Co-founder (full-time), part of the “HSG Entrepreneurial Talent” program
     <span style="float:right;">
         Jan 2018 - Oct 2019
     </span>
@@ -220,7 +220,7 @@ administrators, banks, and execution agents/brokers.</li>
       St. Gallen, Switzerland
     </span>
 </p> <p style="text-align:left; position: relative; top:-16px">
-    Ph.D. in Computer Science, thesis defended in August 2026
+    Ph.D. in Computer Science (part-time; full-time from October 2023 to February 2024), thesis defended in August 2026
     <span style="float:right;">
         Aug 2020 - Aug 2026
     </span>
@@ -250,7 +250,7 @@ using natural language processing (NLP).
       Frankfurt, Germany
     </span>
 </p> <p style="text-align:left; position: relative; top:-16px">
-    M.Sc. in Applied Data Science
+    M.Sc. in Applied Data Science (part-time)
     <span style="float:right;">
         Aug 2018 - May 2020
     </span> 
