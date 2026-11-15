@@ -51,6 +51,12 @@ jan.spoerer@whu.edu &#124; +49 171 5395666
 > 
 
   <li style="list-style: none, position: relative; margin-left: -15px">
+    Rolled out Claude Code to the development team and led the AI knowledge transfer: trained colleagues, who now present their own AI workflows to the team.
+  </li>
+  <li style="list-style: none, position: relative; margin-left: -15px">
+    Built an AI assistant integrated with the Odoo ERP system.
+  </li>
+  <li style="list-style: none, position: relative; margin-left: -15px">
     Implemented and maintained the internal chatbot. The chatbot has an on-the-fly anonymization and de-anonymization pipeline. Implemented anonymization methods for safe handling of customer data using external AI/LLM APIs.
   </li>
   <li style="list-style: none, position: relative; margin-left: -15px">
