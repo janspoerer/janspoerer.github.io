@@ -246,7 +246,16 @@ using natural language processing (NLP).
     <!-- https://scholar.google.com/scholar?cluster=3178424122535251637&hl=en&as_sdt=2005&sciodt=0,5 -->
   </li>
   <li style="list-style: none, position: relative; margin-left: -15px">
-    Publications in international scientific conferences and journals: <a href="https://dl.acm.org/doi/abs/10.1145/3677052.3698675">Kim et al. in ACM ICAIF New York (2024)</a>, <a href="https://www.scitepress.org/Papers/2024/128936/128936.pdf">Spörer et al. in KDIR in Porto (2024)</a>, <a href="https://books.google.de/books?hl=en&lr=&id=84uREQAAQBAJ&oi=fnd&pg=PR2&dq=Sp%C3%B6rer+et+al.+in+KDIR+in+Porto+(2024)&ots=HA87dgQjnc&sig=-mJ_3sOaObu5oWlarWAmCbWADqE&redir_esc=y#v=onepage&q&f=false">Bermeitinger et al. IC3K Springer Nature (book) (2024/2025)</a>, <a href="https://ieeexplore.ieee.org/document/11081504">Pop & Spörer in IEEE SDS in Zurich (2025)</a>, <a href="https://dl.acm.org/doi/abs/10.1145/3768292.3770417">Spörer in ACM ICAIF in Singapore (2025)</a>, Spörer, Gaus & Handschuh in the FinREM workshop in ACM ICAIF in Singapore (2025).
+    Publications (newest first):
+    <ul style="margin-top: 4px; margin-bottom: 0px;">
+      <li><b>Spörer</b> (2026). <a href="https://arxiv.org/abs/2608.08634">“Can Open-Weight Models Compete on Financial Text Comprehension?”</a> arXiv preprint; to be presented at FinLLM@IJCAI 2026.</li>
+      <li><b>Spörer</b> (2025). <a href="https://doi.org/10.1145/3768292.3770417">“Can AI Read Like a Financial Analyst? A Financial Touchstone for Frontier Language Models Such as Gemini 2.5 Pro, o3, and Grok 4 on Long-Context Annual Report Comprehension.”</a> ACM ICAIF 2025, Singapore.</li>
+      <li><b>Spörer</b>, Gaus &amp; Handschuh (2025). “Overcoming the Bottleneck – GraphRAG for Reliable Financial Annual Report Retrieval and Comprehension.” FinREM workshop at ACM ICAIF 2025, Singapore.</li>
+      <li>Pop &amp; <b>Spörer</b> (2025). <a href="https://doi.org/10.1109/SDS66131.2025.00025">“Identification of the Most Frequently Asked Questions in Financial Analyst Reports to Automate Equity Research Using Llama 3 and GPT-4.”</a> IEEE Swiss Conference on Data Science (SDS) 2025, Zurich.</li>
+      <li>Bermeitinger, Hrycej, <b>Spörer</b> &amp; Handschuh (2025). <a href="https://doi.org/10.1007/978-3-032-06878-1_2">“Subset Pretraining for Enhancing Neural Network Training Efficiency.”</a> IC3K 2024, Revised Selected Papers, Springer CCIS.</li>
+      <li><b>Spörer</b>, Bermeitinger, Hrycej, Limacher &amp; Handschuh (2024). <a href="https://doi.org/10.5220/0012893600003838">“Efficient Neural Network Training via Subset Pretraining.”</a> KDIR 2024, Porto.</li>
+      <li>Kim, <b>Spörer</b>, Lee &amp; Handschuh (2024). <a href="https://doi.org/10.1145/3677052.3698675">“Is Small Really Beautiful for Central Bank Communication? Evaluating Language Models for Finance: Llama-3-70B, GPT-4, FinBERT-FOMC, FinBERT, and VADER.”</a> ACM ICAIF 2024, New York.</li>
+    </ul>
   </li>
 </ul>
 
