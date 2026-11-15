@@ -51,16 +51,16 @@ jan.spoerer@whu.edu &#124; +49 171 5395666
 > 
 
   <li style="list-style: none, position: relative; margin-left: -15px">
-    Rolled out Claude Code to the development team and led the AI knowledge transfer: trained colleagues, who now present their own AI workflows to the team.
+    Rolled out Claude Code, now used by 10 developers and 20 formerly non-technical colleagues, and led the AI knowledge transfer: trained colleagues, who now present their own AI workflows to the team.
   </li>
   <li style="list-style: none, position: relative; margin-left: -15px">
     Built an AI assistant integrated with the Odoo ERP system.
   </li>
   <li style="list-style: none, position: relative; margin-left: -15px">
-    Implemented and maintained the internal chatbot. The chatbot has an on-the-fly anonymization and de-anonymization pipeline. Implemented anonymization methods for safe handling of customer data using external AI/LLM APIs.
+    Implemented and maintained the internal chatbot (about 20 users). The chatbot has an on-the-fly anonymization and de-anonymization pipeline. Implemented anonymization methods for safe handling of customer data using external AI/LLM APIs.
   </li>
   <li style="list-style: none, position: relative; margin-left: -15px">
-    Implemented a system for monitoring users' token usage and alerting admins and users when certain thresholds are breached.
+    Implemented a system for monitoring token usage of 40 users and about 10 technical users, alerting admins and users when certain thresholds are breached.
   </li>
   <li style="list-style: none, position: relative; margin-left: -15px">
     Automated internal processes using a suite of custom and open-source MCP servers. Developed Model Context Protocol (MCP) servers to connect to internal databases and other tools. Planned and implemented agents that now automate various open-ended and closed tasks. Unified existing automation processes using an agentic architecture, saving two developer FTEs.
@@ -75,7 +75,7 @@ jan.spoerer@whu.edu &#124; +49 171 5395666
     Automated unstructured data processing using AI technologies: AWS Bedrock, AWS Agents (function calling), Anthropic Claude via AWS Bedrock.
   </li>
   <li style="list-style: none, position: relative; margin-left: -15px">
-    Categorized and visualized thousands of documents using AI function calling to evaluate process automation potential.
+    Categorized and visualized about 100,000 documents using AI function calling to evaluate process automation potential.
   </li>
   <li style="list-style: none, position: relative; margin-left: -15px">
     Created several React user interfaces that connect to internal databases and to the ERP system (Odoo).
