@@ -36,14 +36,14 @@ jan.spoerer@whu.edu &#124; +49 171 5395666
 
 # ![Work Icon]({{ page.image_work }}){: style="float: left; margin-top: 12px; padding-top: 20px; padding: 0px; padding-right: 5px; max-width: 20px"}  Professional Experience
 
-<p style="text-align:left;">
+<p style="text-align:left; display:flex; justify-content:space-between; gap:16px;">
     <b>HeizungsDiscount24 GmbH (E-Commerce)</b>
-    <span style="float:right;">
+    <span style="float:right; flex-shrink:0; text-align:right;">
       Giessen, Germany
     </span>
-</p> <p style="text-align:left; position: relative; top:-16px">
+</p> <p style="text-align:left; display:flex; justify-content:space-between; gap:16px; position: relative; top:-16px">
     Software & AI Developer
-    <span style="float:right;">
+    <span style="float:right; flex-shrink:0; text-align:right;">
         Mar 2024 - today
     </span>
 </p> <ul 
@@ -91,27 +91,27 @@ jan.spoerer@whu.edu &#124; +49 171 5395666
 
 </ul>
 
-<p style="text-align:left;">
+<p style="text-align:left; display:flex; justify-content:space-between; gap:16px;">
     <b>University of St. Gallen (HSG), Chair of Data Science and NLP</b>
-    <span style="float:right;">
+    <span style="float:right; flex-shrink:0; text-align:right;">
       St. Gallen, Switzerland
     </span>
-</p> <p style="text-align:left; position: relative; top:-16px; margin-bottom: 0px;">
+</p> <p style="text-align:left; display:flex; justify-content:space-between; gap:16px; position: relative; top:-16px; margin-bottom: 0px;">
     Full-time doctoral candidate
-    <span style="float:right;">
+    <span style="float:right; flex-shrink:0; text-align:right;">
         Oct 2023 - Feb 2024
     </span>
 </p>
 
 
-<p style="text-align:left;">
+<p style="text-align:left; display:flex; justify-content:space-between; gap:16px;">
     <b>Commerzbank AG (3 years)</b>
-    <span style="float:right;">
+    <span style="float:right; flex-shrink:0; text-align:right;">
       Frankfurt, Germany
     </span>
-</p> <p style="text-align:left; position: relative; top:-16px">
+</p> <p style="text-align:left; display:flex; justify-content:space-between; gap:16px; position: relative; top:-16px">
     Senior software developer in multiple divisions (full-time until April 2023, then part-time)
-    <span style="float:right;">
+    <span style="float:right; flex-shrink:0; text-align:right;">
         Aug 2020 - Oct 2023
     </span>
 </p> <ul style="margin-bottom: -10px; text-align:left; position: relative; top:-27px; padding-left: -10px"> <li style="list-style: none, position: relative; margin-left: -15px">
@@ -127,14 +127,14 @@ meetings, structured guidelines, and regular feedback sessions. </li>
 <li style="list-style: none, position: relative; margin-left: -15px">Created a process and data landscape for enterprise-internal data flows. Communicated with various departments to collect recommendations on optimizing the data landscape. Drawn insights about the improvement potential of current data processes.</li>
 </ul>
 
-<p style="text-align:left;">
+<p style="text-align:left; display:flex; justify-content:space-between; gap:16px;">
     <b>21e6 Capital AG (3 years)</b>
-    <span style="float:right;">
+    <span style="float:right; flex-shrink:0; text-align:right;">
       Pfäffikon, Switzerland
     </span>
-</p> <p style="text-align:left; position: relative; top:-16px">
+</p> <p style="text-align:left; display:flex; justify-content:space-between; gap:16px; position: relative; top:-16px">
     Co-founder, data engineer (part-time alongside Commerzbank, full-time from May 2023)
-    <span style="float:right;">
+    <span style="float:right; flex-shrink:0; text-align:right;">
         Jul 2020 - Sep 2023
     </span>
 </p> <ul style="margin-bottom: -10px;text-align: left; position: relative; top:-27px; padding-left: -10px, margin-left: -10px"> <li style="list-style: none, position: relative; margin-left: -15px">Established a Python-based data standardization process that aggregates data about investments,
@@ -145,14 +145,14 @@ points as the basis of the fund’s investment strategy.</li>
 administrators, banks, and execution agents/brokers.</li>
 </ul>
 
-<p style="text-align:left;">
+<p style="text-align:left; display:flex; justify-content:space-between; gap:16px;">
     <b>Freelancer (3 years)</b>
-    <span style="float:right;">
+    <span style="float:right; flex-shrink:0; text-align:right;">
       Nation-wide, Germany
     </span>
-</p> <p style="text-align:left; position: relative; top:-16px">
+</p> <p style="text-align:left; display:flex; justify-content:space-between; gap:16px; position: relative; top:-16px">
     Finance and data science consultant (mostly part-time), selected client projects:
-    <span style="float:right;">
+    <span style="float:right; flex-shrink:0; text-align:right;">
         Aug 2017 - Aug 2020
     </span>
 </p> <ul style="margin-bottom: -10px;text-align:left; position: relative; top:-27px; padding-left: -10px, margin-left: -10px"> <li style="list-style: none, position: relative; margin-left: -15px">
@@ -166,14 +166,14 @@ administrators, banks, and execution agents/brokers.</li>
   </li>
 </ul>
 
-<p style="text-align:left;">
+<p style="text-align:left; display:flex; justify-content:space-between; gap:16px;">
     <b>Sinpex Analytics GmbH (1.5 years)</b>
-    <span style="float:right;">
+    <span style="float:right; flex-shrink:0; text-align:right;">
       Germany and Switzerland
     </span>
-</p> <p style="text-align:left; position: relative; top:-16px">
+</p> <p style="text-align:left; display:flex; justify-content:space-between; gap:16px; position: relative; top:-16px">
     Co-founder (full-time), part of the “HSG Entrepreneurial Talent” program
-    <span style="float:right;">
+    <span style="float:right; flex-shrink:0; text-align:right;">
         Jan 2018 - Oct 2019
     </span>
 </p> <ul style="margin-bottom: -10px;text-align:left; position: relative; top:-27px; padding-left: -10px, margin-left: -10px"> <li style="list-style: none, position: relative; margin-left: -15px">
@@ -183,14 +183,14 @@ administrators, banks, and execution agents/brokers.</li>
   </li>
 </ul>
 
-<p style="text-align:left;">
+<p style="text-align:left; display:flex; justify-content:space-between; gap:16px;">
     <b>Deutsche Beteiligungs AG</b>
-    <span style="float:right;">
+    <span style="float:right; flex-shrink:0; text-align:right;">
       Frankfurt, Germany
     </span>
-</p> <p style="text-align:left; position: relative; top:-16px">
+</p> <p style="text-align:left; display:flex; justify-content:space-between; gap:16px; position: relative; top:-16px">
     Private equity intern
-    <span style="float:right;">
+    <span style="float:right; flex-shrink:0; text-align:right;">
         May - Aug 2017
     </span>
 </p> <ul style="margin-bottom: -10px;text-align:left; position: relative; top:-27px; padding-left: -10px, margin-left: -10px"> <li style="list-style: none, position: relative; margin-left: -15px">
@@ -200,28 +200,28 @@ administrators, banks, and execution agents/brokers.</li>
   </li>
 </ul>
 
-<p style="text-align:left;">
+<p style="text-align:left; display:flex; justify-content:space-between; gap:16px;">
     <b>Deloitte Consulting GmbH & KPMG AG</b>
-    <span style="float:right;">
+    <span style="float:right; flex-shrink:0; text-align:right;">
       Frankfurt, Germany
     </span>
-</p> <p style="text-align:left; position: relative; top:-16px">
+</p> <p style="text-align:left; display:flex; justify-content:space-between; gap:16px; position: relative; top:-16px">
     Two financial services consulting internships during the summer
-    <span style="float:right;">
+    <span style="float:right; flex-shrink:0; text-align:right;">
         May - Aug 2016
     </span>
 </p>
 
 # ![Education Icon]({{ page.image_education }}){: style="float: left; margin-top: 12px; padding-top: 20px; padding: 0px; padding-right: 5px; max-width: 20px"}  Education
 
-<p style="text-align:left;">
+<p style="text-align:left; display:flex; justify-content:space-between; gap:16px;">
     <b>University of St. Gallen (HSG), Chair of Data Science and NLP</b>
-    <span style="float:right;">
+    <span style="float:right; flex-shrink:0; text-align:right;">
       St. Gallen, Switzerland
     </span>
-</p> <p style="text-align:left; position: relative; top:-16px">
+</p> <p style="text-align:left; display:flex; justify-content:space-between; gap:16px; position: relative; top:-16px">
     Ph.D. in Computer Science (part-time; full-time from October 2023 to February 2024), thesis defended in August 2026
-    <span style="float:right;">
+    <span style="float:right; flex-shrink:0; text-align:right;">
         Aug 2020 - Aug 2026
     </span>
 </p> <ul style="margin-bottom: -10px;text-align: left; position: relative; top:-27px; padding-left: -10px, margin-left: -10px"> 
@@ -244,14 +244,14 @@ using natural language processing (NLP).
   </li>
 </ul>
 
-<p style="text-align:left;">
+<p style="text-align:left; display:flex; justify-content:space-between; gap:16px;">
     <b>Frankfurt School of Finance & Management</b>
-    <span style="float:right;">
+    <span style="float:right; flex-shrink:0; text-align:right;">
       Frankfurt, Germany
     </span>
-</p> <p style="text-align:left; position: relative; top:-16px">
+</p> <p style="text-align:left; display:flex; justify-content:space-between; gap:16px; position: relative; top:-16px">
     M.Sc. in Applied Data Science (part-time)
-    <span style="float:right;">
+    <span style="float:right; flex-shrink:0; text-align:right;">
         Aug 2018 - May 2020
     </span> 
 </p> <ul style="margin-bottom: -10px;text-align: left; position: relative; top:-27px; padding-left: -10px, margin-left: -10px"><li style="list-style: none, position: relative; margin-left: -15px">Selected courses: Data Analytics, Machine Learning, Deep Learning, NLP
@@ -262,14 +262,14 @@ using natural language processing (NLP).
   </li>
 </ul>
 
-<p style="text-align:left;">
+<p style="text-align:left; display:flex; justify-content:space-between; gap:16px;">
     <b>WHU – Otto Beisheim School of Management</b>
-    <span style="float:right;">
+    <span style="float:right; flex-shrink:0; text-align:right;">
       Vallendar, Germany
     </span>
-</p> <p style="text-align:left; position: relative; top:-16px">
+</p> <p style="text-align:left; display:flex; justify-content:space-between; gap:16px; position: relative; top:-16px">
     B.Sc. in International Business Administration
-    <span style="float:right;">
+    <span style="float:right; flex-shrink:0; text-align:right;">
         Sep 2014 - May 2017
     </span>
 </p> <ul style="margin-bottom: -10px;text-align: left; position: relative; top:-27px; padding-left: -10px, margin-left: -10px"> <li style="list-style: none, position: relative; margin-left: -15px">
@@ -281,14 +281,14 @@ using natural language processing (NLP).
     </li>
 </ul>
 
-<p style="text-align:left;">
+<p style="text-align:left; display:flex; justify-content:space-between; gap:16px;">
     <b>American University</b>
-    <span style="float:right;">
+    <span style="float:right; flex-shrink:0; text-align:right;">
       Washington, D.C., USA
     </span>
-</p> <p style="text-align:left; position: relative; top:-16px">
+</p> <p style="text-align:left; display:flex; justify-content:space-between; gap:16px; position: relative; top:-16px">
     Semester abroad
-    <span style="float:right;">
+    <span style="float:right; flex-shrink:0; text-align:right;">
         Aug - Dec 2016
     </span>
 </p> 
