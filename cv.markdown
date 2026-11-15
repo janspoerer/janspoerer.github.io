@@ -42,7 +42,7 @@ jan.spoerer@whu.edu &#124; +49 171 5395666
       Giessen, Germany
     </span>
 </p> <p style="text-align:left; display:flex; justify-content:space-between; gap:16px; position: relative; top:-16px">
-    Software & AI Developer
+    AI Engineer
     <span style="float:right; flex-shrink:0; text-align:right;">
         Mar 2024 - today
     </span>
